@@ -6,12 +6,12 @@
         {
           "name": "Gnomish Compass [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Gnomish Compass"
         },
         {
           "name": "Pocket Sand [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Pocket Sand"
         }
       ],
       "achievements": []
@@ -27,7 +27,7 @@
         {
           "name": "Wooden Sword [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Wooden Sword"
         }
       ],
       "achievements": []
@@ -38,27 +38,27 @@
         {
           "name": "Healing Potion [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Healing Potion"
         },
         {
           "name": "Rusty Spoon of Minor Stirring [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Rusty Spoon of Minor Stirring"
         },
         {
           "name": "Cracked Goblin Tooth [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Cracked Goblin Tooth"
         },
         {
           "name": "Bag of Holding... Grudges [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Bag of Holding... Grudges"
         },
         {
           "name": "Cape of Dramatic Wind [Rare]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Rare item: Cape of Dramatic Wind"
         }
       ],
       "achievements": []
@@ -69,43 +69,43 @@
         {
           "name": "Iron Shield [Uncommon]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Iron Shield"
         },
         {
           "name": "Healing Potion [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Healing Potion"
         },
         {
           "name": "Wooden Sword [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Wooden Sword"
         },
         {
           "name": "Ring of Insight [Rare]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Rare item: Ring of Insight"
         },
         {
           "name": "Pocket Lint [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Pocket Lint"
         },
         {
           "name": "Mirror of Unexpected Encouragement [Epic]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Epic item: Mirror of Unexpected Encouragement"
         },
         {
           "name": "Bag of Holding... Grudges [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Bag of Holding... Grudges"
         }
       ],
       "achievements": [
         {
           "title": "Subathon Birthday '25_event",
-          "description": ""
+          "description": "Achievement: Subathon Birthday '25_event"
         }
       ]
     },
@@ -115,100 +115,100 @@
         {
           "name": "Healing Potion [Common]",
           "count": 2,
-          "flavor_text": ""
+          "flavor_text": "Common item: Healing Potion"
         },
         {
           "name": "Wooden Sword [Common]",
           "count": 2,
-          "flavor_text": ""
+          "flavor_text": "Common item: Wooden Sword"
         },
         {
           "name": "Mystic Blade [Rare]",
           "count": 2,
-          "flavor_text": ""
+          "flavor_text": "Rare item: Mystic Blade"
         },
         {
           "name": "Speed Boots [Uncommon]",
           "count": 3,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Speed Boots"
         },
         {
           "name": "Wooden Sword [Common]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Wooden Sword"
         },
         {
           "name": "Healing Potion [Common]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Healing Potion"
         },
         {
           "name": "Sock of Slight Warmth [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Sock of Slight Warmth"
         },
         {
           "name": "Rusty Spoon of Minor Stirring [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Rusty Spoon of Minor Stirring"
         },
         {
           "name": "Cursed Mirror Shard [Uncommon]",
           "count": 2,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Cursed Mirror Shard"
         },
         {
           "name": "Spectacles of Overthinking [Rare]",
           "count": 2,
-          "flavor_text": ""
+          "flavor_text": "Rare item: Spectacles of Overthinking"
         },
         {
           "name": "Cracked Goblin Tooth [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Cracked Goblin Tooth"
         },
         {
           "name": "Pocket Sand [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Pocket Sand"
         },
         {
           "name": "Bag of Holding... Grudges [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Bag of Holding... Grudges"
         },
         {
           "name": "Cape of Dramatic Wind [Rare]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Rare item: Cape of Dramatic Wind"
         },
         {
           "name": "Cursed Mirror Shard [Uncommon]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Cursed Mirror Shard"
         },
         {
           "name": "Gnomish Compass [Uncommon]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Gnomish Compass"
         }
       ],
       "achievements": [
         {
           "title": "First Steps",
-          "description": ""
+          "description": "Achievement: First Steps"
         },
         {
           "title": "Seasoned Explorer",
-          "description": ""
+          "description": "Achievement: Seasoned Explorer"
         },
         {
           "title": "5 Years_event",
-          "description": ""
+          "description": "Achievement: 5 Years_event"
         },
         {
           "title": "Subathon Birthday '25_event",
-          "description": ""
+          "description": "Achievement: Subathon Birthday '25_event"
         }
       ]
     },
@@ -218,7 +218,7 @@
       "achievements": [
         {
           "title": "Subathon Birthday '25_event",
-          "description": ""
+          "description": "Achievement: Subathon Birthday '25_event"
         }
       ]
     },
@@ -228,7 +228,7 @@
       "achievements": [
         {
           "title": "5 Years_event",
-          "description": ""
+          "description": "Achievement: 5 Years_event"
         }
       ]
     },
@@ -238,7 +238,7 @@
         {
           "name": "Pocket Sand [Common]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Pocket Sand"
         }
       ],
       "achievements": []
@@ -249,7 +249,7 @@
         {
           "name": "Cursed Mirror Shard [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Cursed Mirror Shard"
         }
       ],
       "achievements": []
@@ -260,11 +260,11 @@
       "achievements": [
         {
           "title": "5 Years_event",
-          "description": ""
+          "description": "Achievement: 5 Years_event"
         },
         {
           "title": "Subathon Birthday '25_event",
-          "description": ""
+          "description": "Achievement: Subathon Birthday '25_event"
         }
       ]
     },
@@ -274,17 +274,17 @@
         {
           "name": "Iron Shield [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Iron Shield"
         },
         {
           "name": "Rusty Spoon of Minor Stirring [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Rusty Spoon of Minor Stirring"
         },
         {
           "name": "Pocket Sand [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Pocket Sand"
         }
       ],
       "achievements": []
@@ -295,7 +295,7 @@
       "achievements": [
         {
           "title": "5 Years_event",
-          "description": ""
+          "description": "Achievement: 5 Years_event"
         }
       ]
     },
@@ -305,7 +305,7 @@
       "achievements": [
         {
           "title": "5 Years_event",
-          "description": ""
+          "description": "Achievement: 5 Years_event"
         }
       ]
     },
@@ -315,12 +315,12 @@
         {
           "name": "Healing Potion [Common]",
           "count": 2,
-          "flavor_text": ""
+          "flavor_text": "Common item: Healing Potion"
         },
         {
           "name": "Speed Boots [Uncommon]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Speed Boots"
         },
         {
           "name": "Phoenix Feather [Epic]",
@@ -330,37 +330,37 @@
         {
           "name": "Speed Boots [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Speed Boots"
         },
         {
           "name": "Wooden Sword [Common]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Wooden Sword"
         },
         {
           "name": "Mystic Blade [Rare]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Rare item: Mystic Blade"
         },
         {
           "name": "Gnomish Compass [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Gnomish Compass"
         },
         {
           "name": "Pocket Sand [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Pocket Sand"
         }
       ],
       "achievements": [
         {
           "title": "First Steps",
-          "description": ""
+          "description": "Achievement: First Steps"
         },
         {
           "title": "Subathon Birthday '25_event",
-          "description": ""
+          "description": "Achievement: Subathon Birthday '25_event"
         }
       ]
     },
@@ -370,22 +370,22 @@
         {
           "name": "Wooden Sword [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Wooden Sword"
         },
         {
           "name": "Speed Boots [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Speed Boots"
         },
         {
           "name": "Ring of Insight [Rare]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Rare item: Ring of Insight"
         },
         {
           "name": "Pocket Lint [Common]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Pocket Lint"
         }
       ],
       "achievements": []
@@ -396,51 +396,51 @@
         {
           "name": "Healing Potion [Common]",
           "count": 2,
-          "flavor_text": ""
+          "flavor_text": "Common item: Healing Potion"
         },
         {
           "name": "Iron Shield [Uncommon]",
           "count": 2,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Iron Shield"
         },
         {
           "name": "Sock of Slight Warmth [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Sock of Slight Warmth"
         },
         {
           "name": "Cracked Goblin Tooth [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Cracked Goblin Tooth"
         },
         {
           "name": "Sword of 1000 Apologies [Legendary]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Legendary item: Sword of 1000 Apologies"
         },
         {
           "name": "Pocket Sand [Common]",
           "count": 2,
-          "flavor_text": ""
+          "flavor_text": "Common item: Pocket Sand"
         },
         {
           "name": "Pocket Lint [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Pocket Lint"
         }
       ],
       "achievements": [
         {
           "title": "First Steps",
-          "description": ""
+          "description": "Achievement: First Steps"
         },
         {
           "title": "5 Years_event",
-          "description": ""
+          "description": "Achievement: 5 Years_event"
         },
         {
           "title": "Subathon Birthday '25_event",
-          "description": ""
+          "description": "Achievement: Subathon Birthday '25_event"
         }
       ]
     },
@@ -450,27 +450,27 @@
         {
           "name": "Iron Shield [Uncommon]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Iron Shield"
         },
         {
           "name": "Healing Potion [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Healing Potion"
         },
         {
           "name": "Iron Shield [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Iron Shield"
         },
         {
           "name": "Cracked Goblin Tooth [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Cracked Goblin Tooth"
         },
         {
           "name": "Sock of Slight Warmth [Common]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Sock of Slight Warmth"
         }
       ],
       "achievements": []
@@ -481,7 +481,7 @@
         {
           "name": "Iron Shield [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Iron Shield"
         }
       ],
       "achievements": []
@@ -492,7 +492,7 @@
         {
           "name": "Pocket Lint [Common]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Pocket Lint"
         }
       ],
       "achievements": []
@@ -503,22 +503,22 @@
         {
           "name": "Wooden Sword [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Wooden Sword"
         },
         {
           "name": "Speed Boots [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Speed Boots"
         }
       ],
       "achievements": [
         {
           "title": "5 Years_event",
-          "description": ""
+          "description": "Achievement: 5 Years_event"
         },
         {
           "title": "Subathon Birthday '25_event",
-          "description": ""
+          "description": "Achievement: Subathon Birthday '25_event"
         }
       ]
     },
@@ -528,32 +528,32 @@
         {
           "name": "Speed Boots [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Speed Boots"
         },
         {
           "name": "Cracked Goblin Tooth [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Cracked Goblin Tooth"
         },
         {
           "name": "Pocket Lint [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Pocket Lint"
         },
         {
           "name": "Pocket Lint [Common]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Pocket Lint"
         }
       ],
       "achievements": [
         {
           "title": "5 Years_event",
-          "description": ""
+          "description": "Achievement: 5 Years_event"
         },
         {
           "title": "Subathon Birthday '25_event",
-          "description": ""
+          "description": "Achievement: Subathon Birthday '25_event"
         }
       ]
     },
@@ -563,18 +563,18 @@
         {
           "name": "Healing Potion [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Healing Potion"
         },
         {
           "name": "Pocket Sand [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Pocket Sand"
         }
       ],
       "achievements": [
         {
           "title": "Subathon Birthday '25_event",
-          "description": ""
+          "description": "Achievement: Subathon Birthday '25_event"
         }
       ]
     },
@@ -584,27 +584,27 @@
         {
           "name": "Wooden Sword [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Wooden Sword"
         },
         {
           "name": "Ring of Insight [Rare]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Rare item: Ring of Insight"
         },
         {
           "name": "Bag of Holding... Grudges [Uncommon]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Bag of Holding... Grudges"
         }
       ],
       "achievements": [
         {
           "title": "5 Years_event",
-          "description": ""
+          "description": "Achievement: 5 Years_event"
         },
         {
           "title": "Subathon Birthday '25_event",
-          "description": ""
+          "description": "Achievement: Subathon Birthday '25_event"
         }
       ]
     },
@@ -614,22 +614,22 @@
         {
           "name": "Healing Potion [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Healing Potion"
         },
         {
           "name": "Wooden Sword [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Wooden Sword"
         },
         {
           "name": "Speed Boots [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Speed Boots"
         },
         {
           "name": "Rusty Spoon of Minor Stirring [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Rusty Spoon of Minor Stirring"
         }
       ],
       "achievements": []
@@ -640,7 +640,7 @@
         {
           "name": "Spectacles of Overthinking [Rare]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Rare item: Spectacles of Overthinking"
         }
       ],
       "achievements": []
@@ -651,91 +651,91 @@
         {
           "name": "Iron Shield [Uncommon]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Iron Shield"
         },
         {
           "name": "Healing Potion [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Healing Potion"
         },
         {
           "name": "Wooden Sword [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Wooden Sword"
         },
         {
           "name": "Speed Boots [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Speed Boots"
         },
         {
           "name": "Healing Potion [Common]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Healing Potion"
         },
         {
           "name": "Ring of Insight [Rare]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Rare item: Ring of Insight"
         },
         {
           "name": "Sock of Slight Warmth [Common]",
           "count": 2,
-          "flavor_text": ""
+          "flavor_text": "Common item: Sock of Slight Warmth"
         },
         {
           "name": "Rusty Spoon of Minor Stirring [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Rusty Spoon of Minor Stirring"
         },
         {
           "name": "Cursed Mirror Shard [Uncommon]",
           "count": 2,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Cursed Mirror Shard"
         },
         {
           "name": "Gnomish Compass [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Gnomish Compass"
         },
         {
           "name": "Pocket Lint [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Pocket Lint"
         },
         {
           "name": "Sock of Slight Warmth [Common]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Sock of Slight Warmth"
         },
         {
           "name": "Mirror of Unexpected Encouragement [Epic]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Epic item: Mirror of Unexpected Encouragement"
         },
         {
           "name": "Cursed Plush of Encouragement [Epic]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Epic item: Cursed Plush of Encouragement"
         },
         {
           "name": "Cracked Goblin Tooth [Common]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Cracked Goblin Tooth"
         }
       ],
       "achievements": [
         {
           "title": "First Steps",
-          "description": ""
+          "description": "Achievement: First Steps"
         },
         {
           "title": "5 Years_event",
-          "description": ""
+          "description": "Achievement: 5 Years_event"
         },
         {
           "title": "Subathon Birthday '25_event",
-          "description": ""
+          "description": "Achievement: Subathon Birthday '25_event"
         }
       ]
     },
@@ -745,23 +745,23 @@
         {
           "name": "Healing Potion [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Healing Potion"
         },
         {
           "name": "Wooden Sword [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Wooden Sword"
         },
         {
           "name": "Gnomish Compass [Uncommon]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Gnomish Compass"
         }
       ],
       "achievements": [
         {
           "title": "Subathon Birthday '25_event",
-          "description": ""
+          "description": "Achievement: Subathon Birthday '25_event"
         }
       ]
     },
@@ -771,7 +771,7 @@
         {
           "name": "Speed Boots [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Speed Boots"
         }
       ],
       "achievements": []
@@ -782,42 +782,42 @@
         {
           "name": "Healing Potion [Common]",
           "count": 2,
-          "flavor_text": ""
+          "flavor_text": "Common item: Healing Potion"
         },
         {
           "name": "Iron Shield [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Iron Shield"
         },
         {
           "name": "Sock of Slight Warmth [Common]",
           "count": 2,
-          "flavor_text": ""
+          "flavor_text": "Common item: Sock of Slight Warmth"
         },
         {
           "name": "Pocket Sand [Common]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Pocket Sand"
         },
         {
           "name": "Cracked Goblin Tooth [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Cracked Goblin Tooth"
         },
         {
           "name": "Pocket Lint [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Pocket Lint"
         }
       ],
       "achievements": [
         {
           "title": "First Steps",
-          "description": ""
+          "description": "Achievement: First Steps"
         },
         {
           "title": "Subathon Birthday '25_event",
-          "description": ""
+          "description": "Achievement: Subathon Birthday '25_event"
         }
       ]
     },
@@ -827,7 +827,7 @@
         {
           "name": "Pocket Sand [Common]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Pocket Sand"
         }
       ],
       "achievements": []
@@ -838,13 +838,13 @@
         {
           "name": "Gnomish Compass [Uncommon]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Gnomish Compass"
         }
       ],
       "achievements": [
         {
           "title": "5 Years_event",
-          "description": ""
+          "description": "Achievement: 5 Years_event"
         }
       ]
     },
@@ -854,47 +854,47 @@
         {
           "name": "Healing Potion [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Healing Potion"
         },
         {
           "name": "Iron Shield [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Iron Shield"
         },
         {
           "name": "Wooden Sword [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Wooden Sword"
         },
         {
           "name": "Healing Potion [Common]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Healing Potion"
         },
         {
           "name": "Potion of Almost Invisibility [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Potion of Almost Invisibility"
         },
         {
           "name": "Spectacles of Overthinking [Rare]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Rare item: Spectacles of Overthinking"
         },
         {
           "name": "Cracked Goblin Tooth [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Cracked Goblin Tooth"
         },
         {
           "name": "Pocket Lint [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Pocket Lint"
         },
         {
           "name": "Rusty Spoon of Minor Stirring [Common]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Rusty Spoon of Minor Stirring"
         }
       ],
       "achievements": []
@@ -905,7 +905,7 @@
         {
           "name": "Pocket Sand [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Pocket Sand"
         }
       ],
       "achievements": []
@@ -916,17 +916,17 @@
         {
           "name": "Iron Shield [Uncommon]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Iron Shield"
         },
         {
           "name": "Iron Shield [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Iron Shield"
         },
         {
           "name": "Speed Boots [Uncommon]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Speed Boots"
         },
         {
           "name": "Phoenix Feather [Epic]",
@@ -936,37 +936,37 @@
         {
           "name": "Speed Boots [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Speed Boots"
         },
         {
           "name": "Ring of Insight [Rare]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Rare item: Ring of Insight"
         },
         {
           "name": "Cursed Mirror Shard [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Cursed Mirror Shard"
         },
         {
           "name": "Crown of Eternity [Legendary]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Legendary item: Crown of Eternity"
         },
         {
           "name": "Cape of Dramatic Wind [Rare]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Rare item: Cape of Dramatic Wind"
         }
       ],
       "achievements": [
         {
           "title": "First Steps",
-          "description": ""
+          "description": "Achievement: First Steps"
         },
         {
           "title": "5 Years_event",
-          "description": ""
+          "description": "Achievement: 5 Years_event"
         }
       ]
     },
@@ -976,7 +976,7 @@
         {
           "name": "Iron Shield [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Iron Shield"
         }
       ],
       "achievements": []
@@ -987,23 +987,23 @@
         {
           "name": "Healing Potion [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Healing Potion"
         },
         {
           "name": "Cracked Goblin Tooth [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Cracked Goblin Tooth"
         },
         {
           "name": "Cape of Dramatic Wind [Rare]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Rare item: Cape of Dramatic Wind"
         }
       ],
       "achievements": [
         {
           "title": "Subathon Birthday '25_event",
-          "description": ""
+          "description": "Achievement: Subathon Birthday '25_event"
         }
       ]
     },
@@ -1013,27 +1013,27 @@
         {
           "name": "Iron Shield [Uncommon]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Iron Shield"
         },
         {
           "name": "Healing Potion [Common]",
           "count": 5,
-          "flavor_text": ""
+          "flavor_text": "Common item: Healing Potion"
         },
         {
           "name": "Iron Shield [Uncommon]",
           "count": 2,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Iron Shield"
         },
         {
           "name": "Wooden Sword [Common]",
           "count": 5,
-          "flavor_text": ""
+          "flavor_text": "Common item: Wooden Sword"
         },
         {
           "name": "Speed Boots [Uncommon]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Speed Boots"
         },
         {
           "name": "Phoenix Feather [Epic]",
@@ -1043,84 +1043,84 @@
         {
           "name": "Mystic Blade [Rare]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Rare item: Mystic Blade"
         },
         {
           "name": "Speed Boots [Uncommon]",
           "count": 3,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Speed Boots"
         },
         {
           "name": "Wooden Sword [Common]_shiny",
           "count": 3,
-          "flavor_text": ""
+          "flavor_text": "Common item: Wooden Sword"
         },
         {
           "name": "Mystic Blade [Rare]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Rare item: Mystic Blade"
         },
         {
           "name": "Amulet of Time [Epic]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Epic item: Amulet of Time"
         },
         {
           "name": "Sock of Slight Warmth [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Sock of Slight Warmth"
         },
         {
           "name": "Rusty Spoon of Minor Stirring [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Rusty Spoon of Minor Stirring"
         },
         {
           "name": "Potion of Almost Invisibility [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Potion of Almost Invisibility"
         },
         {
           "name": "Cursed Mirror Shard [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Cursed Mirror Shard"
         },
         {
           "name": "Gnomish Compass [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Gnomish Compass"
         },
         {
           "name": "Pocket Sand [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Pocket Sand"
         },
         {
           "name": "Mirror of Unexpected Encouragement [Epic]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Epic item: Mirror of Unexpected Encouragement"
         }
       ],
       "achievements": [
         {
           "title": "First Steps",
-          "description": ""
+          "description": "Achievement: First Steps"
         },
         {
           "title": "Influencer Badge_event",
-          "description": ""
+          "description": "Achievement: Influencer Badge_event"
         },
         {
           "title": "Seasoned Explorer",
-          "description": ""
+          "description": "Achievement: Seasoned Explorer"
         },
         {
           "title": "5 Years_event",
-          "description": ""
+          "description": "Achievement: 5 Years_event"
         },
         {
           "title": "Subathon Birthday '25_event",
-          "description": ""
+          "description": "Achievement: Subathon Birthday '25_event"
         }
       ]
     },
@@ -1130,12 +1130,12 @@
         {
           "name": "Pocket Sand [Common]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Pocket Sand"
         },
         {
           "name": "Cursed Mirror Shard [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Cursed Mirror Shard"
         }
       ],
       "achievements": []
@@ -1146,23 +1146,23 @@
         {
           "name": "Ring of Insight [Rare]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Rare item: Ring of Insight"
         },
         {
           "name": "Gnomish Compass [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Gnomish Compass"
         },
         {
           "name": "Cape of Dramatic Wind [Rare]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Rare item: Cape of Dramatic Wind"
         }
       ],
       "achievements": [
         {
           "title": "Subathon Birthday '25_event",
-          "description": ""
+          "description": "Achievement: Subathon Birthday '25_event"
         }
       ]
     },
@@ -1172,12 +1172,12 @@
         {
           "name": "Spectacles of Overthinking [Rare]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Rare item: Spectacles of Overthinking"
         },
         {
           "name": "Pocket Sand [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Pocket Sand"
         }
       ],
       "achievements": []
@@ -1188,7 +1188,7 @@
         {
           "name": "Cracked Goblin Tooth [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Cracked Goblin Tooth"
         }
       ],
       "achievements": []
@@ -1199,47 +1199,47 @@
         {
           "name": "Healing Potion [Common]",
           "count": 2,
-          "flavor_text": ""
+          "flavor_text": "Common item: Healing Potion"
         },
         {
           "name": "Iron Shield [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Iron Shield"
         },
         {
           "name": "Wooden Sword [Common]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Wooden Sword"
         },
         {
           "name": "Rusty Spoon of Minor Stirring [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Rusty Spoon of Minor Stirring"
         },
         {
           "name": "Potion of Almost Invisibility [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Potion of Almost Invisibility"
         },
         {
           "name": "Sock of Slight Warmth [Common]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Sock of Slight Warmth"
         },
         {
           "name": "Bag of Holding... Grudges [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Bag of Holding... Grudges"
         }
       ],
       "achievements": [
         {
           "title": "First Steps",
-          "description": ""
+          "description": "Achievement: First Steps"
         },
         {
           "title": "Subathon Birthday '25_event",
-          "description": ""
+          "description": "Achievement: Subathon Birthday '25_event"
         }
       ]
     },
@@ -1249,18 +1249,18 @@
         {
           "name": "Rusty Spoon of Minor Stirring [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Rusty Spoon of Minor Stirring"
         },
         {
           "name": "Cursed Mirror Shard [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Cursed Mirror Shard"
         }
       ],
       "achievements": [
         {
           "title": "5 Years_event",
-          "description": ""
+          "description": "Achievement: 5 Years_event"
         }
       ]
     },
@@ -1270,33 +1270,33 @@
         {
           "name": "Healing Potion [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Healing Potion"
         },
         {
           "name": "Wooden Sword [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Wooden Sword"
         },
         {
           "name": "Rusty Spoon of Minor Stirring [Common]",
           "count": 2,
-          "flavor_text": ""
+          "flavor_text": "Common item: Rusty Spoon of Minor Stirring"
         },
         {
           "name": "Pocket Sand [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Pocket Sand"
         },
         {
           "name": "Pocket Lint [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Pocket Lint"
         }
       ],
       "achievements": [
         {
           "title": "Subathon Birthday '25_event",
-          "description": ""
+          "description": "Achievement: Subathon Birthday '25_event"
         }
       ]
     },
@@ -1306,52 +1306,52 @@
         {
           "name": "Healing Potion [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Healing Potion"
         },
         {
           "name": "Wooden Sword [Common]",
           "count": 2,
-          "flavor_text": ""
+          "flavor_text": "Common item: Wooden Sword"
         },
         {
           "name": "Mystic Blade [Rare]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Rare item: Mystic Blade"
         },
         {
           "name": "Speed Boots [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Speed Boots"
         },
         {
           "name": "Sock of Slight Warmth [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Sock of Slight Warmth"
         },
         {
           "name": "Cracked Goblin Tooth [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Cracked Goblin Tooth"
         },
         {
           "name": "Pocket Lint [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Pocket Lint"
         },
         {
           "name": "Pocket Lint [Common]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Pocket Lint"
         }
       ],
       "achievements": [
         {
           "title": "First Steps",
-          "description": ""
+          "description": "Achievement: First Steps"
         },
         {
           "title": "5 Years_event",
-          "description": ""
+          "description": "Achievement: 5 Years_event"
         }
       ]
     },
@@ -1361,66 +1361,66 @@
         {
           "name": "Healing Potion [Common]",
           "count": 2,
-          "flavor_text": ""
+          "flavor_text": "Common item: Healing Potion"
         },
         {
           "name": "Iron Shield [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Iron Shield"
         },
         {
           "name": "Wooden Sword [Common]",
           "count": 2,
-          "flavor_text": ""
+          "flavor_text": "Common item: Wooden Sword"
         },
         {
           "name": "Mystic Blade [Rare]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Rare item: Mystic Blade"
         },
         {
           "name": "Ring of Insight [Rare]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Rare item: Ring of Insight"
         },
         {
           "name": "Sock of Slight Warmth [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Sock of Slight Warmth"
         },
         {
           "name": "Rusty Spoon of Minor Stirring [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Rusty Spoon of Minor Stirring"
         },
         {
           "name": "Cracked Goblin Tooth [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Cracked Goblin Tooth"
         },
         {
           "name": "Gnomish Compass [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Gnomish Compass"
         },
         {
           "name": "Pocket Lint [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Pocket Lint"
         }
       ],
       "achievements": [
         {
           "title": "First Steps",
-          "description": ""
+          "description": "Achievement: First Steps"
         },
         {
           "title": "5 Years_event",
-          "description": ""
+          "description": "Achievement: 5 Years_event"
         },
         {
           "title": "Subathon Birthday '25_event",
-          "description": ""
+          "description": "Achievement: Subathon Birthday '25_event"
         }
       ]
     },
@@ -1430,12 +1430,12 @@
         {
           "name": "Wooden Sword [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Wooden Sword"
         },
         {
           "name": "Pocket Lint [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Pocket Lint"
         }
       ],
       "achievements": []
@@ -1446,7 +1446,7 @@
         {
           "name": "Healing Potion [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Healing Potion"
         }
       ],
       "achievements": []
@@ -1457,37 +1457,37 @@
         {
           "name": "Mystic Blade [Rare]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Rare item: Mystic Blade"
         },
         {
           "name": "Rusty Spoon of Minor Stirring [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Rusty Spoon of Minor Stirring"
         },
         {
           "name": "Cursed Mirror Shard [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Cursed Mirror Shard"
         },
         {
           "name": "Spectacles of Overthinking [Rare]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Rare item: Spectacles of Overthinking"
         },
         {
           "name": "Cursed Plush of Encouragement [Epic]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Epic item: Cursed Plush of Encouragement"
         }
       ],
       "achievements": [
         {
           "title": "First Steps",
-          "description": ""
+          "description": "Achievement: First Steps"
         },
         {
           "title": "Subathon Birthday '25_event",
-          "description": ""
+          "description": "Achievement: Subathon Birthday '25_event"
         }
       ]
     },
@@ -1497,17 +1497,17 @@
         {
           "name": "Mystic Blade [Rare]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Rare item: Mystic Blade"
         }
       ],
       "achievements": [
         {
           "title": "5 Years_event",
-          "description": ""
+          "description": "Achievement: 5 Years_event"
         },
         {
           "title": "Subathon Birthday '25_event",
-          "description": ""
+          "description": "Achievement: Subathon Birthday '25_event"
         }
       ]
     },
@@ -1517,7 +1517,7 @@
         {
           "name": "Cursed Mirror Shard [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Cursed Mirror Shard"
         }
       ],
       "achievements": []
@@ -1528,7 +1528,7 @@
         {
           "name": "Wooden Sword [Common]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Wooden Sword"
         }
       ],
       "achievements": []
@@ -1539,7 +1539,7 @@
       "achievements": [
         {
           "title": "Subathon Birthday '25_event",
-          "description": ""
+          "description": "Achievement: Subathon Birthday '25_event"
         }
       ]
     },
@@ -1549,7 +1549,7 @@
         {
           "name": "Speed Boots [Uncommon]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Speed Boots"
         }
       ],
       "achievements": []
@@ -1560,7 +1560,7 @@
         {
           "name": "Speed Boots [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Speed Boots"
         }
       ],
       "achievements": []
@@ -1571,13 +1571,13 @@
         {
           "name": "Potion of Almost Invisibility [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Potion of Almost Invisibility"
         }
       ],
       "achievements": [
         {
           "title": "Subathon Birthday '25_event",
-          "description": ""
+          "description": "Achievement: Subathon Birthday '25_event"
         }
       ]
     },
@@ -1587,12 +1587,12 @@
         {
           "name": "Spectacles of Overthinking [Rare]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Rare item: Spectacles of Overthinking"
         },
         {
           "name": "Pocket Sand [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Pocket Sand"
         }
       ],
       "achievements": []
@@ -1603,7 +1603,7 @@
         {
           "name": "Speed Boots [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Speed Boots"
         }
       ],
       "achievements": []
@@ -1614,7 +1614,7 @@
         {
           "name": "Rusty Spoon of Minor Stirring [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Rusty Spoon of Minor Stirring"
         }
       ],
       "achievements": []
@@ -1625,12 +1625,12 @@
         {
           "name": "Cracked Goblin Tooth [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Cracked Goblin Tooth"
         },
         {
           "name": "Pocket Lint [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Pocket Lint"
         }
       ],
       "achievements": []
@@ -1641,13 +1641,13 @@
         {
           "name": "Speed Boots [Uncommon]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Speed Boots"
         }
       ],
       "achievements": [
         {
           "title": "Subathon Birthday '25_event",
-          "description": ""
+          "description": "Achievement: Subathon Birthday '25_event"
         }
       ]
     },
@@ -1657,12 +1657,12 @@
         {
           "name": "Potion of Almost Invisibility [Uncommon]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Uncommon item: Potion of Almost Invisibility"
         },
         {
           "name": "Cracked Goblin Tooth [Common]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Cracked Goblin Tooth"
         }
       ],
       "achievements": []
@@ -1673,7 +1673,7 @@
         {
           "name": "Ring of Insight [Rare]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Rare item: Ring of Insight"
         }
       ],
       "achievements": []
@@ -1684,7 +1684,7 @@
       "achievements": [
         {
           "title": "Subathon Birthday '25_event",
-          "description": ""
+          "description": "Achievement: Subathon Birthday '25_event"
         }
       ]
     },
@@ -1694,14 +1694,14 @@
         {
           "name": "Pocket Lint [Common]_shiny",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Common item: Pocket Lint"
         }
       ],
       "achievements": []
     }
   },
   "metadata": {
-    "last_updated": "2026-01-11T02:36:39.150329",
+    "last_updated": "2026-01-11T02:46:07.686435",
     "total_users": 66,
     "version": "1.0"
   }
