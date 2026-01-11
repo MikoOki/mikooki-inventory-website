@@ -1164,7 +1164,7 @@
     },
     "MikoOki": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8f84b2f-7a69-4e1d-853d-6ec5978e617f-profile_image-300x300.png",
-      "checkins": 3,
+      "checkins": 4,
       "items": [
         {
           "name": "Pocket Sand [Common]_shiny",
@@ -1180,6 +1180,11 @@
           "name": "Wooden Sword [Common]",
           "count": 1,
           "flavor_text": "Common item: Wooden Sword"
+        },
+        {
+          "name": "Cracked Goblin Tooth [Common]",
+          "count": 1,
+          "flavor_text": "Common item: Cracked Goblin Tooth"
         }
       ],
       "achievements": []
@@ -1772,7 +1777,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-11T03:19:41.912763",
+    "last_updated": "2026-01-11T15:59:37.908978",
     "total_users": 66,
     "version": "1.0"
   }
