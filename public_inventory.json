@@ -865,10 +865,14 @@
       ]
     },
     "MikoOki": {
-      "checkins": 1,
+      "checkins": 2,
       "items": [
         {
           "name": "Pocket Sand [Common]_shiny",
+          "count": 1
+        },
+        {
+          "name": "Cursed Mirror Shard [Uncommon]",
           "count": 1
         }
       ],
@@ -1318,7 +1322,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-11T02:02:56.911071",
+    "last_updated": "2026-01-11T02:23:43.004423",
     "total_users": 66,
     "version": "1.0"
   }
