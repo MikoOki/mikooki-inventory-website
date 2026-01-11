@@ -1305,11 +1305,21 @@
       "achievements": [
         "Subathon Birthday '25_event"
       ]
+    },
+    "testusernumber1": {
+      "checkins": 1,
+      "items": [
+        {
+          "name": "Pocket Lint [Common]_shiny",
+          "count": 1
+        }
+      ],
+      "achievements": []
     }
   },
   "metadata": {
-    "last_updated": "2026-01-11T01:59:03.499853",
-    "total_users": 65,
+    "last_updated": "2026-01-11T02:02:56.911071",
+    "total_users": 66,
     "version": "1.0"
   }
 }
