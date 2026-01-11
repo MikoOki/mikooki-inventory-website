@@ -1750,7 +1750,7 @@
     },
     "MikoOki": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8f84b2f-7a69-4e1d-853d-6ec5978e617f-profile_image-300x300.png",
-      "checkins": 4,
+      "checkins": 5,
       "items": [
         {
           "name": "Healing Potion [Common]",
@@ -1766,6 +1766,11 @@
           "name": "Rusty Spoon of Minor Stirring [Common]",
           "count": 1,
           "flavor_text": "Sometimes it stirs on its own. Don\u2019t acknowledge it. It likes attention."
+        },
+        {
+          "name": "Speed Boots [Uncommon]",
+          "count": 1,
+          "flavor_text": "Only activates when your arms are doing the little angry swings."
         }
       ],
       "achievements": [
@@ -1777,7 +1782,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-11T20:06:15.441721",
+    "last_updated": "2026-01-11T20:06:34.629022",
     "total_users": 66,
     "version": "1.0"
   }
