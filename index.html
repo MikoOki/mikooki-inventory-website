@@ -264,6 +264,54 @@
             position: relative;
             overflow: hidden;
             cursor: pointer;
+            transform-style: preserve-3d;
+        }
+
+        /* Card flip states */
+        .card.flipped .card-front {
+            transform: rotateY(180deg);
+        }
+
+        .card.flipped .card-back {
+            transform: rotateY(0deg);
+        }
+
+        .card-front, .card-back {
+            backface-visibility: hidden;
+            transition: transform 0.6s;
+            position: relative;
+        }
+
+        .card-back {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            transform: rotateY(-180deg);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 30px;
+            background: inherit;
+            border-radius: 20px;
+        }
+
+        .card-back-content {
+            text-align: center;
+            color: #333;
+            font-size: 16px;
+            line-height: 1.6;
+            font-style: italic;
+            max-height: 100%;
+            overflow-y: auto;
+        }
+
+        .card.shiny .card-back-content,
+        .card.achievement .card-back-content {
+            color: white;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
         }
 
         .card::before {
@@ -484,50 +532,26 @@
             text-shadow: 2px 2px 6px rgba(0,0,0,0.7);
         }
 
-        /* Enhanced Tooltip */
-        .tooltip {
+        /* Click indicator */
+        .card::after {
+            content: 'Click to flip';
             position: absolute;
-            bottom: 110%;
-            left: 50%;
-            transform: translateX(-50%) translateY(-15px);
-            background: rgba(0, 0, 0, 0.95);
-            color: white;
-            padding: 15px 20px;
-            border-radius: 12px;
-            font-size: 15px;
-            line-height: 1.6;
-            white-space: normal;
-            max-width: 320px;
-            text-align: center;
+            bottom: 10px;
+            right: 10px;
+            font-size: 10px;
+            color: rgba(0,0,0,0.3);
             opacity: 0;
+            transition: opacity 0.3s;
             pointer-events: none;
-            transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-            z-index: 1000;
-            box-shadow: 0 8px 30px rgba(0,0,0,0.8);
-            border: 2px solid rgba(255,255,255,0.2);
         }
 
-        .tooltip em {
-            font-style: italic;
-            opacity: 0.9;
-            font-size: 14px;
-            display: block;
-            margin-top: 5px;
-        }
-
-        .tooltip::after {
-            content: '';
-            position: absolute;
-            top: 100%;
-            left: 50%;
-            transform: translateX(-50%);
-            border: 10px solid transparent;
-            border-top-color: rgba(0, 0, 0, 0.95);
-        }
-
-        .card:hover .tooltip {
+        .card:hover::after {
             opacity: 1;
-            transform: translateX(-50%) translateY(-5px) scale(1.05);
+        }
+
+        .card.shiny::after,
+        .card.achievement::after {
+            color: rgba(255,255,255,0.6);
         }
 
         .loading {
@@ -732,24 +756,31 @@
             const imageName = itemName.replace(/ /g, '%20');
             const imageUrl = `${GITHUB_BASE}/items/${imageName}.png`;
 
-            // Tooltip content with flavor text
-            let tooltipText = isShiny 
-                ? `✨ ${itemName} (${rarityClean.charAt(0).toUpperCase() + rarityClean.slice(1)})`
-                : `${itemName} (${rarityClean.charAt(0).toUpperCase() + rarityClean.slice(1)})`;
-            
-            if (item.flavor_text) {
-                tooltipText += `<br><em>"${item.flavor_text}"</em>`;
+            // Card flip text (flavor text in quotes)
+            let backText = item.flavor_text || 'No description yet';
+            if (item.flavor_text && !item.flavor_text.startsWith('"')) {
+                backText = `"${backText}"`;
             }
 
             card.innerHTML = `
-                <div class="tooltip">${tooltipText}</div>
-                <img class="card-image" src="${imageUrl}" 
-                     alt="${itemName}" 
-                     onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22200%22><rect width=%22200%22 height=%22200%22 fill=%22%23ddd%22/><text x=%2250%%22 y=%2250%%22 text-anchor=%22middle%22 dy=%22.3em%22 font-size=%2224%22>?</text></svg>'">
-                <div class="card-name">${itemName}${isShiny ? ' ✨' : ''}</div>
-                <div class="card-rarity">${rarityClean.charAt(0).toUpperCase() + rarityClean.slice(1)}</div>
-                <div class="card-count">×${item.count}</div>
+                <div class="card-front">
+                    <img class="card-image" src="${imageUrl}" 
+                         alt="${itemName}" 
+                         onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22200%22><rect width=%22200%22 height=%22200%22 fill=%22%23ddd%22/><text x=%2250%%22 y=%2250%%22 text-anchor=%22middle%22 dy=%22.3em%22 font-size=%2224%22>?</text></svg>'">
+                    <div class="card-name">${itemName}${isShiny ? ' ✨' : ''}</div>
+                    <div class="card-rarity">${rarityClean.charAt(0).toUpperCase() + rarityClean.slice(1)}</div>
+                    <div class="card-count">×${item.count}</div>
+                </div>
+                <div class="card-back">
+                    <div class="card-back-content">${backText}</div>
+                </div>
             `;
+
+            // Add click handler for flip
+            card.addEventListener('click', function(e) {
+                e.stopPropagation();
+                this.classList.toggle('flipped');
+            });
 
             return card;
         }
@@ -767,20 +798,30 @@
             const imageName = imageNameClean.replace(/ /g, '%20');
             const imageUrl = `${GITHUB_BASE}/achievements/${imageName}.png`;
 
-            // Tooltip with description
-            let tooltipText = `🏆 ${achName}`;
-            if (achDesc) {
-                tooltipText += `<br><em>${achDesc}</em>`;
+            // Card flip text (description in quotes)
+            let backText = achDesc || 'Achievement unlocked!';
+            if (achDesc && !achDesc.startsWith('"')) {
+                backText = `"${backText}"`;
             }
 
             card.innerHTML = `
-                <div class="tooltip">${tooltipText}</div>
-                <img class="card-image" src="${imageUrl}" 
-                     alt="${achName}" 
-                     onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22200%22><rect width=%22200%22 height=%22200%22 fill=%22%23ddd%22/><text x=%2250%%22 y=%2250%%22 text-anchor=%22middle%22 dy=%22.3em%22 font-size=%2224%22>🏆</text></svg>'">
-                <div class="card-name">${achName}</div>
-                <div class="card-rarity">Achievement</div>
+                <div class="card-front">
+                    <img class="card-image" src="${imageUrl}" 
+                         alt="${achName}" 
+                         onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22200%22><rect width=%22200%22 height=%22200%22 fill=%22%23ddd%22/><text x=%2250%%22 y=%2250%%22 text-anchor=%22middle%22 dy=%22.3em%22 font-size=%2224%22>🏆</text></svg>'">
+                    <div class="card-name">${achName}</div>
+                    <div class="card-rarity">Achievement</div>
+                </div>
+                <div class="card-back">
+                    <div class="card-back-content">${backText}</div>
+                </div>
             `;
+
+            // Add click handler for flip
+            card.addEventListener('click', function(e) {
+                e.stopPropagation();
+                this.classList.toggle('flipped');
+            });
 
             return card;
         }
