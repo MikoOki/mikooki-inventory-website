@@ -17,7 +17,7 @@
             background: 
                 linear-gradient(-45deg, rgba(102, 126, 234, 0.85), rgba(118, 75, 162, 0.85), rgba(240, 147, 251, 0.85), rgba(79, 172, 254, 0.85)),
                 /* Add your image URL below - uncomment line below and replace YOUR_IMAGE_URL_HERE */
-                /* url('https://github.com/MikoOki/card-images/blob/main/backgrounds/background2.png?raw=true') center/cover fixed, */
+                /* url('YOUR_IMAGE_URL_HERE') center/cover fixed, */
                 #667eea;
             background-size: 400% 400%, cover;
             animation: gradientShift 60s ease infinite;
@@ -1044,12 +1044,14 @@
             const achName = achData.title;
             const achDesc = achData.description;
             
+            // Strip _event suffix for display
+            const displayName = achName.replace('_event', '');
+            
             const card = document.createElement('div');
             card.className = 'card achievement';
-            card.dataset.name = achName.toLowerCase();
+            card.dataset.name = displayName.toLowerCase();
 
-            const imageNameClean = achName.replace('_event', '');
-            const imageName = imageNameClean.replace(/ /g, '%20');
+            const imageName = displayName.replace(/ /g, '%20');
             const imageUrl = `${GITHUB_BASE}/achievements/${imageName}.png`;
 
             let backText = achDesc || 'Achievement unlocked!';
@@ -1060,9 +1062,9 @@
             card.innerHTML = `
                 <div class="card-front">
                     <img class="card-image" src="${imageUrl}" 
-                         alt="${achName}" 
+                         alt="${displayName}" 
                          onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22200%22><rect width=%22200%22 height=%22200%22 fill=%22%23ddd%22/><text x=%2250%%22 y=%2250%%22 text-anchor=%22middle%22 dy=%22.3em%22 font-size=%2224%22>🏆</text></svg>'">
-                    <div class="card-name">${achName}</div>
+                    <div class="card-name">${displayName}</div>
                     <div class="card-rarity">Achievement</div>
                 </div>
                 <div class="card-back">
