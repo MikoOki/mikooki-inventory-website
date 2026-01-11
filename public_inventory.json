@@ -1750,11 +1750,11 @@
     },
     "MikoOki": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8f84b2f-7a69-4e1d-853d-6ec5978e617f-profile_image-300x300.png",
-      "checkins": 5,
+      "checkins": 6,
       "items": [
         {
           "name": "Healing Potion [Common]",
-          "count": 1,
+          "count": 2,
           "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
         },
         {
@@ -1782,7 +1782,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-11T20:06:34.629022",
+    "last_updated": "2026-01-11T20:12:21.205359",
     "total_users": 66,
     "version": "1.0"
   }
