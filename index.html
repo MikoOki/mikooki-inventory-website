@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MikoOki Inventory Viewer</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+            color: white;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            padding: 40px 20px;
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            margin-bottom: 30px;
+        }
+
+        h1 {
+            font-size: 3em;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+
+        .controls {
+            display: flex;
+            gap: 15px;
+            justify-content: center;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+        }
+
+        select, input {
+            padding: 12px 20px;
+            font-size: 16px;
+            border: none;
+            border-radius: 10px;
+            background: rgba(255, 255, 255, 0.2);
+            color: white;
+            backdrop-filter: blur(10px);
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        select option {
+            background: #764ba2;
+            color: white;
+        }
+
+        input::placeholder {
+            color: rgba(255, 255, 255, 0.7);
+        }
+
+        select:hover, input:focus {
+            background: rgba(255, 255, 255, 0.3);
+            transform: translateY(-2px);
+        }
+
+        .user-info {
+            background: rgba(255, 255, 255, 0.15);
+            backdrop-filter: blur(10px);
+            padding: 20px;
+            border-radius: 15px;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+
+        .user-info h2 {
+            font-size: 2em;
+            margin-bottom: 10px;
+        }
+
+        .checkins {
+            font-size: 1.5em;
+            opacity: 0.9;
+        }
+
+        .tabs {
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+            margin-bottom: 30px;
+        }
+
+        .tab {
+            padding: 15px 30px;
+            background: rgba(255, 255, 255, 0.2);
+            border: none;
+            border-radius: 10px;
+            color: white;
+            font-size: 18px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        .tab:hover {
+            background: rgba(255, 255, 255, 0.3);
+            transform: translateY(-2px);
+        }
+
+        .tab.active {
+            background: rgba(255, 255, 255, 0.4);
+            transform: scale(1.05);
+        }
+
+        .content-section {
+            display: none;
+        }
+
+        .content-section.active {
+            display: block;
+        }
+
+        .cards-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 25px;
+            padding: 20px;
+        }
+
+        .card {
+            background: white;
+            border-radius: 15px;
+            padding: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+            transition: all 0.3s;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .card:hover {
+            transform: translateY(-10px) scale(1.05);
+            box-shadow: 0 15px 40px rgba(0,0,0,0.4);
+        }
+
+        .card.shiny {
+            background: linear-gradient(135deg, #ffd700 0%, #ffed4e 50%, #ffd700 100%);
+            animation: shimmer 2s infinite;
+        }
+
+        @keyframes shimmer {
+            0%, 100% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+        }
+
+        .card.shiny::before {
+            content: '✨';
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            font-size: 24px;
+            animation: sparkle 1.5s infinite;
+        }
+
+        @keyframes sparkle {
+            0%, 100% { transform: scale(1) rotate(0deg); opacity: 1; }
+            50% { transform: scale(1.3) rotate(180deg); opacity: 0.7; }
+        }
+
+        .card-image {
+            width: 100%;
+            height: 200px;
+            object-fit: contain;
+            border-radius: 10px;
+            background: #f8f9fa;
+            margin-bottom: 10px;
+        }
+
+        .card-name {
+            font-size: 16px;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 5px;
+            text-align: center;
+        }
+
+        .card-rarity {
+            font-size: 14px;
+            color: #666;
+            text-align: center;
+            margin-bottom: 5px;
+        }
+
+        .card-count {
+            font-size: 20px;
+            font-weight: bold;
+            color: #333;
+            text-align: center;
+            background: rgba(0,0,0,0.05);
+            padding: 5px;
+            border-radius: 5px;
+        }
+
+        /* Rarity borders */
+        .card.common { border: 3px solid #95a5a6; }
+        .card.uncommon { border: 3px solid #2ecc71; }
+        .card.rare { border: 3px solid #3498db; }
+        .card.epic { border: 3px solid #9b59b6; }
+        .card.legendary { border: 3px solid #f39c12; }
+
+        /* Achievement cards */
+        .card.achievement {
+            border: 3px solid #f39c12;
+            background: linear-gradient(135deg, #ffd89b 0%, #19547b 100%);
+        }
+
+        .card.achievement .card-name,
+        .card.achievement .card-rarity {
+            color: white;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+        }
+
+        .loading {
+            text-align: center;
+            padding: 50px;
+            font-size: 1.5em;
+        }
+
+        .error {
+            text-align: center;
+            padding: 50px;
+            font-size: 1.2em;
+            color: #ff6b6b;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 15px;
+        }
+
+        .last-updated {
+            text-align: center;
+            margin-top: 30px;
+            opacity: 0.8;
+            font-size: 14px;
+        }
+
+        @media (max-width: 768px) {
+            h1 { font-size: 2em; }
+            .cards-grid { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎁 MikoOki Inventory</h1>
+            <p class="subtitle">View your collected items and achievements</p>
+        </header>
+
+        <div class="controls">
+            <select id="userSelect" onchange="loadUserData()">
+                <option value="">Select a user...</option>
+            </select>
+            <input type="text" id="searchBox" placeholder="Search items..." oninput="filterCards()">
+        </div>
+
+        <div id="userInfo" class="user-info" style="display: none;">
+            <h2 id="username"></h2>
+            <p class="checkins">Check-ins: <span id="checkinCount">0</span></p>
+        </div>
+
+        <div class="tabs">
+            <button class="tab active" onclick="showTab('items')">🎁 Items</button>
+            <button class="tab" onclick="showTab('achievements')">🏆 Achievements</button>
+        </div>
+
+        <div id="items" class="content-section active">
+            <div class="cards-grid" id="itemsGrid"></div>
+        </div>
+
+        <div id="achievements" class="content-section">
+            <div class="cards-grid" id="achievementsGrid"></div>
+        </div>
+
+        <div class="last-updated" id="lastUpdated"></div>
+    </div>
+
+    <script>
+        const GITHUB_BASE = 'https://raw.githubusercontent.com/MikoOki/card-images/main/images';
+        let allData = null;
+        let currentUser = null;
+
+        // Load the inventory data
+        async function init() {
+            try {
+                const response = await fetch('public_inventory.json');
+                const data = await response.json();
+                allData = data;
+
+                // Populate user dropdown
+                const userSelect = document.getElementById('userSelect');
+                const users = Object.keys(data.users).sort();
+                
+                users.forEach(username => {
+                    const option = document.createElement('option');
+                    option.value = username;
+                    option.textContent = username;
+                    userSelect.appendChild(option);
+                });
+
+                // Show last updated
+                if (data.metadata && data.metadata.last_updated) {
+                    const date = new Date(data.metadata.last_updated);
+                    document.getElementById('lastUpdated').textContent = 
+                        `Last updated: ${date.toLocaleString()}`;
+                }
+
+                console.log('Data loaded successfully');
+            } catch (error) {
+                console.error('Error loading data:', error);
+                document.getElementById('itemsGrid').innerHTML = 
+                    '<div class="error">Failed to load inventory data. Please try again later.</div>';
+            }
+        }
+
+        function loadUserData() {
+            const username = document.getElementById('userSelect').value;
+            if (!username || !allData) return;
+
+            currentUser = allData.users[username];
+            
+            // Show user info
+            document.getElementById('userInfo').style.display = 'block';
+            document.getElementById('username').textContent = username;
+            document.getElementById('checkinCount').textContent = currentUser.checkins;
+
+            // Load items and achievements
+            displayItems();
+            displayAchievements();
+        }
+
+        function displayItems() {
+            const grid = document.getElementById('itemsGrid');
+            grid.innerHTML = '';
+
+            if (!currentUser || !currentUser.items || currentUser.items.length === 0) {
+                grid.innerHTML = '<div class="loading">No items collected yet</div>';
+                return;
+            }
+
+            currentUser.items.forEach(item => {
+                const card = createItemCard(item);
+                grid.appendChild(card);
+            });
+        }
+
+        function displayAchievements() {
+            const grid = document.getElementById('achievementsGrid');
+            grid.innerHTML = '';
+
+            if (!currentUser || !currentUser.achievements || currentUser.achievements.length === 0) {
+                grid.innerHTML = '<div class="loading">No achievements earned yet</div>';
+                return;
+            }
+
+            currentUser.achievements.forEach(achName => {
+                const card = createAchievementCard(achName);
+                grid.appendChild(card);
+            });
+        }
+
+        function createItemCard(item) {
+            const isShiny = item.name.includes('_shiny');
+            const cleanName = item.name.replace('_shiny', '');
+            const [itemName, rarity] = cleanName.split(' [');
+            const rarityClean = rarity ? rarity.replace(']', '').toLowerCase() : 'common';
+
+            const card = document.createElement('div');
+            card.className = `card ${rarityClean} ${isShiny ? 'shiny' : ''}`;
+            card.dataset.name = itemName.toLowerCase();
+
+            const imageName = itemName.replace(/ /g, '%20');
+            const imageUrl = `${GITHUB_BASE}/items/${imageName}.png`;
+
+            card.innerHTML = `
+                <img class="card-image" src="${imageUrl}" 
+                     alt="${itemName}" 
+                     onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22200%22><rect width=%22200%22 height=%22200%22 fill=%22%23ddd%22/><text x=%2250%%22 y=%2250%%22 text-anchor=%22middle%22 dy=%22.3em%22 font-size=%2224%22>?</text></svg>'">
+                <div class="card-name">${itemName}${isShiny ? ' ✨' : ''}</div>
+                <div class="card-rarity">${rarityClean.charAt(0).toUpperCase() + rarityClean.slice(1)}</div>
+                <div class="card-count">×${item.count}</div>
+            `;
+
+            return card;
+        }
+
+        function createAchievementCard(achName) {
+            const card = document.createElement('div');
+            card.className = 'card achievement';
+            card.dataset.name = achName.toLowerCase();
+
+            // Strip _event for image lookup
+            const imageNameClean = achName.replace('_event', '');
+            const imageName = imageNameClean.replace(/ /g, '%20');
+            const imageUrl = `${GITHUB_BASE}/achievements/${imageName}.png`;
+
+            card.innerHTML = `
+                <img class="card-image" src="${imageUrl}" 
+                     alt="${achName}" 
+                     onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22200%22><rect width=%22200%22 height=%22200%22 fill=%22%23ddd%22/><text x=%2250%%22 y=%2250%%22 text-anchor=%22middle%22 dy=%22.3em%22 font-size=%2224%22>🏆</text></svg>'">
+                <div class="card-name">${achName}</div>
+                <div class="card-rarity">Achievement</div>
+            `;
+
+            return card;
+        }
+
+        function showTab(tabName) {
+            // Update tabs
+            document.querySelectorAll('.tab').forEach(tab => {
+                tab.classList.remove('active');
+            });
+            event.target.classList.add('active');
+
+            // Update content
+            document.querySelectorAll('.content-section').forEach(section => {
+                section.classList.remove('active');
+            });
+            document.getElementById(tabName).classList.add('active');
+        }
+
+        function filterCards() {
+            const searchTerm = document.getElementById('searchBox').value.toLowerCase();
+            const activeTab = document.querySelector('.content-section.active');
+            const cards = activeTab.querySelectorAll('.card');
+
+            cards.forEach(card => {
+                const name = card.dataset.name || '';
+                if (name.includes(searchTerm)) {
+                    card.style.display = 'block';
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+        }
+
+        // Initialize on page load
+        init();
+    </script>
+</body>
+</html>
