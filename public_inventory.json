@@ -7,12 +7,12 @@
         {
           "name": "Gnomish Compass [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Gnomish Compass"
+          "flavor_text": "Points toward the nearest pub. Always."
         },
         {
           "name": "Pocket Sand [Common]",
           "count": 1,
-          "flavor_text": "Common item: Pocket Sand"
+          "flavor_text": "Coarse, irritating, and gets everywhere."
         }
       ],
       "achievements": []
@@ -30,7 +30,7 @@
         {
           "name": "Wooden Sword [Common]",
           "count": 1,
-          "flavor_text": "Common item: Wooden Sword"
+          "flavor_text": "Warning: may summon memories of being eight years old and unstoppable."
         }
       ],
       "achievements": []
@@ -42,27 +42,27 @@
         {
           "name": "Healing Potion [Common]",
           "count": 1,
-          "flavor_text": "Common item: Healing Potion"
+          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
         },
         {
           "name": "Rusty Spoon of Minor Stirring [Common]",
           "count": 1,
-          "flavor_text": "Common item: Rusty Spoon of Minor Stirring"
+          "flavor_text": "Sometimes it stirs on its own. Don\u2019t acknowledge it. It likes attention."
         },
         {
           "name": "Cracked Goblin Tooth [Common]",
           "count": 1,
-          "flavor_text": "Common item: Cracked Goblin Tooth"
+          "flavor_text": "You could throw it away. You won\u2019t. That\u2019s who you are now."
         },
         {
           "name": "Bag of Holding... Grudges [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Bag of Holding... Grudges"
+          "flavor_text": "Once per day: produces exactly the right tool. Also produces a petty remark in your own handwriting."
         },
         {
           "name": "Cape of Dramatic Wind [Rare]",
           "count": 1,
-          "flavor_text": "Rare item: Cape of Dramatic Wind"
+          "flavor_text": "Blows even indoors. Great for exits."
         }
       ],
       "achievements": []
@@ -74,37 +74,37 @@
         {
           "name": "Iron Shield [Uncommon]_shiny",
           "count": 1,
-          "flavor_text": "Uncommon item: Iron Shield"
+          "flavor_text": "Has seen battle. Has also seen you trip over it."
         },
         {
           "name": "Healing Potion [Common]",
           "count": 1,
-          "flavor_text": "Common item: Healing Potion"
+          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
         },
         {
           "name": "Wooden Sword [Common]",
           "count": 1,
-          "flavor_text": "Common item: Wooden Sword"
+          "flavor_text": "Warning: may summon memories of being eight years old and unstoppable."
         },
         {
           "name": "Ring of Insight [Rare]",
           "count": 1,
-          "flavor_text": "Rare item: Ring of Insight"
+          "flavor_text": "If you ask a question aloud, it answers in a way that makes you look stupid for asking."
         },
         {
           "name": "Pocket Lint [Common]",
           "count": 1,
-          "flavor_text": "Common item: Pocket Lint"
+          "flavor_text": "\u201cPocket Sand\u2019s\" disappointing cousin."
         },
         {
           "name": "Mirror of Unexpected Encouragement [Epic]",
           "count": 1,
-          "flavor_text": "Epic item: Mirror of Unexpected Encouragement"
+          "flavor_text": "Tells you you\u2019re doing great... even when you're not."
         },
         {
           "name": "Bag of Holding... Grudges [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Bag of Holding... Grudges"
+          "flavor_text": "Once per day: produces exactly the right tool. Also produces a petty remark in your own handwriting."
         }
       ],
       "achievements": [
@@ -121,82 +121,82 @@
         {
           "name": "Healing Potion [Common]",
           "count": 2,
-          "flavor_text": "Common item: Healing Potion"
+          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
         },
         {
           "name": "Wooden Sword [Common]",
           "count": 2,
-          "flavor_text": "Common item: Wooden Sword"
+          "flavor_text": "Warning: may summon memories of being eight years old and unstoppable."
         },
         {
           "name": "Mystic Blade [Rare]",
           "count": 2,
-          "flavor_text": "Rare item: Mystic Blade"
+          "flavor_text": "Gleams heroically even in total darkness. Show-off."
         },
         {
           "name": "Speed Boots [Uncommon]",
           "count": 3,
-          "flavor_text": "Uncommon item: Speed Boots"
+          "flavor_text": "Only activates when your arms are doing the little angry swings."
         },
         {
           "name": "Wooden Sword [Common]_shiny",
           "count": 1,
-          "flavor_text": "Common item: Wooden Sword"
+          "flavor_text": "Warning: may summon memories of being eight years old and unstoppable."
         },
         {
           "name": "Healing Potion [Common]_shiny",
           "count": 1,
-          "flavor_text": "Common item: Healing Potion"
+          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
         },
         {
           "name": "Sock of Slight Warmth [Common]",
           "count": 1,
-          "flavor_text": "Common item: Sock of Slight Warmth"
+          "flavor_text": "Sometimes whispers: \u201cwe could be slippers,\u201d and then sighs."
         },
         {
           "name": "Rusty Spoon of Minor Stirring [Common]",
           "count": 1,
-          "flavor_text": "Common item: Rusty Spoon of Minor Stirring"
+          "flavor_text": "Sometimes it stirs on its own. Don\u2019t acknowledge it. It likes attention."
         },
         {
           "name": "Cursed Mirror Shard [Uncommon]",
           "count": 2,
-          "flavor_text": "Uncommon item: Cursed Mirror Shard"
+          "flavor_text": "Once per day, shows you what an object was used for last. Side effect: you learn things you cannot unlearn."
         },
         {
           "name": "Spectacles of Overthinking [Rare]",
           "count": 2,
-          "flavor_text": "Rare item: Spectacles of Overthinking"
+          "flavor_text": "See all possible outcomes. Panic accordingly."
         },
         {
           "name": "Cracked Goblin Tooth [Common]",
           "count": 1,
-          "flavor_text": "Common item: Cracked Goblin Tooth"
+          "flavor_text": "You could throw it away. You won\u2019t. That\u2019s who you are now."
         },
         {
           "name": "Pocket Sand [Common]",
           "count": 1,
-          "flavor_text": "Common item: Pocket Sand"
+          "flavor_text": "Coarse, irritating, and gets everywhere."
         },
         {
           "name": "Bag of Holding... Grudges [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Bag of Holding... Grudges"
+          "flavor_text": "Once per day: produces exactly the right tool. Also produces a petty remark in your own handwriting."
         },
         {
           "name": "Cape of Dramatic Wind [Rare]",
           "count": 1,
-          "flavor_text": "Rare item: Cape of Dramatic Wind"
+          "flavor_text": "Blows even indoors. Great for exits."
         },
         {
           "name": "Cursed Mirror Shard [Uncommon]_shiny",
           "count": 1,
-          "flavor_text": "Uncommon item: Cursed Mirror Shard"
+          "flavor_text": "Once per day, shows you what an object was used for last. Side effect: you learn things you cannot unlearn."
         },
         {
           "name": "Gnomish Compass [Uncommon]_shiny",
           "count": 1,
-          "flavor_text": "Uncommon item: Gnomish Compass"
+          "flavor_text": "Points toward the nearest pub. Always."
         }
       ],
       "achievements": [
@@ -247,7 +247,7 @@
         {
           "name": "Pocket Sand [Common]_shiny",
           "count": 1,
-          "flavor_text": "Common item: Pocket Sand"
+          "flavor_text": "Coarse, irritating, and gets everywhere."
         }
       ],
       "achievements": []
@@ -259,7 +259,7 @@
         {
           "name": "Cursed Mirror Shard [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Cursed Mirror Shard"
+          "flavor_text": "Once per day, shows you what an object was used for last. Side effect: you learn things you cannot unlearn."
         }
       ],
       "achievements": []
@@ -286,17 +286,17 @@
         {
           "name": "Iron Shield [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Iron Shield"
+          "flavor_text": "Has seen battle. Has also seen you trip over it."
         },
         {
           "name": "Rusty Spoon of Minor Stirring [Common]",
           "count": 1,
-          "flavor_text": "Common item: Rusty Spoon of Minor Stirring"
+          "flavor_text": "Sometimes it stirs on its own. Don\u2019t acknowledge it. It likes attention."
         },
         {
           "name": "Pocket Sand [Common]",
           "count": 1,
-          "flavor_text": "Common item: Pocket Sand"
+          "flavor_text": "Coarse, irritating, and gets everywhere."
         }
       ],
       "achievements": []
@@ -330,42 +330,42 @@
         {
           "name": "Healing Potion [Common]",
           "count": 2,
-          "flavor_text": "Common item: Healing Potion"
+          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
         },
         {
           "name": "Speed Boots [Uncommon]_shiny",
           "count": 1,
-          "flavor_text": "Uncommon item: Speed Boots"
+          "flavor_text": "Only activates when your arms are doing the little angry swings."
         },
         {
           "name": "Phoenix Feather [Epic]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Cures poison. Side effect: your burps taste like smoke."
         },
         {
           "name": "Speed Boots [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Speed Boots"
+          "flavor_text": "Only activates when your arms are doing the little angry swings."
         },
         {
           "name": "Wooden Sword [Common]_shiny",
           "count": 1,
-          "flavor_text": "Common item: Wooden Sword"
+          "flavor_text": "Warning: may summon memories of being eight years old and unstoppable."
         },
         {
           "name": "Mystic Blade [Rare]_shiny",
           "count": 1,
-          "flavor_text": "Rare item: Mystic Blade"
+          "flavor_text": "Gleams heroically even in total darkness. Show-off."
         },
         {
           "name": "Gnomish Compass [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Gnomish Compass"
+          "flavor_text": "Points toward the nearest pub. Always."
         },
         {
           "name": "Pocket Sand [Common]",
           "count": 1,
-          "flavor_text": "Common item: Pocket Sand"
+          "flavor_text": "Coarse, irritating, and gets everywhere."
         }
       ],
       "achievements": [
@@ -386,22 +386,22 @@
         {
           "name": "Wooden Sword [Common]",
           "count": 1,
-          "flavor_text": "Common item: Wooden Sword"
+          "flavor_text": "Warning: may summon memories of being eight years old and unstoppable."
         },
         {
           "name": "Speed Boots [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Speed Boots"
+          "flavor_text": "Only activates when your arms are doing the little angry swings."
         },
         {
           "name": "Ring of Insight [Rare]",
           "count": 1,
-          "flavor_text": "Rare item: Ring of Insight"
+          "flavor_text": "If you ask a question aloud, it answers in a way that makes you look stupid for asking."
         },
         {
           "name": "Pocket Lint [Common]_shiny",
           "count": 1,
-          "flavor_text": "Common item: Pocket Lint"
+          "flavor_text": "\u201cPocket Sand\u2019s\" disappointing cousin."
         }
       ],
       "achievements": []
@@ -413,37 +413,37 @@
         {
           "name": "Healing Potion [Common]",
           "count": 2,
-          "flavor_text": "Common item: Healing Potion"
+          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
         },
         {
           "name": "Iron Shield [Uncommon]",
           "count": 2,
-          "flavor_text": "Uncommon item: Iron Shield"
+          "flavor_text": "Has seen battle. Has also seen you trip over it."
         },
         {
           "name": "Sock of Slight Warmth [Common]",
           "count": 1,
-          "flavor_text": "Common item: Sock of Slight Warmth"
+          "flavor_text": "Sometimes whispers: \u201cwe could be slippers,\u201d and then sighs."
         },
         {
           "name": "Cracked Goblin Tooth [Common]",
           "count": 1,
-          "flavor_text": "Common item: Cracked Goblin Tooth"
+          "flavor_text": "You could throw it away. You won\u2019t. That\u2019s who you are now."
         },
         {
           "name": "Sword of 1000 Apologies [Legendary]",
           "count": 1,
-          "flavor_text": "Legendary item: Sword of 1000 Apologies"
+          "flavor_text": "Says \u201csorry\u201d every time it strikes."
         },
         {
           "name": "Pocket Sand [Common]",
           "count": 2,
-          "flavor_text": "Common item: Pocket Sand"
+          "flavor_text": "Coarse, irritating, and gets everywhere."
         },
         {
           "name": "Pocket Lint [Common]",
           "count": 1,
-          "flavor_text": "Common item: Pocket Lint"
+          "flavor_text": "\u201cPocket Sand\u2019s\" disappointing cousin."
         }
       ],
       "achievements": [
@@ -468,27 +468,27 @@
         {
           "name": "Iron Shield [Uncommon]_shiny",
           "count": 1,
-          "flavor_text": "Uncommon item: Iron Shield"
+          "flavor_text": "Has seen battle. Has also seen you trip over it."
         },
         {
           "name": "Healing Potion [Common]",
           "count": 1,
-          "flavor_text": "Common item: Healing Potion"
+          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
         },
         {
           "name": "Iron Shield [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Iron Shield"
+          "flavor_text": "Has seen battle. Has also seen you trip over it."
         },
         {
           "name": "Cracked Goblin Tooth [Common]",
           "count": 1,
-          "flavor_text": "Common item: Cracked Goblin Tooth"
+          "flavor_text": "You could throw it away. You won\u2019t. That\u2019s who you are now."
         },
         {
           "name": "Sock of Slight Warmth [Common]_shiny",
           "count": 1,
-          "flavor_text": "Common item: Sock of Slight Warmth"
+          "flavor_text": "Sometimes whispers: \u201cwe could be slippers,\u201d and then sighs."
         }
       ],
       "achievements": []
@@ -500,7 +500,7 @@
         {
           "name": "Iron Shield [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Iron Shield"
+          "flavor_text": "Has seen battle. Has also seen you trip over it."
         }
       ],
       "achievements": []
@@ -512,7 +512,7 @@
         {
           "name": "Pocket Lint [Common]_shiny",
           "count": 1,
-          "flavor_text": "Common item: Pocket Lint"
+          "flavor_text": "\u201cPocket Sand\u2019s\" disappointing cousin."
         }
       ],
       "achievements": []
@@ -524,12 +524,12 @@
         {
           "name": "Wooden Sword [Common]",
           "count": 1,
-          "flavor_text": "Common item: Wooden Sword"
+          "flavor_text": "Warning: may summon memories of being eight years old and unstoppable."
         },
         {
           "name": "Speed Boots [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Speed Boots"
+          "flavor_text": "Only activates when your arms are doing the little angry swings."
         }
       ],
       "achievements": [
@@ -550,22 +550,22 @@
         {
           "name": "Speed Boots [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Speed Boots"
+          "flavor_text": "Only activates when your arms are doing the little angry swings."
         },
         {
           "name": "Cracked Goblin Tooth [Common]",
           "count": 1,
-          "flavor_text": "Common item: Cracked Goblin Tooth"
+          "flavor_text": "You could throw it away. You won\u2019t. That\u2019s who you are now."
         },
         {
           "name": "Pocket Lint [Common]",
           "count": 1,
-          "flavor_text": "Common item: Pocket Lint"
+          "flavor_text": "\u201cPocket Sand\u2019s\" disappointing cousin."
         },
         {
           "name": "Pocket Lint [Common]_shiny",
           "count": 1,
-          "flavor_text": "Common item: Pocket Lint"
+          "flavor_text": "\u201cPocket Sand\u2019s\" disappointing cousin."
         }
       ],
       "achievements": [
@@ -586,12 +586,12 @@
         {
           "name": "Healing Potion [Common]",
           "count": 1,
-          "flavor_text": "Common item: Healing Potion"
+          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
         },
         {
           "name": "Pocket Sand [Common]",
           "count": 1,
-          "flavor_text": "Common item: Pocket Sand"
+          "flavor_text": "Coarse, irritating, and gets everywhere."
         }
       ],
       "achievements": [
@@ -608,17 +608,17 @@
         {
           "name": "Wooden Sword [Common]",
           "count": 1,
-          "flavor_text": "Common item: Wooden Sword"
+          "flavor_text": "Warning: may summon memories of being eight years old and unstoppable."
         },
         {
           "name": "Ring of Insight [Rare]",
           "count": 1,
-          "flavor_text": "Rare item: Ring of Insight"
+          "flavor_text": "If you ask a question aloud, it answers in a way that makes you look stupid for asking."
         },
         {
           "name": "Bag of Holding... Grudges [Uncommon]_shiny",
           "count": 1,
-          "flavor_text": "Uncommon item: Bag of Holding... Grudges"
+          "flavor_text": "Once per day: produces exactly the right tool. Also produces a petty remark in your own handwriting."
         }
       ],
       "achievements": [
@@ -639,22 +639,22 @@
         {
           "name": "Healing Potion [Common]",
           "count": 1,
-          "flavor_text": "Common item: Healing Potion"
+          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
         },
         {
           "name": "Wooden Sword [Common]",
           "count": 1,
-          "flavor_text": "Common item: Wooden Sword"
+          "flavor_text": "Warning: may summon memories of being eight years old and unstoppable."
         },
         {
           "name": "Speed Boots [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Speed Boots"
+          "flavor_text": "Only activates when your arms are doing the little angry swings."
         },
         {
           "name": "Rusty Spoon of Minor Stirring [Common]",
           "count": 1,
-          "flavor_text": "Common item: Rusty Spoon of Minor Stirring"
+          "flavor_text": "Sometimes it stirs on its own. Don\u2019t acknowledge it. It likes attention."
         }
       ],
       "achievements": []
@@ -666,7 +666,7 @@
         {
           "name": "Spectacles of Overthinking [Rare]",
           "count": 1,
-          "flavor_text": "Rare item: Spectacles of Overthinking"
+          "flavor_text": "See all possible outcomes. Panic accordingly."
         }
       ],
       "achievements": []
@@ -678,77 +678,77 @@
         {
           "name": "Iron Shield [Uncommon]_shiny",
           "count": 1,
-          "flavor_text": "Uncommon item: Iron Shield"
+          "flavor_text": "Has seen battle. Has also seen you trip over it."
         },
         {
           "name": "Healing Potion [Common]",
           "count": 1,
-          "flavor_text": "Common item: Healing Potion"
+          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
         },
         {
           "name": "Wooden Sword [Common]",
           "count": 1,
-          "flavor_text": "Common item: Wooden Sword"
+          "flavor_text": "Warning: may summon memories of being eight years old and unstoppable."
         },
         {
           "name": "Speed Boots [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Speed Boots"
+          "flavor_text": "Only activates when your arms are doing the little angry swings."
         },
         {
           "name": "Healing Potion [Common]_shiny",
           "count": 1,
-          "flavor_text": "Common item: Healing Potion"
+          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
         },
         {
           "name": "Ring of Insight [Rare]",
           "count": 1,
-          "flavor_text": "Rare item: Ring of Insight"
+          "flavor_text": "If you ask a question aloud, it answers in a way that makes you look stupid for asking."
         },
         {
           "name": "Sock of Slight Warmth [Common]",
           "count": 2,
-          "flavor_text": "Common item: Sock of Slight Warmth"
+          "flavor_text": "Sometimes whispers: \u201cwe could be slippers,\u201d and then sighs."
         },
         {
           "name": "Rusty Spoon of Minor Stirring [Common]",
           "count": 1,
-          "flavor_text": "Common item: Rusty Spoon of Minor Stirring"
+          "flavor_text": "Sometimes it stirs on its own. Don\u2019t acknowledge it. It likes attention."
         },
         {
           "name": "Cursed Mirror Shard [Uncommon]",
           "count": 2,
-          "flavor_text": "Uncommon item: Cursed Mirror Shard"
+          "flavor_text": "Once per day, shows you what an object was used for last. Side effect: you learn things you cannot unlearn."
         },
         {
           "name": "Gnomish Compass [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Gnomish Compass"
+          "flavor_text": "Points toward the nearest pub. Always."
         },
         {
           "name": "Pocket Lint [Common]",
           "count": 1,
-          "flavor_text": "Common item: Pocket Lint"
+          "flavor_text": "\u201cPocket Sand\u2019s\" disappointing cousin."
         },
         {
           "name": "Sock of Slight Warmth [Common]_shiny",
           "count": 1,
-          "flavor_text": "Common item: Sock of Slight Warmth"
+          "flavor_text": "Sometimes whispers: \u201cwe could be slippers,\u201d and then sighs."
         },
         {
           "name": "Mirror of Unexpected Encouragement [Epic]",
           "count": 1,
-          "flavor_text": "Epic item: Mirror of Unexpected Encouragement"
+          "flavor_text": "Tells you you\u2019re doing great... even when you're not."
         },
         {
           "name": "Cursed Plush of Encouragement [Epic]",
           "count": 1,
-          "flavor_text": "Epic item: Cursed Plush of Encouragement"
+          "flavor_text": "Whispers supportively... in Infernal."
         },
         {
           "name": "Cracked Goblin Tooth [Common]_shiny",
           "count": 1,
-          "flavor_text": "Common item: Cracked Goblin Tooth"
+          "flavor_text": "You could throw it away. You won\u2019t. That\u2019s who you are now."
         }
       ],
       "achievements": [
@@ -773,17 +773,17 @@
         {
           "name": "Healing Potion [Common]",
           "count": 1,
-          "flavor_text": "Common item: Healing Potion"
+          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
         },
         {
           "name": "Wooden Sword [Common]",
           "count": 1,
-          "flavor_text": "Common item: Wooden Sword"
+          "flavor_text": "Warning: may summon memories of being eight years old and unstoppable."
         },
         {
           "name": "Gnomish Compass [Uncommon]_shiny",
           "count": 1,
-          "flavor_text": "Uncommon item: Gnomish Compass"
+          "flavor_text": "Points toward the nearest pub. Always."
         }
       ],
       "achievements": [
@@ -800,7 +800,7 @@
         {
           "name": "Speed Boots [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Speed Boots"
+          "flavor_text": "Only activates when your arms are doing the little angry swings."
         }
       ],
       "achievements": []
@@ -812,32 +812,32 @@
         {
           "name": "Healing Potion [Common]",
           "count": 2,
-          "flavor_text": "Common item: Healing Potion"
+          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
         },
         {
           "name": "Iron Shield [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Iron Shield"
+          "flavor_text": "Has seen battle. Has also seen you trip over it."
         },
         {
           "name": "Sock of Slight Warmth [Common]",
           "count": 2,
-          "flavor_text": "Common item: Sock of Slight Warmth"
+          "flavor_text": "Sometimes whispers: \u201cwe could be slippers,\u201d and then sighs."
         },
         {
           "name": "Pocket Sand [Common]_shiny",
           "count": 1,
-          "flavor_text": "Common item: Pocket Sand"
+          "flavor_text": "Coarse, irritating, and gets everywhere."
         },
         {
           "name": "Cracked Goblin Tooth [Common]",
           "count": 1,
-          "flavor_text": "Common item: Cracked Goblin Tooth"
+          "flavor_text": "You could throw it away. You won\u2019t. That\u2019s who you are now."
         },
         {
           "name": "Pocket Lint [Common]",
           "count": 1,
-          "flavor_text": "Common item: Pocket Lint"
+          "flavor_text": "\u201cPocket Sand\u2019s\" disappointing cousin."
         }
       ],
       "achievements": [
@@ -858,7 +858,7 @@
         {
           "name": "Pocket Sand [Common]_shiny",
           "count": 1,
-          "flavor_text": "Common item: Pocket Sand"
+          "flavor_text": "Coarse, irritating, and gets everywhere."
         }
       ],
       "achievements": []
@@ -870,7 +870,7 @@
         {
           "name": "Gnomish Compass [Uncommon]_shiny",
           "count": 1,
-          "flavor_text": "Uncommon item: Gnomish Compass"
+          "flavor_text": "Points toward the nearest pub. Always."
         }
       ],
       "achievements": [
@@ -887,47 +887,47 @@
         {
           "name": "Healing Potion [Common]",
           "count": 1,
-          "flavor_text": "Common item: Healing Potion"
+          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
         },
         {
           "name": "Iron Shield [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Iron Shield"
+          "flavor_text": "Has seen battle. Has also seen you trip over it."
         },
         {
           "name": "Wooden Sword [Common]",
           "count": 1,
-          "flavor_text": "Common item: Wooden Sword"
+          "flavor_text": "Warning: may summon memories of being eight years old and unstoppable."
         },
         {
           "name": "Healing Potion [Common]_shiny",
           "count": 1,
-          "flavor_text": "Common item: Healing Potion"
+          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
         },
         {
           "name": "Potion of Almost Invisibility [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Potion of Almost Invisibility"
+          "flavor_text": "Makes you mostly transparent... but only your butt."
         },
         {
           "name": "Spectacles of Overthinking [Rare]",
           "count": 1,
-          "flavor_text": "Rare item: Spectacles of Overthinking"
+          "flavor_text": "See all possible outcomes. Panic accordingly."
         },
         {
           "name": "Cracked Goblin Tooth [Common]",
           "count": 1,
-          "flavor_text": "Common item: Cracked Goblin Tooth"
+          "flavor_text": "You could throw it away. You won\u2019t. That\u2019s who you are now."
         },
         {
           "name": "Pocket Lint [Common]",
           "count": 1,
-          "flavor_text": "Common item: Pocket Lint"
+          "flavor_text": "\u201cPocket Sand\u2019s\" disappointing cousin."
         },
         {
           "name": "Rusty Spoon of Minor Stirring [Common]_shiny",
           "count": 1,
-          "flavor_text": "Common item: Rusty Spoon of Minor Stirring"
+          "flavor_text": "Sometimes it stirs on its own. Don\u2019t acknowledge it. It likes attention."
         }
       ],
       "achievements": []
@@ -939,7 +939,7 @@
         {
           "name": "Pocket Sand [Common]",
           "count": 1,
-          "flavor_text": "Common item: Pocket Sand"
+          "flavor_text": "Coarse, irritating, and gets everywhere."
         }
       ],
       "achievements": []
@@ -951,47 +951,47 @@
         {
           "name": "Iron Shield [Uncommon]_shiny",
           "count": 1,
-          "flavor_text": "Uncommon item: Iron Shield"
+          "flavor_text": "Has seen battle. Has also seen you trip over it."
         },
         {
           "name": "Iron Shield [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Iron Shield"
+          "flavor_text": "Has seen battle. Has also seen you trip over it."
         },
         {
           "name": "Speed Boots [Uncommon]_shiny",
           "count": 1,
-          "flavor_text": "Uncommon item: Speed Boots"
+          "flavor_text": "Only activates when your arms are doing the little angry swings."
         },
         {
           "name": "Phoenix Feather [Epic]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Cures poison. Side effect: your burps taste like smoke."
         },
         {
           "name": "Speed Boots [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Speed Boots"
+          "flavor_text": "Only activates when your arms are doing the little angry swings."
         },
         {
           "name": "Ring of Insight [Rare]_shiny",
           "count": 1,
-          "flavor_text": "Rare item: Ring of Insight"
+          "flavor_text": "If you ask a question aloud, it answers in a way that makes you look stupid for asking."
         },
         {
           "name": "Cursed Mirror Shard [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Cursed Mirror Shard"
+          "flavor_text": "Once per day, shows you what an object was used for last. Side effect: you learn things you cannot unlearn."
         },
         {
           "name": "Crown of Eternity [Legendary]",
           "count": 1,
-          "flavor_text": "Legendary item: Crown of Eternity"
+          "flavor_text": "The longer you wear it, the more you refer to yourself in the third person. Against your will."
         },
         {
           "name": "Cape of Dramatic Wind [Rare]",
           "count": 1,
-          "flavor_text": "Rare item: Cape of Dramatic Wind"
+          "flavor_text": "Blows even indoors. Great for exits."
         }
       ],
       "achievements": [
@@ -1012,7 +1012,7 @@
         {
           "name": "Iron Shield [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Iron Shield"
+          "flavor_text": "Has seen battle. Has also seen you trip over it."
         }
       ],
       "achievements": []
@@ -1024,17 +1024,17 @@
         {
           "name": "Healing Potion [Common]",
           "count": 1,
-          "flavor_text": "Common item: Healing Potion"
+          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
         },
         {
           "name": "Cracked Goblin Tooth [Common]",
           "count": 1,
-          "flavor_text": "Common item: Cracked Goblin Tooth"
+          "flavor_text": "You could throw it away. You won\u2019t. That\u2019s who you are now."
         },
         {
           "name": "Cape of Dramatic Wind [Rare]_shiny",
           "count": 1,
-          "flavor_text": "Rare item: Cape of Dramatic Wind"
+          "flavor_text": "Blows even indoors. Great for exits."
         }
       ],
       "achievements": [
@@ -1051,92 +1051,92 @@
         {
           "name": "Iron Shield [Uncommon]_shiny",
           "count": 1,
-          "flavor_text": "Uncommon item: Iron Shield"
+          "flavor_text": "Has seen battle. Has also seen you trip over it."
         },
         {
           "name": "Healing Potion [Common]",
           "count": 5,
-          "flavor_text": "Common item: Healing Potion"
+          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
         },
         {
           "name": "Iron Shield [Uncommon]",
           "count": 2,
-          "flavor_text": "Uncommon item: Iron Shield"
+          "flavor_text": "Has seen battle. Has also seen you trip over it."
         },
         {
           "name": "Wooden Sword [Common]",
           "count": 5,
-          "flavor_text": "Common item: Wooden Sword"
+          "flavor_text": "Warning: may summon memories of being eight years old and unstoppable."
         },
         {
           "name": "Speed Boots [Uncommon]_shiny",
           "count": 1,
-          "flavor_text": "Uncommon item: Speed Boots"
+          "flavor_text": "Only activates when your arms are doing the little angry swings."
         },
         {
           "name": "Phoenix Feather [Epic]",
           "count": 1,
-          "flavor_text": ""
+          "flavor_text": "Cures poison. Side effect: your burps taste like smoke."
         },
         {
           "name": "Mystic Blade [Rare]",
           "count": 1,
-          "flavor_text": "Rare item: Mystic Blade"
+          "flavor_text": "Gleams heroically even in total darkness. Show-off."
         },
         {
           "name": "Speed Boots [Uncommon]",
           "count": 3,
-          "flavor_text": "Uncommon item: Speed Boots"
+          "flavor_text": "Only activates when your arms are doing the little angry swings."
         },
         {
           "name": "Wooden Sword [Common]_shiny",
           "count": 3,
-          "flavor_text": "Common item: Wooden Sword"
+          "flavor_text": "Warning: may summon memories of being eight years old and unstoppable."
         },
         {
           "name": "Mystic Blade [Rare]_shiny",
           "count": 1,
-          "flavor_text": "Rare item: Mystic Blade"
+          "flavor_text": "Gleams heroically even in total darkness. Show-off."
         },
         {
           "name": "Amulet of Time [Epic]",
           "count": 1,
-          "flavor_text": "Epic item: Amulet of Time"
+          "flavor_text": "Warning: may cause sudden flashbacks to things you \u201cdefinitely didn\u2019t say like that.\u201d"
         },
         {
           "name": "Sock of Slight Warmth [Common]",
           "count": 1,
-          "flavor_text": "Common item: Sock of Slight Warmth"
+          "flavor_text": "Sometimes whispers: \u201cwe could be slippers,\u201d and then sighs."
         },
         {
           "name": "Rusty Spoon of Minor Stirring [Common]",
           "count": 1,
-          "flavor_text": "Common item: Rusty Spoon of Minor Stirring"
+          "flavor_text": "Sometimes it stirs on its own. Don\u2019t acknowledge it. It likes attention."
         },
         {
           "name": "Potion of Almost Invisibility [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Potion of Almost Invisibility"
+          "flavor_text": "Makes you mostly transparent... but only your butt."
         },
         {
           "name": "Cursed Mirror Shard [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Cursed Mirror Shard"
+          "flavor_text": "Once per day, shows you what an object was used for last. Side effect: you learn things you cannot unlearn."
         },
         {
           "name": "Gnomish Compass [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Gnomish Compass"
+          "flavor_text": "Points toward the nearest pub. Always."
         },
         {
           "name": "Pocket Sand [Common]",
           "count": 1,
-          "flavor_text": "Common item: Pocket Sand"
+          "flavor_text": "Coarse, irritating, and gets everywhere."
         },
         {
           "name": "Mirror of Unexpected Encouragement [Epic]",
           "count": 1,
-          "flavor_text": "Epic item: Mirror of Unexpected Encouragement"
+          "flavor_text": "Tells you you\u2019re doing great... even when you're not."
         }
       ],
       "achievements": [
@@ -1169,17 +1169,17 @@
         {
           "name": "Ring of Insight [Rare]",
           "count": 1,
-          "flavor_text": "Rare item: Ring of Insight"
+          "flavor_text": "If you ask a question aloud, it answers in a way that makes you look stupid for asking."
         },
         {
           "name": "Gnomish Compass [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Gnomish Compass"
+          "flavor_text": "Points toward the nearest pub. Always."
         },
         {
           "name": "Cape of Dramatic Wind [Rare]",
           "count": 1,
-          "flavor_text": "Rare item: Cape of Dramatic Wind"
+          "flavor_text": "Blows even indoors. Great for exits."
         }
       ],
       "achievements": [
@@ -1196,12 +1196,12 @@
         {
           "name": "Spectacles of Overthinking [Rare]",
           "count": 1,
-          "flavor_text": "Rare item: Spectacles of Overthinking"
+          "flavor_text": "See all possible outcomes. Panic accordingly."
         },
         {
           "name": "Pocket Sand [Common]",
           "count": 1,
-          "flavor_text": "Common item: Pocket Sand"
+          "flavor_text": "Coarse, irritating, and gets everywhere."
         }
       ],
       "achievements": []
@@ -1213,7 +1213,7 @@
         {
           "name": "Cracked Goblin Tooth [Common]",
           "count": 1,
-          "flavor_text": "Common item: Cracked Goblin Tooth"
+          "flavor_text": "You could throw it away. You won\u2019t. That\u2019s who you are now."
         }
       ],
       "achievements": []
@@ -1225,37 +1225,37 @@
         {
           "name": "Healing Potion [Common]",
           "count": 2,
-          "flavor_text": "Common item: Healing Potion"
+          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
         },
         {
           "name": "Iron Shield [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Iron Shield"
+          "flavor_text": "Has seen battle. Has also seen you trip over it."
         },
         {
           "name": "Wooden Sword [Common]_shiny",
           "count": 1,
-          "flavor_text": "Common item: Wooden Sword"
+          "flavor_text": "Warning: may summon memories of being eight years old and unstoppable."
         },
         {
           "name": "Rusty Spoon of Minor Stirring [Common]",
           "count": 1,
-          "flavor_text": "Common item: Rusty Spoon of Minor Stirring"
+          "flavor_text": "Sometimes it stirs on its own. Don\u2019t acknowledge it. It likes attention."
         },
         {
           "name": "Potion of Almost Invisibility [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Potion of Almost Invisibility"
+          "flavor_text": "Makes you mostly transparent... but only your butt."
         },
         {
           "name": "Sock of Slight Warmth [Common]_shiny",
           "count": 1,
-          "flavor_text": "Common item: Sock of Slight Warmth"
+          "flavor_text": "Sometimes whispers: \u201cwe could be slippers,\u201d and then sighs."
         },
         {
           "name": "Bag of Holding... Grudges [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Bag of Holding... Grudges"
+          "flavor_text": "Once per day: produces exactly the right tool. Also produces a petty remark in your own handwriting."
         }
       ],
       "achievements": [
@@ -1276,12 +1276,12 @@
         {
           "name": "Rusty Spoon of Minor Stirring [Common]",
           "count": 1,
-          "flavor_text": "Common item: Rusty Spoon of Minor Stirring"
+          "flavor_text": "Sometimes it stirs on its own. Don\u2019t acknowledge it. It likes attention."
         },
         {
           "name": "Cursed Mirror Shard [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Cursed Mirror Shard"
+          "flavor_text": "Once per day, shows you what an object was used for last. Side effect: you learn things you cannot unlearn."
         }
       ],
       "achievements": [
@@ -1298,27 +1298,27 @@
         {
           "name": "Healing Potion [Common]",
           "count": 1,
-          "flavor_text": "Common item: Healing Potion"
+          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
         },
         {
           "name": "Wooden Sword [Common]",
           "count": 1,
-          "flavor_text": "Common item: Wooden Sword"
+          "flavor_text": "Warning: may summon memories of being eight years old and unstoppable."
         },
         {
           "name": "Rusty Spoon of Minor Stirring [Common]",
           "count": 2,
-          "flavor_text": "Common item: Rusty Spoon of Minor Stirring"
+          "flavor_text": "Sometimes it stirs on its own. Don\u2019t acknowledge it. It likes attention."
         },
         {
           "name": "Pocket Sand [Common]",
           "count": 1,
-          "flavor_text": "Common item: Pocket Sand"
+          "flavor_text": "Coarse, irritating, and gets everywhere."
         },
         {
           "name": "Pocket Lint [Common]",
           "count": 1,
-          "flavor_text": "Common item: Pocket Lint"
+          "flavor_text": "\u201cPocket Sand\u2019s\" disappointing cousin."
         }
       ],
       "achievements": [
@@ -1335,42 +1335,42 @@
         {
           "name": "Healing Potion [Common]",
           "count": 1,
-          "flavor_text": "Common item: Healing Potion"
+          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
         },
         {
           "name": "Wooden Sword [Common]",
           "count": 2,
-          "flavor_text": "Common item: Wooden Sword"
+          "flavor_text": "Warning: may summon memories of being eight years old and unstoppable."
         },
         {
           "name": "Mystic Blade [Rare]",
           "count": 1,
-          "flavor_text": "Rare item: Mystic Blade"
+          "flavor_text": "Gleams heroically even in total darkness. Show-off."
         },
         {
           "name": "Speed Boots [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Speed Boots"
+          "flavor_text": "Only activates when your arms are doing the little angry swings."
         },
         {
           "name": "Sock of Slight Warmth [Common]",
           "count": 1,
-          "flavor_text": "Common item: Sock of Slight Warmth"
+          "flavor_text": "Sometimes whispers: \u201cwe could be slippers,\u201d and then sighs."
         },
         {
           "name": "Cracked Goblin Tooth [Common]",
           "count": 1,
-          "flavor_text": "Common item: Cracked Goblin Tooth"
+          "flavor_text": "You could throw it away. You won\u2019t. That\u2019s who you are now."
         },
         {
           "name": "Pocket Lint [Common]",
           "count": 1,
-          "flavor_text": "Common item: Pocket Lint"
+          "flavor_text": "\u201cPocket Sand\u2019s\" disappointing cousin."
         },
         {
           "name": "Pocket Lint [Common]_shiny",
           "count": 1,
-          "flavor_text": "Common item: Pocket Lint"
+          "flavor_text": "\u201cPocket Sand\u2019s\" disappointing cousin."
         }
       ],
       "achievements": [
@@ -1391,52 +1391,52 @@
         {
           "name": "Healing Potion [Common]",
           "count": 2,
-          "flavor_text": "Common item: Healing Potion"
+          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
         },
         {
           "name": "Iron Shield [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Iron Shield"
+          "flavor_text": "Has seen battle. Has also seen you trip over it."
         },
         {
           "name": "Wooden Sword [Common]",
           "count": 2,
-          "flavor_text": "Common item: Wooden Sword"
+          "flavor_text": "Warning: may summon memories of being eight years old and unstoppable."
         },
         {
           "name": "Mystic Blade [Rare]",
           "count": 1,
-          "flavor_text": "Rare item: Mystic Blade"
+          "flavor_text": "Gleams heroically even in total darkness. Show-off."
         },
         {
           "name": "Ring of Insight [Rare]",
           "count": 1,
-          "flavor_text": "Rare item: Ring of Insight"
+          "flavor_text": "If you ask a question aloud, it answers in a way that makes you look stupid for asking."
         },
         {
           "name": "Sock of Slight Warmth [Common]",
           "count": 1,
-          "flavor_text": "Common item: Sock of Slight Warmth"
+          "flavor_text": "Sometimes whispers: \u201cwe could be slippers,\u201d and then sighs."
         },
         {
           "name": "Rusty Spoon of Minor Stirring [Common]",
           "count": 1,
-          "flavor_text": "Common item: Rusty Spoon of Minor Stirring"
+          "flavor_text": "Sometimes it stirs on its own. Don\u2019t acknowledge it. It likes attention."
         },
         {
           "name": "Cracked Goblin Tooth [Common]",
           "count": 1,
-          "flavor_text": "Common item: Cracked Goblin Tooth"
+          "flavor_text": "You could throw it away. You won\u2019t. That\u2019s who you are now."
         },
         {
           "name": "Gnomish Compass [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Gnomish Compass"
+          "flavor_text": "Points toward the nearest pub. Always."
         },
         {
           "name": "Pocket Lint [Common]",
           "count": 1,
-          "flavor_text": "Common item: Pocket Lint"
+          "flavor_text": "\u201cPocket Sand\u2019s\" disappointing cousin."
         }
       ],
       "achievements": [
@@ -1461,12 +1461,12 @@
         {
           "name": "Wooden Sword [Common]",
           "count": 1,
-          "flavor_text": "Common item: Wooden Sword"
+          "flavor_text": "Warning: may summon memories of being eight years old and unstoppable."
         },
         {
           "name": "Pocket Lint [Common]",
           "count": 1,
-          "flavor_text": "Common item: Pocket Lint"
+          "flavor_text": "\u201cPocket Sand\u2019s\" disappointing cousin."
         }
       ],
       "achievements": []
@@ -1478,7 +1478,7 @@
         {
           "name": "Healing Potion [Common]",
           "count": 1,
-          "flavor_text": "Common item: Healing Potion"
+          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
         }
       ],
       "achievements": []
@@ -1490,27 +1490,27 @@
         {
           "name": "Mystic Blade [Rare]_shiny",
           "count": 1,
-          "flavor_text": "Rare item: Mystic Blade"
+          "flavor_text": "Gleams heroically even in total darkness. Show-off."
         },
         {
           "name": "Rusty Spoon of Minor Stirring [Common]",
           "count": 1,
-          "flavor_text": "Common item: Rusty Spoon of Minor Stirring"
+          "flavor_text": "Sometimes it stirs on its own. Don\u2019t acknowledge it. It likes attention."
         },
         {
           "name": "Cursed Mirror Shard [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Cursed Mirror Shard"
+          "flavor_text": "Once per day, shows you what an object was used for last. Side effect: you learn things you cannot unlearn."
         },
         {
           "name": "Spectacles of Overthinking [Rare]",
           "count": 1,
-          "flavor_text": "Rare item: Spectacles of Overthinking"
+          "flavor_text": "See all possible outcomes. Panic accordingly."
         },
         {
           "name": "Cursed Plush of Encouragement [Epic]",
           "count": 1,
-          "flavor_text": "Epic item: Cursed Plush of Encouragement"
+          "flavor_text": "Whispers supportively... in Infernal."
         }
       ],
       "achievements": [
@@ -1531,7 +1531,7 @@
         {
           "name": "Mystic Blade [Rare]",
           "count": 1,
-          "flavor_text": "Rare item: Mystic Blade"
+          "flavor_text": "Gleams heroically even in total darkness. Show-off."
         }
       ],
       "achievements": [
@@ -1552,7 +1552,7 @@
         {
           "name": "Cursed Mirror Shard [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Cursed Mirror Shard"
+          "flavor_text": "Once per day, shows you what an object was used for last. Side effect: you learn things you cannot unlearn."
         }
       ],
       "achievements": []
@@ -1564,7 +1564,7 @@
         {
           "name": "Wooden Sword [Common]_shiny",
           "count": 1,
-          "flavor_text": "Common item: Wooden Sword"
+          "flavor_text": "Warning: may summon memories of being eight years old and unstoppable."
         }
       ],
       "achievements": []
@@ -1587,7 +1587,7 @@
         {
           "name": "Speed Boots [Uncommon]_shiny",
           "count": 1,
-          "flavor_text": "Uncommon item: Speed Boots"
+          "flavor_text": "Only activates when your arms are doing the little angry swings."
         }
       ],
       "achievements": []
@@ -1599,7 +1599,7 @@
         {
           "name": "Speed Boots [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Speed Boots"
+          "flavor_text": "Only activates when your arms are doing the little angry swings."
         }
       ],
       "achievements": []
@@ -1611,7 +1611,7 @@
         {
           "name": "Potion of Almost Invisibility [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Potion of Almost Invisibility"
+          "flavor_text": "Makes you mostly transparent... but only your butt."
         }
       ],
       "achievements": [
@@ -1628,12 +1628,12 @@
         {
           "name": "Spectacles of Overthinking [Rare]",
           "count": 1,
-          "flavor_text": "Rare item: Spectacles of Overthinking"
+          "flavor_text": "See all possible outcomes. Panic accordingly."
         },
         {
           "name": "Pocket Sand [Common]",
           "count": 1,
-          "flavor_text": "Common item: Pocket Sand"
+          "flavor_text": "Coarse, irritating, and gets everywhere."
         }
       ],
       "achievements": []
@@ -1645,7 +1645,7 @@
         {
           "name": "Speed Boots [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Speed Boots"
+          "flavor_text": "Only activates when your arms are doing the little angry swings."
         }
       ],
       "achievements": []
@@ -1657,7 +1657,7 @@
         {
           "name": "Rusty Spoon of Minor Stirring [Common]",
           "count": 1,
-          "flavor_text": "Common item: Rusty Spoon of Minor Stirring"
+          "flavor_text": "Sometimes it stirs on its own. Don\u2019t acknowledge it. It likes attention."
         }
       ],
       "achievements": []
@@ -1669,12 +1669,12 @@
         {
           "name": "Cracked Goblin Tooth [Common]",
           "count": 1,
-          "flavor_text": "Common item: Cracked Goblin Tooth"
+          "flavor_text": "You could throw it away. You won\u2019t. That\u2019s who you are now."
         },
         {
           "name": "Pocket Lint [Common]",
           "count": 1,
-          "flavor_text": "Common item: Pocket Lint"
+          "flavor_text": "\u201cPocket Sand\u2019s\" disappointing cousin."
         }
       ],
       "achievements": []
@@ -1686,7 +1686,7 @@
         {
           "name": "Speed Boots [Uncommon]_shiny",
           "count": 1,
-          "flavor_text": "Uncommon item: Speed Boots"
+          "flavor_text": "Only activates when your arms are doing the little angry swings."
         }
       ],
       "achievements": [
@@ -1703,12 +1703,12 @@
         {
           "name": "Potion of Almost Invisibility [Uncommon]",
           "count": 1,
-          "flavor_text": "Uncommon item: Potion of Almost Invisibility"
+          "flavor_text": "Makes you mostly transparent... but only your butt."
         },
         {
           "name": "Cracked Goblin Tooth [Common]",
           "count": 1,
-          "flavor_text": "Common item: Cracked Goblin Tooth"
+          "flavor_text": "You could throw it away. You won\u2019t. That\u2019s who you are now."
         }
       ],
       "achievements": []
@@ -1720,7 +1720,7 @@
         {
           "name": "Ring of Insight [Rare]",
           "count": 1,
-          "flavor_text": "Rare item: Ring of Insight"
+          "flavor_text": "If you ask a question aloud, it answers in a way that makes you look stupid for asking."
         }
       ],
       "achievements": []
@@ -1743,31 +1743,36 @@
         {
           "name": "Pocket Lint [Common]_shiny",
           "count": 1,
-          "flavor_text": "Common item: Pocket Lint"
+          "flavor_text": "\u201cPocket Sand\u2019s\" disappointing cousin."
         }
       ],
       "achievements": []
     },
     "MikoOki": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8f84b2f-7a69-4e1d-853d-6ec5978e617f-profile_image-300x300.png",
-      "checkins": 2,
+      "checkins": 3,
       "items": [
         {
           "name": "Healing Potion [Common]",
           "count": 1,
-          "flavor_text": "Common item: Healing Potion"
+          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
         },
         {
           "name": "Healing Potion [Common]_shiny",
           "count": 1,
-          "flavor_text": "Common item: Healing Potion"
+          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
+        },
+        {
+          "name": "Rusty Spoon of Minor Stirring [Common]",
+          "count": 1,
+          "flavor_text": "Sometimes it stirs on its own. Don\u2019t acknowledge it. It likes attention."
         }
       ],
       "achievements": []
     }
   },
   "metadata": {
-    "last_updated": "2026-01-11T16:08:59.736952",
+    "last_updated": "2026-01-11T19:08:03.821571",
     "total_users": 66,
     "version": "1.0"
   }
