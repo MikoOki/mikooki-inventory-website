@@ -1162,33 +1162,6 @@
         }
       ]
     },
-    "MikoOki": {
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8f84b2f-7a69-4e1d-853d-6ec5978e617f-profile_image-300x300.png",
-      "checkins": 4,
-      "items": [
-        {
-          "name": "Pocket Sand [Common]_shiny",
-          "count": 1,
-          "flavor_text": "Common item: Pocket Sand"
-        },
-        {
-          "name": "Cursed Mirror Shard [Uncommon]",
-          "count": 1,
-          "flavor_text": "Uncommon item: Cursed Mirror Shard"
-        },
-        {
-          "name": "Wooden Sword [Common]",
-          "count": 1,
-          "flavor_text": "Common item: Wooden Sword"
-        },
-        {
-          "name": "Cracked Goblin Tooth [Common]",
-          "count": 1,
-          "flavor_text": "Common item: Cracked Goblin Tooth"
-        }
-      ],
-      "achievements": []
-    },
     "mr_sharkey_": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e5cd4ce0-5eec-4cf1-a26e-1b93cf643731-profile_image-300x300.png",
       "checkins": 3,
@@ -1774,10 +1747,22 @@
         }
       ],
       "achievements": []
+    },
+    "MikoOki": {
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8f84b2f-7a69-4e1d-853d-6ec5978e617f-profile_image-300x300.png",
+      "checkins": 1,
+      "items": [
+        {
+          "name": "Healing Potion [Common]",
+          "count": 1,
+          "flavor_text": "Common item: Healing Potion"
+        }
+      ],
+      "achievements": []
     }
   },
   "metadata": {
-    "last_updated": "2026-01-11T15:59:37.908978",
+    "last_updated": "2026-01-11T16:07:33.683732",
     "total_users": 66,
     "version": "1.0"
   }
