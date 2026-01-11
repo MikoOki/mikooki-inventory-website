@@ -1750,10 +1750,15 @@
     },
     "MikoOki": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8f84b2f-7a69-4e1d-853d-6ec5978e617f-profile_image-300x300.png",
-      "checkins": 1,
+      "checkins": 2,
       "items": [
         {
           "name": "Healing Potion [Common]",
+          "count": 1,
+          "flavor_text": "Common item: Healing Potion"
+        },
+        {
+          "name": "Healing Potion [Common]_shiny",
           "count": 1,
           "flavor_text": "Common item: Healing Potion"
         }
@@ -1762,7 +1767,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-11T16:07:33.683732",
+    "last_updated": "2026-01-11T16:08:59.736952",
     "total_users": 66,
     "version": "1.0"
   }
