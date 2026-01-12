@@ -1801,11 +1801,22 @@
           "description": "Awarded on first checkin"
         }
       ]
+    },
+    "misspuffles698": {
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/ba450b89-6e08-428a-8ae9-a6abb8e0e5ca-profile_image-300x300.jpeg",
+      "checkins": 1,
+      "items": [],
+      "achievements": [
+        {
+          "title": "First Steps",
+          "description": "Awarded on first checkin"
+        }
+      ]
     }
   },
   "metadata": {
-    "last_updated": "2026-01-12T20:44:37.674265",
-    "total_users": 68,
+    "last_updated": "2026-01-12T20:54:29.295842",
+    "total_users": 69,
     "version": "1.0"
   }
 }
