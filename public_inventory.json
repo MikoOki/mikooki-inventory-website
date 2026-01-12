@@ -1,5 +1,268 @@
 {
   "users": {
+    "darkchazy": {
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/696dfb54-391f-4c70-86ee-a58b6f59a092-profile_image-300x300.png",
+      "checkins": 6,
+      "items": [
+        {
+          "name": "Iron Shield [Uncommon]_shiny",
+          "count": 1,
+          "flavor_text": "Has seen battle. Has also seen you trip over it."
+        },
+        {
+          "name": "Healing Potion [Common]",
+          "count": 1,
+          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
+        },
+        {
+          "name": "Iron Shield [Uncommon]",
+          "count": 1,
+          "flavor_text": "Has seen battle. Has also seen you trip over it."
+        },
+        {
+          "name": "Cracked Goblin Tooth [Common]",
+          "count": 1,
+          "flavor_text": "You could throw it away. You won\u2019t. That\u2019s who you are now."
+        },
+        {
+          "name": "Sock of Slight Warmth [Common]_shiny",
+          "count": 1,
+          "flavor_text": "Sometimes whispers: \u201cwe could be slippers,\u201d and then sighs."
+        }
+      ],
+      "achievements": [
+        {
+          "title": "First Steps",
+          "description": "Awarded on 10th check-in redeem."
+        }
+      ]
+    },
+    "jubberwok": {
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e11d19fe-5bca-450d-9859-c32be07090d3-profile_image-300x300.png",
+      "checkins": 10,
+      "items": [
+        {
+          "name": "Healing Potion [Common]",
+          "count": 1,
+          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
+        },
+        {
+          "name": "Iron Shield [Uncommon]",
+          "count": 1,
+          "flavor_text": "Has seen battle. Has also seen you trip over it."
+        },
+        {
+          "name": "Wooden Sword [Common]",
+          "count": 1,
+          "flavor_text": "Warning: may summon memories of being eight years old and unstoppable."
+        },
+        {
+          "name": "Healing Potion [Common]_shiny",
+          "count": 1,
+          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
+        },
+        {
+          "name": "Potion of Almost Invisibility [Uncommon]",
+          "count": 1,
+          "flavor_text": "Makes you mostly transparent... but only your butt."
+        },
+        {
+          "name": "Spectacles of Overthinking [Rare]",
+          "count": 1,
+          "flavor_text": "See all possible outcomes. Panic accordingly."
+        },
+        {
+          "name": "Cracked Goblin Tooth [Common]",
+          "count": 1,
+          "flavor_text": "You could throw it away. You won\u2019t. That\u2019s who you are now."
+        },
+        {
+          "name": "Pocket Lint [Common]",
+          "count": 1,
+          "flavor_text": "\u201cPocket Sand\u2019s\" disappointing cousin."
+        },
+        {
+          "name": "Rusty Spoon of Minor Stirring [Common]_shiny",
+          "count": 1,
+          "flavor_text": "Sometimes it stirs on its own. Don\u2019t acknowledge it. It likes attention."
+        }
+      ],
+      "achievements": [
+        {
+          "title": "First Steps",
+          "description": "Awarded on 10th check-in redeem."
+        }
+      ]
+    },
+    "mikooki": {
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8f84b2f-7a69-4e1d-853d-6ec5978e617f-profile_image-300x300.png",
+      "checkins": 37,
+      "items": [
+        {
+          "name": "Healing Potion [Common]",
+          "count": 7,
+          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
+        },
+        {
+          "name": "Healing Potion [Common]_shiny",
+          "count": 1,
+          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
+        },
+        {
+          "name": "Rusty Spoon of Minor Stirring [Common]",
+          "count": 2,
+          "flavor_text": "Sometimes it stirs on its own. Don\u2019t acknowledge it. It likes attention."
+        },
+        {
+          "name": "Speed Boots [Uncommon]",
+          "count": 4,
+          "flavor_text": "Only activates when your arms are doing the little angry swings."
+        },
+        {
+          "name": "Iron Shield [Uncommon]_shiny",
+          "count": 1,
+          "flavor_text": "Has seen battle. Has also seen you trip over it."
+        },
+        {
+          "name": "Iron Shield [Uncommon]",
+          "count": 2,
+          "flavor_text": "Has seen battle. Has also seen you trip over it."
+        },
+        {
+          "name": "Wooden Sword [Common]",
+          "count": 5,
+          "flavor_text": "Warning: may summon memories of being eight years old and unstoppable."
+        },
+        {
+          "name": "Speed Boots [Uncommon]_shiny",
+          "count": 1,
+          "flavor_text": "Only activates when your arms are doing the little angry swings."
+        },
+        {
+          "name": "Phoenix Feather [Epic]",
+          "count": 1,
+          "flavor_text": "Cures poison. Side effect: your burps taste like smoke."
+        },
+        {
+          "name": "Mystic Blade [Rare]",
+          "count": 1,
+          "flavor_text": "Gleams heroically even in total darkness. Show-off."
+        },
+        {
+          "name": "Wooden Sword [Common]_shiny",
+          "count": 3,
+          "flavor_text": "Warning: may summon memories of being eight years old and unstoppable."
+        },
+        {
+          "name": "Mystic Blade [Rare]_shiny",
+          "count": 1,
+          "flavor_text": "Gleams heroically even in total darkness. Show-off."
+        },
+        {
+          "name": "Amulet of Time [Epic]",
+          "count": 1,
+          "flavor_text": "Warning: may cause sudden flashbacks to things you \u201cdefinitely didn\u2019t say like that.\u201d"
+        },
+        {
+          "name": "Sock of Slight Warmth [Common]",
+          "count": 1,
+          "flavor_text": "Sometimes whispers: \u201cwe could be slippers,\u201d and then sighs."
+        },
+        {
+          "name": "Potion of Almost Invisibility [Uncommon]",
+          "count": 1,
+          "flavor_text": "Makes you mostly transparent... but only your butt."
+        },
+        {
+          "name": "Cursed Mirror Shard [Uncommon]",
+          "count": 1,
+          "flavor_text": "Once per day, shows you what an object was used for last. Side effect: you learn things you cannot unlearn."
+        },
+        {
+          "name": "Gnomish Compass [Uncommon]",
+          "count": 1,
+          "flavor_text": "Points toward the nearest pub. Always."
+        },
+        {
+          "name": "Pocket Sand [Common]",
+          "count": 1,
+          "flavor_text": "Coarse, irritating, and gets everywhere."
+        },
+        {
+          "name": "Mirror of Unexpected Encouragement [Epic]",
+          "count": 1,
+          "flavor_text": "Tells you you\u2019re doing great... even when you're not."
+        }
+      ],
+      "achievements": [
+        {
+          "title": "First Steps",
+          "description": "Awarded on 10th check-in redeem."
+        },
+        {
+          "title": "Influencer Badge_event",
+          "description": "Achievement: Influencer Badge_event"
+        },
+        {
+          "title": "Seasoned Explorer",
+          "description": "Achievement: Seasoned Explorer"
+        },
+        {
+          "title": "5 Years_event",
+          "description": "Celebrating 5 years as an Affiliate on twitch!"
+        },
+        {
+          "title": "Subathon Birthday '25_event",
+          "description": "Achievement: Subathon Birthday 2025"
+        }
+      ]
+    },
+    "thanhttheboss": {
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/59f6426f-9ed9-4a63-a216-b4ffe10e6cd8-profile_image-300x300.png",
+      "checkins": 7,
+      "items": [
+        {
+          "name": "Potion of Almost Invisibility [Uncommon]",
+          "count": 1,
+          "flavor_text": "Makes you mostly transparent... but only your butt."
+        },
+        {
+          "name": "Mystic Blade [Rare]_shiny",
+          "count": 1,
+          "flavor_text": "Gleams heroically even in total darkness. Show-off."
+        },
+        {
+          "name": "Rusty Spoon of Minor Stirring [Common]",
+          "count": 1,
+          "flavor_text": "Sometimes it stirs on its own. Don\u2019t acknowledge it. It likes attention."
+        },
+        {
+          "name": "Cursed Mirror Shard [Uncommon]",
+          "count": 1,
+          "flavor_text": "Once per day, shows you what an object was used for last. Side effect: you learn things you cannot unlearn."
+        },
+        {
+          "name": "Spectacles of Overthinking [Rare]",
+          "count": 1,
+          "flavor_text": "See all possible outcomes. Panic accordingly."
+        },
+        {
+          "name": "Cursed Plush of Encouragement [Epic]",
+          "count": 1,
+          "flavor_text": "Whispers supportively... in Infernal."
+        }
+      ],
+      "achievements": [
+        {
+          "title": "First Steps",
+          "description": "Awarded on 10th check-in redeem."
+        },
+        {
+          "title": "Subathon Birthday '25_event",
+          "description": "Achievement: Subathon Birthday 2025"
+        }
+      ]
+    },
     "aerodeon": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c4335b09-cddb-49ba-a044-9be1f3970701-profile_image-300x300.png",
       "checkins": 2,
@@ -229,7 +492,7 @@
         }
       ]
     },
-    "BrutalSue": {
+    "brutalsue": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/4d914325-4975-482c-b9d8-81651752a095-profile_image-300x300.png",
       "checkins": 0,
       "items": [],
@@ -460,38 +723,6 @@
           "description": "Achievement: Subathon Birthday 2025"
         }
       ]
-    },
-    "darkchazy": {
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/696dfb54-391f-4c70-86ee-a58b6f59a092-profile_image-300x300.png",
-      "checkins": 5,
-      "items": [
-        {
-          "name": "Iron Shield [Uncommon]_shiny",
-          "count": 1,
-          "flavor_text": "Has seen battle. Has also seen you trip over it."
-        },
-        {
-          "name": "Healing Potion [Common]",
-          "count": 1,
-          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
-        },
-        {
-          "name": "Iron Shield [Uncommon]",
-          "count": 1,
-          "flavor_text": "Has seen battle. Has also seen you trip over it."
-        },
-        {
-          "name": "Cracked Goblin Tooth [Common]",
-          "count": 1,
-          "flavor_text": "You could throw it away. You won\u2019t. That\u2019s who you are now."
-        },
-        {
-          "name": "Sock of Slight Warmth [Common]_shiny",
-          "count": 1,
-          "flavor_text": "Sometimes whispers: \u201cwe could be slippers,\u201d and then sighs."
-        }
-      ],
-      "achievements": []
     },
     "defeatedbydoors": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8419f0b5-f564-4454-b42f-83de97608760-profile_image-300x300.png",
@@ -880,58 +1111,6 @@
         }
       ]
     },
-    "jubberwok": {
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e11d19fe-5bca-450d-9859-c32be07090d3-profile_image-300x300.png",
-      "checkins": 9,
-      "items": [
-        {
-          "name": "Healing Potion [Common]",
-          "count": 1,
-          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
-        },
-        {
-          "name": "Iron Shield [Uncommon]",
-          "count": 1,
-          "flavor_text": "Has seen battle. Has also seen you trip over it."
-        },
-        {
-          "name": "Wooden Sword [Common]",
-          "count": 1,
-          "flavor_text": "Warning: may summon memories of being eight years old and unstoppable."
-        },
-        {
-          "name": "Healing Potion [Common]_shiny",
-          "count": 1,
-          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
-        },
-        {
-          "name": "Potion of Almost Invisibility [Uncommon]",
-          "count": 1,
-          "flavor_text": "Makes you mostly transparent... but only your butt."
-        },
-        {
-          "name": "Spectacles of Overthinking [Rare]",
-          "count": 1,
-          "flavor_text": "See all possible outcomes. Panic accordingly."
-        },
-        {
-          "name": "Cracked Goblin Tooth [Common]",
-          "count": 1,
-          "flavor_text": "You could throw it away. You won\u2019t. That\u2019s who you are now."
-        },
-        {
-          "name": "Pocket Lint [Common]",
-          "count": 1,
-          "flavor_text": "\u201cPocket Sand\u2019s\" disappointing cousin."
-        },
-        {
-          "name": "Rusty Spoon of Minor Stirring [Common]_shiny",
-          "count": 1,
-          "flavor_text": "Sometimes it stirs on its own. Don\u2019t acknowledge it. It likes attention."
-        }
-      ],
-      "achievements": []
-    },
     "justvyxx": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6690f39-9492-4a3e-84b0-7961784c601c-profile_image-300x300.png",
       "checkins": 1,
@@ -1038,124 +1217,6 @@
         }
       ],
       "achievements": [
-        {
-          "title": "Subathon Birthday '25_event",
-          "description": "Achievement: Subathon Birthday 2025"
-        }
-      ]
-    },
-    "mikooki": {
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8f84b2f-7a69-4e1d-853d-6ec5978e617f-profile_image-300x300.png",
-      "checkins": 31,
-      "items": [
-        {
-          "name": "Iron Shield [Uncommon]_shiny",
-          "count": 1,
-          "flavor_text": "Has seen battle. Has also seen you trip over it."
-        },
-        {
-          "name": "Healing Potion [Common]",
-          "count": 5,
-          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
-        },
-        {
-          "name": "Iron Shield [Uncommon]",
-          "count": 2,
-          "flavor_text": "Has seen battle. Has also seen you trip over it."
-        },
-        {
-          "name": "Wooden Sword [Common]",
-          "count": 5,
-          "flavor_text": "Warning: may summon memories of being eight years old and unstoppable."
-        },
-        {
-          "name": "Speed Boots [Uncommon]_shiny",
-          "count": 1,
-          "flavor_text": "Only activates when your arms are doing the little angry swings."
-        },
-        {
-          "name": "Phoenix Feather [Epic]",
-          "count": 1,
-          "flavor_text": "Cures poison. Side effect: your burps taste like smoke."
-        },
-        {
-          "name": "Mystic Blade [Rare]",
-          "count": 1,
-          "flavor_text": "Gleams heroically even in total darkness. Show-off."
-        },
-        {
-          "name": "Speed Boots [Uncommon]",
-          "count": 3,
-          "flavor_text": "Only activates when your arms are doing the little angry swings."
-        },
-        {
-          "name": "Wooden Sword [Common]_shiny",
-          "count": 3,
-          "flavor_text": "Warning: may summon memories of being eight years old and unstoppable."
-        },
-        {
-          "name": "Mystic Blade [Rare]_shiny",
-          "count": 1,
-          "flavor_text": "Gleams heroically even in total darkness. Show-off."
-        },
-        {
-          "name": "Amulet of Time [Epic]",
-          "count": 1,
-          "flavor_text": "Warning: may cause sudden flashbacks to things you \u201cdefinitely didn\u2019t say like that.\u201d"
-        },
-        {
-          "name": "Sock of Slight Warmth [Common]",
-          "count": 1,
-          "flavor_text": "Sometimes whispers: \u201cwe could be slippers,\u201d and then sighs."
-        },
-        {
-          "name": "Rusty Spoon of Minor Stirring [Common]",
-          "count": 1,
-          "flavor_text": "Sometimes it stirs on its own. Don\u2019t acknowledge it. It likes attention."
-        },
-        {
-          "name": "Potion of Almost Invisibility [Uncommon]",
-          "count": 1,
-          "flavor_text": "Makes you mostly transparent... but only your butt."
-        },
-        {
-          "name": "Cursed Mirror Shard [Uncommon]",
-          "count": 1,
-          "flavor_text": "Once per day, shows you what an object was used for last. Side effect: you learn things you cannot unlearn."
-        },
-        {
-          "name": "Gnomish Compass [Uncommon]",
-          "count": 1,
-          "flavor_text": "Points toward the nearest pub. Always."
-        },
-        {
-          "name": "Pocket Sand [Common]",
-          "count": 1,
-          "flavor_text": "Coarse, irritating, and gets everywhere."
-        },
-        {
-          "name": "Mirror of Unexpected Encouragement [Epic]",
-          "count": 1,
-          "flavor_text": "Tells you you\u2019re doing great... even when you're not."
-        }
-      ],
-      "achievements": [
-        {
-          "title": "First Steps",
-          "description": "Awarded on 10th check-in redeem."
-        },
-        {
-          "title": "Influencer Badge_event",
-          "description": "Achievement: Influencer Badge_event"
-        },
-        {
-          "title": "Seasoned Explorer",
-          "description": "Achievement: Seasoned Explorer"
-        },
-        {
-          "title": "5 Years_event",
-          "description": "Celebrating 5 years as an Affiliate on twitch!"
-        },
         {
           "title": "Subathon Birthday '25_event",
           "description": "Achievement: Subathon Birthday 2025"
@@ -1483,47 +1544,6 @@
       ],
       "achievements": []
     },
-    "thanhttheboss": {
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/59f6426f-9ed9-4a63-a216-b4ffe10e6cd8-profile_image-300x300.png",
-      "checkins": 5,
-      "items": [
-        {
-          "name": "Mystic Blade [Rare]_shiny",
-          "count": 1,
-          "flavor_text": "Gleams heroically even in total darkness. Show-off."
-        },
-        {
-          "name": "Rusty Spoon of Minor Stirring [Common]",
-          "count": 1,
-          "flavor_text": "Sometimes it stirs on its own. Don\u2019t acknowledge it. It likes attention."
-        },
-        {
-          "name": "Cursed Mirror Shard [Uncommon]",
-          "count": 1,
-          "flavor_text": "Once per day, shows you what an object was used for last. Side effect: you learn things you cannot unlearn."
-        },
-        {
-          "name": "Spectacles of Overthinking [Rare]",
-          "count": 1,
-          "flavor_text": "See all possible outcomes. Panic accordingly."
-        },
-        {
-          "name": "Cursed Plush of Encouragement [Epic]",
-          "count": 1,
-          "flavor_text": "Whispers supportively... in Infernal."
-        }
-      ],
-      "achievements": [
-        {
-          "title": "First Steps",
-          "description": "Awarded on 10th check-in redeem."
-        },
-        {
-          "title": "Subathon Birthday '25_event",
-          "description": "Achievement: Subathon Birthday 2025"
-        }
-      ]
-    },
     "thebeezydominic": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/336edd16-173d-4ebc-9074-9447e9685fa5-profile_image-300x300.png",
       "checkins": 1,
@@ -1748,60 +1768,6 @@
       ],
       "achievements": []
     },
-    "MikoOki": {
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8f84b2f-7a69-4e1d-853d-6ec5978e617f-profile_image-300x300.png",
-      "checkins": 6,
-      "items": [
-        {
-          "name": "Healing Potion [Common]",
-          "count": 2,
-          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
-        },
-        {
-          "name": "Healing Potion [Common]_shiny",
-          "count": 1,
-          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
-        },
-        {
-          "name": "Rusty Spoon of Minor Stirring [Common]",
-          "count": 1,
-          "flavor_text": "Sometimes it stirs on its own. Don\u2019t acknowledge it. It likes attention."
-        },
-        {
-          "name": "Speed Boots [Uncommon]",
-          "count": 1,
-          "flavor_text": "Only activates when your arms are doing the little angry swings."
-        }
-      ],
-      "achievements": [
-        {
-          "title": "First Steps",
-          "description": "Awarded on 10th check-in redeem."
-        }
-      ]
-    },
-    "DarkChazy": {
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/696dfb54-391f-4c70-86ee-a58b6f59a092-profile_image-300x300.png",
-      "checkins": 1,
-      "items": [],
-      "achievements": [
-        {
-          "title": "First Steps",
-          "description": "Awarded on 10th check-in redeem."
-        }
-      ]
-    },
-    "Jubberwok": {
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e11d19fe-5bca-450d-9859-c32be07090d3-profile_image-300x300.png",
-      "checkins": 1,
-      "items": [],
-      "achievements": [
-        {
-          "title": "First Steps",
-          "description": "Awarded on 10th check-in redeem."
-        }
-      ]
-    },
     "misspuffles698": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/ba450b89-6e08-428a-8ae9-a6abb8e0e5ca-profile_image-300x300.jpeg",
       "checkins": 1,
@@ -1813,24 +1779,7 @@
         }
       ]
     },
-    "ThanhtTheBoss": {
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/59f6426f-9ed9-4a63-a216-b4ffe10e6cd8-profile_image-300x300.png",
-      "checkins": 2,
-      "items": [
-        {
-          "name": "Potion of Almost Invisibility [Uncommon]",
-          "count": 1,
-          "flavor_text": "Makes you mostly transparent... but only your butt."
-        }
-      ],
-      "achievements": [
-        {
-          "title": "First Steps",
-          "description": "Awarded on 10th check-in redeem."
-        }
-      ]
-    },
-    "Spoon_Mage": {
+    "spoon_mage": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e2aec346-8ba3-4e16-a70a-cc9ef15e2c8d-profile_image-300x300.jpeg",
       "checkins": 1,
       "items": [],
@@ -1843,8 +1792,8 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-12T21:39:54.747041",
-    "total_users": 71,
+    "last_updated": "2026-01-12T22:36:14.436343",
+    "total_users": 67,
     "version": "1.0"
   }
 }
