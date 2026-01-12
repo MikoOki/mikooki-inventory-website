@@ -1,6 +1,6 @@
 {
   "users": {
-    "darkchazy": {
+    "DarkChazy": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/696dfb54-391f-4c70-86ee-a58b6f59a092-profile_image-300x300.png",
       "checkins": 6,
       "items": [
@@ -37,7 +37,7 @@
         }
       ]
     },
-    "jubberwok": {
+    "Jubberwok": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e11d19fe-5bca-450d-9859-c32be07090d3-profile_image-300x300.png",
       "checkins": 10,
       "items": [
@@ -94,7 +94,7 @@
         }
       ]
     },
-    "mikooki": {
+    "MikoOki": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8f84b2f-7a69-4e1d-853d-6ec5978e617f-profile_image-300x300.png",
       "checkins": 37,
       "items": [
@@ -217,7 +217,7 @@
         }
       ]
     },
-    "thanhttheboss": {
+    "ThanhtTheBoss": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/59f6426f-9ed9-4a63-a216-b4ffe10e6cd8-profile_image-300x300.png",
       "checkins": 7,
       "items": [
@@ -492,7 +492,7 @@
         }
       ]
     },
-    "brutalsue": {
+    "BrutalSue": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/4d914325-4975-482c-b9d8-81651752a095-profile_image-300x300.png",
       "checkins": 0,
       "items": [],
@@ -1779,7 +1779,7 @@
         }
       ]
     },
-    "spoon_mage": {
+    "Spoon_Mage": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e2aec346-8ba3-4e16-a70a-cc9ef15e2c8d-profile_image-300x300.jpeg",
       "checkins": 1,
       "items": [],
@@ -1792,7 +1792,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-12T22:36:14.436343",
+    "last_updated": "2026-01-12T22:40:40.876355",
     "total_users": 67,
     "version": "1.0"
   }

@@ -241,7 +241,7 @@
             box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
             border: 2px solid rgba(255, 255, 255, 0.3);
         }
-        
+        }
 
         .user-avatar {
             width: 80px;
@@ -950,12 +950,15 @@
 
                 // Populate user dropdown
                 const userSelect = document.getElementById('userSelect');
-                const users = Object.keys(data.users).sort();
+                // Sort alphabetically (case-insensitive: A, b, C, d)
+                const users = Object.keys(data.users).sort((a, b) => 
+                    a.toLowerCase().localeCompare(b.toLowerCase())
+                );
                 
                 users.forEach(username => {
                     const option = document.createElement('option');
                     option.value = username;
-                    option.textContent = username;
+                    option.textContent = username; // Preserves capitalization
                     userSelect.appendChild(option);
                 });
 
