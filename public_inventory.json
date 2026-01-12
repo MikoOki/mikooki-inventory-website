@@ -1790,11 +1790,22 @@
           "description": "Awarded on first checkin"
         }
       ]
+    },
+    "Jubberwok": {
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e11d19fe-5bca-450d-9859-c32be07090d3-profile_image-300x300.png",
+      "checkins": 1,
+      "items": [],
+      "achievements": [
+        {
+          "title": "First Steps",
+          "description": "Awarded on first checkin"
+        }
+      ]
     }
   },
   "metadata": {
-    "last_updated": "2026-01-12T20:44:28.479383",
-    "total_users": 67,
+    "last_updated": "2026-01-12T20:44:37.674265",
+    "total_users": 68,
     "version": "1.0"
   }
 }
