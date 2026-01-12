@@ -1779,11 +1779,22 @@
           "description": "Awarded on first checkin"
         }
       ]
+    },
+    "DarkChazy": {
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/696dfb54-391f-4c70-86ee-a58b6f59a092-profile_image-300x300.png",
+      "checkins": 1,
+      "items": [],
+      "achievements": [
+        {
+          "title": "First Steps",
+          "description": "Awarded on first checkin"
+        }
+      ]
     }
   },
   "metadata": {
-    "last_updated": "2026-01-11T20:12:21.205359",
-    "total_users": 66,
+    "last_updated": "2026-01-12T20:44:28.479383",
+    "total_users": 67,
     "version": "1.0"
   }
 }
