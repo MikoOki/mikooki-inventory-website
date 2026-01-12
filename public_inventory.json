@@ -1829,11 +1829,22 @@
           "description": "Awarded on 10th check-in redeem."
         }
       ]
+    },
+    "Spoon_Mage": {
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e2aec346-8ba3-4e16-a70a-cc9ef15e2c8d-profile_image-300x300.jpeg",
+      "checkins": 1,
+      "items": [],
+      "achievements": [
+        {
+          "title": "First Steps",
+          "description": "Awarded on 10th check-in redeem."
+        }
+      ]
     }
   },
   "metadata": {
-    "last_updated": "2026-01-12T21:13:13.595819",
-    "total_users": 70,
+    "last_updated": "2026-01-12T21:39:54.747041",
+    "total_users": 71,
     "version": "1.0"
   }
 }
