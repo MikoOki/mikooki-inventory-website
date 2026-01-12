@@ -30,12 +30,7 @@
           "flavor_text": "Sometimes whispers: \u201cwe could be slippers,\u201d and then sighs."
         }
       ],
-      "achievements": [
-        {
-          "title": "First Steps",
-          "description": "Awarded on 10th check-in redeem."
-        }
-      ]
+      "achievements": []
     },
     "Jubberwok": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e11d19fe-5bca-450d-9859-c32be07090d3-profile_image-300x300.png",
@@ -254,10 +249,6 @@
       ],
       "achievements": [
         {
-          "title": "First Steps",
-          "description": "Awarded on 10th check-in redeem."
-        },
-        {
           "title": "Subathon Birthday '25_event",
           "description": "Achievement: Subathon Birthday 2025"
         }
@@ -282,7 +273,7 @@
     },
     "agaynamedrural": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d8da2c82-7bcc-4049-b1ef-4a1679635383-profile_image-300x300.jpeg",
-      "checkins": 0,
+      "checkins": 1,
       "items": [],
       "achievements": []
     },
@@ -483,7 +474,7 @@
     },
     "boywondernate": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/92fc688c-dc75-4c05-ab03-ef3f97ef7839-profile_image-300x300.png",
-      "checkins": 0,
+      "checkins": 1,
       "items": [],
       "achievements": [
         {
@@ -494,7 +485,7 @@
     },
     "BrutalSue": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/4d914325-4975-482c-b9d8-81651752a095-profile_image-300x300.png",
-      "checkins": 0,
+      "checkins": 1,
       "items": [],
       "achievements": [
         {
@@ -529,7 +520,7 @@
     },
     "capengy": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/abcfeb5d-2f0c-4a4f-aed7-8d4c6e2fca06-profile_image-300x300.png",
-      "checkins": 0,
+      "checkins": 2,
       "items": [],
       "achievements": [
         {
@@ -566,7 +557,7 @@
     },
     "claydhd": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed7b54e9-507e-4e5d-8df8-59b232b286ab-profile_image-300x300.png",
-      "checkins": 0,
+      "checkins": 1,
       "items": [],
       "achievements": [
         {
@@ -577,7 +568,7 @@
     },
     "crypticscuriosities": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/6f31c540-90bc-4ab5-8073-b2256d19d136-profile_image-300x300.png",
-      "checkins": 0,
+      "checkins": 1,
       "items": [],
       "achievements": [
         {
@@ -1038,7 +1029,7 @@
     },
     "jawnpoochi": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d710417-fce8-4468-b516-e34598c30042-profile_image-300x300.png",
-      "checkins": 8,
+      "checkins": 10,
       "items": [
         {
           "name": "Healing Potion [Common]",
@@ -1125,7 +1116,7 @@
     },
     "kaerfnomekop": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/05f588c6-5be7-4a2b-9ffd-2e534c341eb5-profile_image-300x300.jpeg",
-      "checkins": 9,
+      "checkins": 11,
       "items": [
         {
           "name": "Iron Shield [Uncommon]_shiny",
@@ -1225,7 +1216,7 @@
     },
     "mr_sharkey_": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e5cd4ce0-5eec-4cf1-a26e-1b93cf643731-profile_image-300x300.png",
-      "checkins": 3,
+      "checkins": 4,
       "items": [
         {
           "name": "Ring of Insight [Rare]",
@@ -1281,7 +1272,7 @@
     },
     "neko_pupper_eksd": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/7a03e120-7115-4362-a208-6967c424fd1c-profile_image-300x300.png",
-      "checkins": 8,
+      "checkins": 10,
       "items": [
         {
           "name": "Healing Potion [Common]",
@@ -1332,7 +1323,7 @@
     },
     "pandanicottv": {
       "avatar": "https://ui-avatars.com/api/?name=pandanicottv&background=667eea&color=fff&size=128",
-      "checkins": 2,
+      "checkins": 3,
       "items": [
         {
           "name": "Rusty Spoon of Minor Stirring [Common]",
@@ -1354,7 +1345,7 @@
     },
     "partysquadz": {
       "avatar": "https://ui-avatars.com/api/?name=partysquadz&background=667eea&color=fff&size=128",
-      "checkins": 6,
+      "checkins": 7,
       "items": [
         {
           "name": "Healing Potion [Common]",
@@ -1391,7 +1382,7 @@
     },
     "rocketteer1": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c389f765-8b7f-4b57-b0c4-66f4b792d75c-profile_image-300x300.jpeg",
-      "checkins": 9,
+      "checkins": 11,
       "items": [
         {
           "name": "Healing Potion [Common]",
@@ -1447,7 +1438,7 @@
     },
     "staticdaydream": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/75157ea8-96d6-4ec2-be21-9910dfe3b6b3-profile_image-300x300.png",
-      "checkins": 12,
+      "checkins": 15,
       "items": [
         {
           "name": "Healing Potion [Common]",
@@ -1546,7 +1537,7 @@
     },
     "thebeezydominic": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/336edd16-173d-4ebc-9074-9447e9685fa5-profile_image-300x300.png",
-      "checkins": 1,
+      "checkins": 3,
       "items": [
         {
           "name": "Mystic Blade [Rare]",
@@ -1591,7 +1582,7 @@
     },
     "thepandanico": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/da2b9908-f448-412f-94b4-c16506ee717c-profile_image-300x300.png",
-      "checkins": 0,
+      "checkins": 1,
       "items": [],
       "achievements": [
         {
@@ -1626,7 +1617,7 @@
     },
     "uyyuyyu": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d1d538e3-ee41-4248-b3a9-e7f340c5b91b-profile_image-300x300.jpeg",
-      "checkins": 1,
+      "checkins": 2,
       "items": [
         {
           "name": "Potion of Almost Invisibility [Uncommon]",
@@ -1747,7 +1738,7 @@
     },
     "retrowolve": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9b288118-c823-45c9-8a03-e71636aad532-profile_image-300x300.jpeg",
-      "checkins": 0,
+      "checkins": 1,
       "items": [],
       "achievements": [
         {
@@ -1755,18 +1746,6 @@
           "description": "Achievement: Subathon Birthday 2025"
         }
       ]
-    },
-    "testusernumber1": {
-      "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ce57700a-def9-11e9-842d-784f43822e80-profile_image-300x300.png",
-      "checkins": 1,
-      "items": [
-        {
-          "name": "Pocket Lint [Common]_shiny",
-          "count": 1,
-          "flavor_text": "\u201cPocket Sand\u2019s\" disappointing cousin."
-        }
-      ],
-      "achievements": []
     },
     "misspuffles698": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/ba450b89-6e08-428a-8ae9-a6abb8e0e5ca-profile_image-300x300.jpeg",
@@ -1782,18 +1761,19 @@
     "Spoon_Mage": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e2aec346-8ba3-4e16-a70a-cc9ef15e2c8d-profile_image-300x300.jpeg",
       "checkins": 1,
-      "items": [],
-      "achievements": [
+      "items": [
         {
-          "title": "First Steps",
-          "description": "Awarded on 10th check-in redeem."
+          "name": "Healing Potion [Common]",
+          "count": 1,
+          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
         }
-      ]
+      ],
+      "achievements": []
     }
   },
   "metadata": {
-    "last_updated": "2026-01-12T22:40:40.876355",
-    "total_users": 67,
+    "last_updated": "2026-01-12T23:19:41.802526",
+    "total_users": 66,
     "version": "1.0"
   }
 }
