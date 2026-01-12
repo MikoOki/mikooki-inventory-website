@@ -244,11 +244,17 @@
         }
 
         .user-avatar {
-            width: 80px;
-            height: 80px;
-            border-radius: 50%;
+            width: 80px !important;
+            height: 80px !important;
+            min-width: 80px !important;
+            min-height: 80px !important;
+            max-width: 80px !important;
+            max-height: 80px !important;
+            border-radius: 50% !important;
             border: 4px solid rgba(255, 255, 255, 0.5);
             box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+            object-fit: cover;
+            display: block;
         }
 
         .user-details {
