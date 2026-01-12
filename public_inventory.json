@@ -1815,8 +1815,14 @@
     },
     "ThanhtTheBoss": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/59f6426f-9ed9-4a63-a216-b4ffe10e6cd8-profile_image-300x300.png",
-      "checkins": 1,
-      "items": [],
+      "checkins": 2,
+      "items": [
+        {
+          "name": "Potion of Almost Invisibility [Uncommon]",
+          "count": 1,
+          "flavor_text": "Makes you mostly transparent... but only your butt."
+        }
+      ],
       "achievements": [
         {
           "title": "First Steps",
@@ -1826,7 +1832,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-12T21:11:21.342481",
+    "last_updated": "2026-01-12T21:13:13.595819",
     "total_users": 70,
     "version": "1.0"
   }
