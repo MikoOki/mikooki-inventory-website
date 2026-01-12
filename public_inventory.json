@@ -202,7 +202,7 @@
       "achievements": [
         {
           "title": "First Steps",
-          "description": "Awarded on first checkin"
+          "description": "Awarded on 10th check-in redeem."
         },
         {
           "title": "Seasoned Explorer",
@@ -371,7 +371,7 @@
       "achievements": [
         {
           "title": "First Steps",
-          "description": "Awarded on first checkin"
+          "description": "Awarded on 10th check-in redeem."
         },
         {
           "title": "Subathon Birthday '25_event",
@@ -449,7 +449,7 @@
       "achievements": [
         {
           "title": "First Steps",
-          "description": "Awarded on first checkin"
+          "description": "Awarded on 10th check-in redeem."
         },
         {
           "title": "5 Years_event",
@@ -754,7 +754,7 @@
       "achievements": [
         {
           "title": "First Steps",
-          "description": "Awarded on first checkin"
+          "description": "Awarded on 10th check-in redeem."
         },
         {
           "title": "5 Years_event",
@@ -843,7 +843,7 @@
       "achievements": [
         {
           "title": "First Steps",
-          "description": "Awarded on first checkin"
+          "description": "Awarded on 10th check-in redeem."
         },
         {
           "title": "Subathon Birthday '25_event",
@@ -997,7 +997,7 @@
       "achievements": [
         {
           "title": "First Steps",
-          "description": "Awarded on first checkin"
+          "description": "Awarded on 10th check-in redeem."
         },
         {
           "title": "5 Years_event",
@@ -1142,7 +1142,7 @@
       "achievements": [
         {
           "title": "First Steps",
-          "description": "Awarded on first checkin"
+          "description": "Awarded on 10th check-in redeem."
         },
         {
           "title": "Influencer Badge_event",
@@ -1261,7 +1261,7 @@
       "achievements": [
         {
           "title": "First Steps",
-          "description": "Awarded on first checkin"
+          "description": "Awarded on 10th check-in redeem."
         },
         {
           "title": "Subathon Birthday '25_event",
@@ -1376,7 +1376,7 @@
       "achievements": [
         {
           "title": "First Steps",
-          "description": "Awarded on first checkin"
+          "description": "Awarded on 10th check-in redeem."
         },
         {
           "title": "5 Years_event",
@@ -1442,7 +1442,7 @@
       "achievements": [
         {
           "title": "First Steps",
-          "description": "Awarded on first checkin"
+          "description": "Awarded on 10th check-in redeem."
         },
         {
           "title": "5 Years_event",
@@ -1516,7 +1516,7 @@
       "achievements": [
         {
           "title": "First Steps",
-          "description": "Awarded on first checkin"
+          "description": "Awarded on 10th check-in redeem."
         },
         {
           "title": "Subathon Birthday '25_event",
@@ -1776,7 +1776,7 @@
       "achievements": [
         {
           "title": "First Steps",
-          "description": "Awarded on first checkin"
+          "description": "Awarded on 10th check-in redeem."
         }
       ]
     },
@@ -1787,7 +1787,7 @@
       "achievements": [
         {
           "title": "First Steps",
-          "description": "Awarded on first checkin"
+          "description": "Awarded on 10th check-in redeem."
         }
       ]
     },
@@ -1798,7 +1798,7 @@
       "achievements": [
         {
           "title": "First Steps",
-          "description": "Awarded on first checkin"
+          "description": "Awarded on 10th check-in redeem."
         }
       ]
     },
@@ -1809,14 +1809,25 @@
       "achievements": [
         {
           "title": "First Steps",
-          "description": "Awarded on first checkin"
+          "description": "Awarded on 10th check-in redeem."
+        }
+      ]
+    },
+    "ThanhtTheBoss": {
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/59f6426f-9ed9-4a63-a216-b4ffe10e6cd8-profile_image-300x300.png",
+      "checkins": 1,
+      "items": [],
+      "achievements": [
+        {
+          "title": "First Steps",
+          "description": "Awarded on 10th check-in redeem."
         }
       ]
     }
   },
   "metadata": {
-    "last_updated": "2026-01-12T20:54:29.295842",
-    "total_users": 69,
+    "last_updated": "2026-01-12T21:11:21.342481",
+    "total_users": 70,
     "version": "1.0"
   }
 }
