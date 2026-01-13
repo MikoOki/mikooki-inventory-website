@@ -1130,7 +1130,7 @@
     },
     "kaerfnomekop": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/05f588c6-5be7-4a2b-9ffd-2e534c341eb5-profile_image-300x300.jpeg",
-      "checkins": 11,
+      "checkins": 12,
       "items": [
         {
           "name": "Iron Shield [Uncommon]_shiny",
@@ -1186,6 +1186,10 @@
         {
           "title": "5 Years_event",
           "description": "Celebrating 5 years as an Affiliate on twitch!"
+        },
+        {
+          "title": "Seasoned Explorer",
+          "description": "Achievement: Seasoned Explorer"
         }
       ]
     },
@@ -1822,7 +1826,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-13T20:12:28.719345",
+    "last_updated": "2026-01-13T20:19:59.345270",
     "total_users": 69,
     "version": "1.0"
   }
