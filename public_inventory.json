@@ -214,7 +214,7 @@
     },
     "ThanhtTheBoss": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/59f6426f-9ed9-4a63-a216-b4ffe10e6cd8-profile_image-300x300.png",
-      "checkins": 7,
+      "checkins": 8,
       "items": [
         {
           "name": "Potion of Almost Invisibility [Uncommon]",
@@ -245,6 +245,11 @@
           "name": "Cursed Plush of Encouragement [Epic]",
           "count": 1,
           "flavor_text": "Whispers supportively... in Infernal."
+        },
+        {
+          "name": "Gnomish Compass [Uncommon]",
+          "count": 1,
+          "flavor_text": "Points toward the nearest pub. Always."
         }
       ],
       "achievements": [
@@ -1801,7 +1806,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-13T19:04:03.055486",
+    "last_updated": "2026-01-13T19:04:27.643303",
     "total_users": 68,
     "version": "1.0"
   }
