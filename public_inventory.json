@@ -1828,11 +1828,23 @@
         }
       ],
       "achievements": []
+    },
+    "horchatadad": {
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8bfce047-e0b8-48a3-bb6d-a90ac262e279-profile_image-300x300.png",
+      "checkins": 1,
+      "items": [
+        {
+          "name": "Wooden Sword [Common]",
+          "count": 1,
+          "flavor_text": "Warning: may summon memories of being eight years old and unstoppable."
+        }
+      ],
+      "achievements": []
     }
   },
   "metadata": {
-    "last_updated": "2026-01-13T20:43:21.956002",
-    "total_users": 69,
+    "last_updated": "2026-01-13T20:55:51.012303",
+    "total_users": 70,
     "version": "1.0"
   }
 }
