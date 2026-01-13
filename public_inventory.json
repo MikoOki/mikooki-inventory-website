@@ -1840,11 +1840,23 @@
         }
       ],
       "achievements": []
+    },
+    "BRATesque": {
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/2e835e57-db5f-4b45-a4d9-a3d06e153286-profile_image-300x300.png",
+      "checkins": 1,
+      "items": [
+        {
+          "name": "Healing Potion [Common]",
+          "count": 1,
+          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
+        }
+      ],
+      "achievements": []
     }
   },
   "metadata": {
-    "last_updated": "2026-01-13T20:55:51.012303",
-    "total_users": 70,
+    "last_updated": "2026-01-13T22:00:22.981830",
+    "total_users": 71,
     "version": "1.0"
   }
 }
