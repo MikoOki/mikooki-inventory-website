@@ -905,7 +905,7 @@
     },
     "huffletruffle19": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/6c4c36f2-0a19-4ff4-b6b0-281662e84374-profile_image-300x300.png",
-      "checkins": 17,
+      "checkins": 18,
       "items": [
         {
           "name": "Iron Shield [Uncommon]_shiny",
@@ -995,6 +995,10 @@
         {
           "title": "Subathon Birthday '25_event",
           "description": "Achievement: Subathon Birthday 2025"
+        },
+        {
+          "title": "Seasoned Explorer",
+          "description": "Achievement: Seasoned Explorer"
         }
       ]
     },
@@ -1806,7 +1810,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-13T19:04:27.643303",
+    "last_updated": "2026-01-13T19:18:39.782724",
     "total_users": 68,
     "version": "1.0"
   }
