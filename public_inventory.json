@@ -291,7 +291,7 @@
     },
     "atlas_cassidy": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3b2b513f-4e00-4044-9095-55edc9417df7-profile_image-300x300.png",
-      "checkins": 5,
+      "checkins": 6,
       "items": [
         {
           "name": "Healing Potion [Common]",
@@ -300,7 +300,7 @@
         },
         {
           "name": "Rusty Spoon of Minor Stirring [Common]",
-          "count": 1,
+          "count": 2,
           "flavor_text": "Sometimes it stirs on its own. Don\u2019t acknowledge it. It likes attention."
         },
         {
@@ -828,13 +828,13 @@
         }
       ]
     },
-    "elvout01": {
+    "Elvout01": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/86eca654-6096-4204-b59f-329c37b91f80-profile_image-300x300.png",
-      "checkins": 3,
+      "checkins": 4,
       "items": [
         {
           "name": "Wooden Sword [Common]",
-          "count": 1,
+          "count": 2,
           "flavor_text": "Warning: may summon memories of being eight years old and unstoppable."
         },
         {
@@ -1777,7 +1777,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-13T18:35:37.638481",
+    "last_updated": "2026-01-13T18:42:01.918702",
     "total_users": 66,
     "version": "1.0"
   }
