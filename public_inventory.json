@@ -1807,11 +1807,23 @@
         }
       ],
       "achievements": []
+    },
+    "daydreamsttv": {
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c2c2151b-8d8e-4da9-9459-01a82b506d65-profile_image-300x300.jpeg",
+      "checkins": 1,
+      "items": [
+        {
+          "name": "Pocket Lint [Common]",
+          "count": 1,
+          "flavor_text": "\u201cPocket Sand\u2019s\" disappointing cousin."
+        }
+      ],
+      "achievements": []
     }
   },
   "metadata": {
-    "last_updated": "2026-01-13T19:18:39.782724",
-    "total_users": 68,
+    "last_updated": "2026-01-13T20:12:28.719345",
+    "total_users": 69,
     "version": "1.0"
   }
 }
