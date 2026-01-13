@@ -533,13 +533,13 @@
         }
       ]
     },
-    "cheesygidds": {
+    "Cheesygidds": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/abedd8b4-463b-4a06-a556-9adf2862345d-profile_image-300x300.png",
-      "checkins": 3,
+      "checkins": 4,
       "items": [
         {
           "name": "Iron Shield [Uncommon]",
-          "count": 1,
+          "count": 2,
           "flavor_text": "Has seen battle. Has also seen you trip over it."
         },
         {
@@ -1801,7 +1801,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-13T18:52:56.016492",
+    "last_updated": "2026-01-13T19:04:03.055486",
     "total_users": 68,
     "version": "1.0"
   }
