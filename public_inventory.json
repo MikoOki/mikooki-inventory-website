@@ -1708,14 +1708,19 @@
       ],
       "achievements": []
     },
-    "xoneasagi": {
+    "XoneAsagi": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/xoneasagi-profile_image-b362d2a9055d6433-300x300.png",
-      "checkins": 1,
+      "checkins": 2,
       "items": [
         {
           "name": "Speed Boots [Uncommon]_shiny",
           "count": 1,
           "flavor_text": "Only activates when your arms are doing the little angry swings."
+        },
+        {
+          "name": "Potion of Almost Invisibility [Uncommon]",
+          "count": 1,
+          "flavor_text": "Makes you mostly transparent... but only your butt."
         }
       ],
       "achievements": [
@@ -1826,7 +1831,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-13T20:19:59.345270",
+    "last_updated": "2026-01-13T20:43:21.956002",
     "total_users": 69,
     "version": "1.0"
   }
