@@ -1774,11 +1774,35 @@
         }
       ],
       "achievements": []
+    },
+    "TolbenPendragon": {
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb67b460-422b-4481-a5e9-ae01775c9d42-profile_image-300x300.png",
+      "checkins": 1,
+      "items": [
+        {
+          "name": "Healing Potion [Common]",
+          "count": 1,
+          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
+        }
+      ],
+      "achievements": []
+    },
+    "ziggyzaster": {
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e0401b85-db58-496f-8f91-9259f8736865-profile_image-300x300.png",
+      "checkins": 1,
+      "items": [
+        {
+          "name": "Sock of Slight Warmth [Common]_shiny",
+          "count": 1,
+          "flavor_text": "Sometimes whispers: \u201cwe could be slippers,\u201d and then sighs."
+        }
+      ],
+      "achievements": []
     }
   },
   "metadata": {
-    "last_updated": "2026-01-13T18:42:01.918702",
-    "total_users": 66,
+    "last_updated": "2026-01-13T18:52:56.016492",
+    "total_users": 68,
     "version": "1.0"
   }
 }
