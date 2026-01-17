@@ -427,7 +427,7 @@
             color: rgba(255,255,255,0.6);
         }
 
-        /* Holographic overlay - covers full card (same as TCG overlay) */
+        /* Holographic overlay - covers full card (more obvious version) */
         .holographic-overlay {
             position: absolute;
             top: 0;
@@ -439,15 +439,15 @@
             background: linear-gradient(
                 120deg,
                 rgba(255, 255, 255, 0),
-                rgba(255, 254, 227, 0.9),
+                rgba(255, 254, 227, 1),
                 rgba(255, 255, 255, 0),
-                rgba(255, 224, 120, 0.9),
+                rgba(255, 224, 120, 1),
                 rgba(255, 255, 255, 0),
-                rgba(175, 255, 181, 0.9),
+                rgba(175, 255, 181, 1),
                 rgba(255, 255, 255, 0),
-                rgba(255, 254, 227, 0.9),
+                rgba(255, 254, 227, 1),
                 rgba(255, 255, 255, 0),
-                rgba(150, 245, 255, 0.9),
+                rgba(150, 245, 255, 1),
                 rgba(255, 255, 255, 0)
             );
             background-size: 500% 500%;
@@ -455,7 +455,7 @@
             opacity: 0;
             transition: opacity 0.3s ease;
             mix-blend-mode: overlay;
-            filter: blur(2px);
+            filter: blur(1.5px);
         }
 
         .card.shiny .holographic-overlay {
@@ -983,7 +983,38 @@
                 return;
             }
 
-            currentUser.items.forEach(item => {
+            // Rarity order for sorting
+            const rarityOrder = {
+                'Legendary': 0,
+                'Epic': 1,
+                'Rare': 2,
+                'Uncommon': 3,
+                'Common': 4
+            };
+
+            // Sort items by rarity (Legendary first, then Epic, Rare, Uncommon, Common)
+            const sortedItems = [...currentUser.items].sort((a, b) => {
+                // Extract rarity from item name (format: "ItemName [Rarity]" or "ItemName [Rarity]_shiny")
+                const getRarity = (itemName) => {
+                    const match = itemName.match(/\[(\w+)\]/);
+                    return match ? match[1] : 'Common';
+                };
+                
+                const aRarity = getRarity(a.name);
+                const bRarity = getRarity(b.name);
+                const aRarityOrder = rarityOrder[aRarity] ?? 999;
+                const bRarityOrder = rarityOrder[bRarity] ?? 999;
+                
+                if (aRarityOrder !== bRarityOrder) {
+                    return aRarityOrder - bRarityOrder;
+                }
+                // If same rarity, sort by item name
+                const aName = a.name.replace(/_shiny$/, '').split(' [')[0];
+                const bName = b.name.replace(/_shiny$/, '').split(' [')[0];
+                return aName.localeCompare(bName);
+            });
+
+            sortedItems.forEach(item => {
                 const card = createItemCard(item);
                 grid.appendChild(card);
             });
