@@ -345,6 +345,7 @@
             backface-visibility: hidden;
             transition: transform 0.6s;
             position: relative;
+            overflow: hidden;
         }
 
         .card-back {
@@ -426,75 +427,49 @@
             color: rgba(255,255,255,0.6);
         }
 
-        /* MEGA SHINY EFFECT */
-        .card.shiny {
-            background: linear-gradient(135deg, 
-                #ffd700 0%, #ffed4e 10%, #ffd700 20%, #ffed4e 30%,
-                #ffd700 40%, #ffed4e 50%, #ffd700 60%, #ffed4e 70%,
-                #ffd700 80%, #ffed4e 90%, #ffd700 100%);
-            background-size: 400% 400%;
-            animation: 
-                megaShimmer 2s ease infinite,
-                shinyPulse 1.5s ease-in-out infinite,
-                shinyRotate 4s linear infinite;
-            box-shadow: 
-                0 15px 50px rgba(255, 215, 0, 0.6),
-                0 0 30px rgba(255, 215, 0, 0.5),
-                inset 0 0 20px rgba(255, 255, 255, 0.3);
-        }
-
-        @keyframes megaShimmer {
-            0%, 100% { background-position: 0% 50%; }
-            50% { background-position: 100% 50%; }
-        }
-
-        @keyframes shinyPulse {
-            0%, 100% { 
-                box-shadow: 
-                    0 15px 50px rgba(255, 215, 0, 0.6),
-                    0 0 30px rgba(255, 215, 0, 0.5),
-                    inset 0 0 20px rgba(255, 255, 255, 0.3);
-            }
-            50% { 
-                box-shadow: 
-                    0 20px 70px rgba(255, 215, 0, 0.9),
-                    0 0 50px rgba(255, 215, 0, 0.8),
-                    inset 0 0 30px rgba(255, 255, 255, 0.5);
-            }
-        }
-
-        @keyframes shinyRotate {
-            from { filter: hue-rotate(0deg); }
-            to { filter: hue-rotate(360deg); }
-        }
-
-        .card.shiny:hover {
-            transform: translateY(-30px) scale(1.15) rotateZ(-3deg);
-            box-shadow: 
-                0 40px 100px rgba(255, 215, 0, 0.8),
-                0 0 60px rgba(255, 215, 0, 0.9);
-        }
-
-        .card.shiny .card-front::after {
-            content: '✨';
+        /* Holographic overlay - covers full card (same as TCG overlay) */
+        .holographic-overlay {
             position: absolute;
-            top: 15px;
-            right: 15px;
-            font-size: 35px;
-            animation: megaSparkle 1s infinite, sparkleFloat 2s ease-in-out infinite;
-            filter: drop-shadow(0 0 10px rgba(255, 215, 0, 1));
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            border-radius: 20px;
+            background: linear-gradient(
+                120deg,
+                rgba(255, 255, 255, 0),
+                rgba(255, 254, 227, 0.9),
+                rgba(255, 255, 255, 0),
+                rgba(255, 224, 120, 0.9),
+                rgba(255, 255, 255, 0),
+                rgba(175, 255, 181, 0.9),
+                rgba(255, 255, 255, 0),
+                rgba(255, 254, 227, 0.9),
+                rgba(255, 255, 255, 0),
+                rgba(150, 245, 255, 0.9),
+                rgba(255, 255, 255, 0)
+            );
+            background-size: 500% 500%;
+            z-index: 10;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+            mix-blend-mode: overlay;
+            filter: blur(2px);
         }
 
-        @keyframes megaSparkle {
-            0%, 100% { transform: scale(1) rotate(0deg); opacity: 1; }
-            25% { transform: scale(1.5) rotate(90deg); opacity: 0.7; }
-            50% { transform: scale(1.2) rotate(180deg); opacity: 1; }
-            75% { transform: scale(1.6) rotate(270deg); opacity: 0.7; }
+        .card.shiny .holographic-overlay {
+            animation: rainbowShimmer 10.5s linear infinite;
+            opacity: 1 !important;
         }
 
-        @keyframes sparkleFloat {
-            0%, 100% { transform: translateY(0); }
-            50% { transform: translateY(-10px); }
+        @keyframes rainbowShimmer {
+            0% {
+                background-position: 100% 100%;
+            }
+            100% {
+                background-position: 0% 0%;
+            }
         }
 
         .card-image {
@@ -1052,6 +1027,7 @@
                     <img class="card-image" src="${imageUrl}" 
                          alt="${itemName}" 
                          onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22200%22><rect width=%22200%22 height=%22200%22 fill=%22%23ddd%22/><text x=%2250%%22 y=%2250%%22 text-anchor=%22middle%22 dy=%22.3em%22 font-size=%2224%22>?</text></svg>'">
+                    <div class="holographic-overlay"></div>
                     <div class="card-name">${itemName}${isShiny ? ' ✨' : ''}</div>
                     <div class="card-rarity">${rarityClean.charAt(0).toUpperCase() + rarityClean.slice(1)}</div>
                     <div class="card-count">×${item.count}</div>
