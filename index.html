@@ -817,13 +817,13 @@
         // Create floating particles
         function createParticles() {
             const particlesContainer = document.getElementById('particles');
-            const particleCount = 50; // Back to 50
+            const particleCount = 60; // Increased for more visibility
 
             for (let i = 0; i < particleCount; i++) {
                 const particle = document.createElement('div');
                 particle.className = 'particle';
                 
-                const size = Math.random() * 5 + 2; // Back to 2-7px
+                const size = Math.random() * 6 + 3; // Increased to 3-9px for more visibility
                 const left = Math.random() * 100;
                 const delay = Math.random() * 10;
                 const duration = Math.random() * 10 + 10; // Back to faster
