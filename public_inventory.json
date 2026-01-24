@@ -1746,7 +1746,7 @@
       "achievements": []
     },
     "retrowolve": {
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9b288118-c823-45c9-8a03-e71636aad532-profile_image-300x300.jpeg",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/00a23eee-3446-4509-b529-003242a2219c-profile_image-300x300.jpeg",
       "checkins": 1,
       "items": [],
       "achievements": [
@@ -1809,7 +1809,7 @@
       "achievements": []
     },
     "daydreamsttv": {
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c2c2151b-8d8e-4da9-9459-01a82b506d65-profile_image-300x300.jpeg",
+      "avatar": "https://ui-avatars.com/api/?name=daydreamsttv&background=667eea&color=fff&size=128",
       "checkins": 1,
       "items": [
         {
@@ -1833,7 +1833,7 @@
       "achievements": []
     },
     "BRATesque": {
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/2e835e57-db5f-4b45-a4d9-a3d06e153286-profile_image-300x300.png",
+      "avatar": "https://ui-avatars.com/api/?name=bratesque&background=667eea&color=fff&size=128",
       "checkins": 1,
       "items": [
         {
@@ -1869,7 +1869,7 @@
       "achievements": []
     },
     "thomskilive": {
-      "avatar": "https://ui-avatars.com/api/?name=thomskilive&background=667eea&color=fff&size=128",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5fd973b1-355f-486d-b11c-241f16550110-profile_image-300x300.png",
       "checkins": 8,
       "items": [
         {
@@ -1907,7 +1907,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-24T22:13:05.849726",
+    "last_updated": "2026-01-24T22:16:26.766660",
     "total_users": 72,
     "version": "1.0"
   }
