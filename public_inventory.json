@@ -1855,7 +1855,7 @@
     },
     "test": {
       "avatar": "https://ui-avatars.com/api/?name=test&background=667eea&color=fff&size=128",
-      "checkins": 54,
+      "checkins": 55,
       "items": [
         {
           "name": "Gnomish Compass [Uncommon]",
@@ -1889,7 +1889,7 @@
         },
         {
           "name": "Pocket Sand [Common]",
-          "count": 3,
+          "count": 4,
           "flavor_text": "Coarse, irritating, and gets everywhere."
         },
         {
@@ -1956,7 +1956,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-24T14:29:01.274970",
+    "last_updated": "2026-01-24T14:29:10.659499",
     "total_users": 72,
     "version": "1.0"
   }
