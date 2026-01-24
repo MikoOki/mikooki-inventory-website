@@ -1852,11 +1852,23 @@
         }
       ],
       "achievements": []
+    },
+    "test": {
+      "avatar": "https://ui-avatars.com/api/?name=test&background=667eea&color=fff&size=128",
+      "checkins": 1,
+      "items": [
+        {
+          "name": "Gnomish Compass [Uncommon]",
+          "count": 1,
+          "flavor_text": "Points toward the nearest pub. Always."
+        }
+      ],
+      "achievements": []
     }
   },
   "metadata": {
-    "last_updated": "2026-01-13T22:00:22.981830",
-    "total_users": 71,
+    "last_updated": "2026-01-24T13:55:32.301735",
+    "total_users": 72,
     "version": "1.0"
   }
 }
