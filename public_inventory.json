@@ -1844,107 +1844,6 @@
       ],
       "achievements": []
     },
-    "test": {
-      "avatar": "https://ui-avatars.com/api/?name=test&background=667eea&color=fff&size=128",
-      "checkins": 58,
-      "items": [
-        {
-          "name": "Gnomish Compass [Uncommon]",
-          "count": 2,
-          "flavor_text": "Points toward the nearest pub. Always."
-        },
-        {
-          "name": "Healing Potion [Common]",
-          "count": 6,
-          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
-        },
-        {
-          "name": "Cracked Goblin Tooth [Common]",
-          "count": 3,
-          "flavor_text": "You could throw it away. You won\u2019t. That\u2019s who you are now."
-        },
-        {
-          "name": "Speed Boots [Uncommon]",
-          "count": 2,
-          "flavor_text": "Only activates when your arms are doing the little angry swings."
-        },
-        {
-          "name": "Sock of Slight Warmth [Common]",
-          "count": 8,
-          "flavor_text": "Sometimes whispers: \u201cwe could be slippers,\u201d and then sighs."
-        },
-        {
-          "name": "Pocket Lint [Common]",
-          "count": 9,
-          "flavor_text": "\u201cPocket Sand\u2019s\" disappointing cousin."
-        },
-        {
-          "name": "Pocket Sand [Common]",
-          "count": 4,
-          "flavor_text": "Coarse, irritating, and gets everywhere."
-        },
-        {
-          "name": "Rusty Spoon of Minor Stirring [Common]",
-          "count": 4,
-          "flavor_text": "Sometimes it stirs on its own. Don\u2019t acknowledge it. It likes attention."
-        },
-        {
-          "name": "Bag of Holding... Grudges [Uncommon]",
-          "count": 1,
-          "flavor_text": "Once per day: produces exactly the right tool. Also produces a petty remark in your own handwriting."
-        },
-        {
-          "name": "Spectacles of Overthinking [Rare]",
-          "count": 1,
-          "flavor_text": "See all possible outcomes. Panic accordingly."
-        },
-        {
-          "name": "Potion of Almost Invisibility [Uncommon]",
-          "count": 2,
-          "flavor_text": "Makes you mostly transparent... but only your butt."
-        },
-        {
-          "name": "Iron Shield [Uncommon]",
-          "count": 1,
-          "flavor_text": "Has seen battle. Has also seen you trip over it."
-        },
-        {
-          "name": "Cursed Mirror Shard [Uncommon]",
-          "count": 4,
-          "flavor_text": "Once per day, shows you what an object was used for last. Side effect: you learn things you cannot unlearn."
-        },
-        {
-          "name": "Wooden Sword [Common]",
-          "count": 6,
-          "flavor_text": "Warning: may summon memories of being eight years old and unstoppable."
-        },
-        {
-          "name": "Mystic Blade [Rare]",
-          "count": 1,
-          "flavor_text": "Gleams heroically even in total darkness. Show-off."
-        },
-        {
-          "name": "Phoenix Feather [Epic]",
-          "count": 2,
-          "flavor_text": "Cures poison. Side effect: your burps taste like smoke."
-        },
-        {
-          "name": "Amulet of Time [Epic]",
-          "count": 1,
-          "flavor_text": "Warning: may cause sudden flashbacks to things you \u201cdefinitely didn\u2019t say like that.\u201d"
-        }
-      ],
-      "achievements": [
-        {
-          "title": "First Steps",
-          "description": "Awarded on 10th check-in redeem."
-        },
-        {
-          "title": "Seasoned Explorer",
-          "description": "Achievement: Seasoned Explorer"
-        }
-      ]
-    },
     "Jubberwork": {
       "avatar": "https://ui-avatars.com/api/?name=jubberwork&background=667eea&color=fff&size=128",
       "checkins": 1,
@@ -2008,8 +1907,8 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-24T22:09:41.748260",
-    "total_users": 73,
+    "last_updated": "2026-01-24T22:13:05.849726",
+    "total_users": 72,
     "version": "1.0"
   }
 }
