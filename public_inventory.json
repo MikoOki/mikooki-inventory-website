@@ -214,7 +214,7 @@
     },
     "ThanhtTheBoss": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/59f6426f-9ed9-4a63-a216-b4ffe10e6cd8-profile_image-300x300.png",
-      "checkins": 8,
+      "checkins": 9,
       "items": [
         {
           "name": "Potion of Almost Invisibility [Uncommon]",
@@ -250,6 +250,11 @@
           "name": "Gnomish Compass [Uncommon]",
           "count": 1,
           "flavor_text": "Points toward the nearest pub. Always."
+        },
+        {
+          "name": "Pocket Lint [Common]",
+          "count": 1,
+          "flavor_text": "\u201cPocket Sand\u2019s\" disappointing cousin."
         }
       ],
       "achievements": [
@@ -2006,7 +2011,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-24T20:21:41.982201",
+    "last_updated": "2026-01-24T20:22:22.609161",
     "total_users": 74,
     "version": "1.0"
   }
