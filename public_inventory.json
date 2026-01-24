@@ -1970,11 +1970,23 @@
         }
       ],
       "achievements": []
+    },
+    "its_kor": {
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb38e31e-2a99-4d73-a017-0db720aac635-profile_image-300x300.png",
+      "checkins": 1,
+      "items": [
+        {
+          "name": "Potion of Almost Invisibility [Uncommon]",
+          "count": 1,
+          "flavor_text": "Makes you mostly transparent... but only your butt."
+        }
+      ],
+      "achievements": []
     }
   },
   "metadata": {
-    "last_updated": "2026-01-24T18:24:44.527189",
-    "total_users": 73,
+    "last_updated": "2026-01-24T18:24:54.996797",
+    "total_users": 74,
     "version": "1.0"
   }
 }
