@@ -1855,7 +1855,7 @@
     },
     "test": {
       "avatar": "https://ui-avatars.com/api/?name=test&background=667eea&color=fff&size=128",
-      "checkins": 31,
+      "checkins": 32,
       "items": [
         {
           "name": "Gnomish Compass [Uncommon]",
@@ -1919,7 +1919,7 @@
         },
         {
           "name": "Cursed Mirror Shard [Uncommon]",
-          "count": 1,
+          "count": 2,
           "flavor_text": "Once per day, shows you what an object was used for last. Side effect: you learn things you cannot unlearn."
         },
         {
@@ -1941,7 +1941,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-24T14:16:26.291714",
+    "last_updated": "2026-01-24T14:21:00.883429",
     "total_users": 72,
     "version": "1.0"
   }
