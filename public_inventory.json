@@ -1715,7 +1715,7 @@
     },
     "XoneAsagi": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/xoneasagi-profile_image-b362d2a9055d6433-300x300.png",
-      "checkins": 2,
+      "checkins": 3,
       "items": [
         {
           "name": "Speed Boots [Uncommon]_shiny",
@@ -1726,6 +1726,11 @@
           "name": "Potion of Almost Invisibility [Uncommon]",
           "count": 1,
           "flavor_text": "Makes you mostly transparent... but only your butt."
+        },
+        {
+          "name": "Cracked Goblin Tooth [Common]",
+          "count": 1,
+          "flavor_text": "You could throw it away. You won\u2019t. That\u2019s who you are now."
         }
       ],
       "achievements": [
@@ -1985,7 +1990,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-24T18:24:54.996797",
+    "last_updated": "2026-01-24T18:26:11.208596",
     "total_users": 74,
     "version": "1.0"
   }
