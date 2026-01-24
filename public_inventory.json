@@ -782,7 +782,7 @@
     },
     "dragonwolf_1984": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/692719b1-2b10-47db-9dd6-bdcbe072b63e-profile_image-300x300.png",
-      "checkins": 5,
+      "checkins": 6,
       "items": [
         {
           "name": "Speed Boots [Uncommon]",
@@ -808,6 +808,11 @@
           "name": "Sock of Slight Warmth [Common]",
           "count": 1,
           "flavor_text": "Sometimes whispers: \u201cwe could be slippers,\u201d and then sighs."
+        },
+        {
+          "name": "Mystic Blade [Rare]",
+          "count": 1,
+          "flavor_text": "Gleams heroically even in total darkness. Show-off."
         }
       ],
       "achievements": [
@@ -2011,7 +2016,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-24T20:22:22.609161",
+    "last_updated": "2026-01-24T21:11:45.028359",
     "total_users": 74,
     "version": "1.0"
   }
