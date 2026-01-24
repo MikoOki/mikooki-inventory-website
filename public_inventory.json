@@ -910,7 +910,7 @@
     },
     "huffletruffle19": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/6c4c36f2-0a19-4ff4-b6b0-281662e84374-profile_image-300x300.png",
-      "checkins": 18,
+      "checkins": 19,
       "items": [
         {
           "name": "Iron Shield [Uncommon]_shiny",
@@ -919,7 +919,7 @@
         },
         {
           "name": "Healing Potion [Common]",
-          "count": 1,
+          "count": 2,
           "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
         },
         {
@@ -2006,7 +2006,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-24T20:14:40.166761",
+    "last_updated": "2026-01-24T20:21:41.982201",
     "total_users": 74,
     "version": "1.0"
   }
