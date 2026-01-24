@@ -296,7 +296,7 @@
     },
     "atlas_cassidy": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3b2b513f-4e00-4044-9095-55edc9417df7-profile_image-300x300.png",
-      "checkins": 6,
+      "checkins": 7,
       "items": [
         {
           "name": "Healing Potion [Common]",
@@ -320,7 +320,7 @@
         },
         {
           "name": "Cape of Dramatic Wind [Rare]",
-          "count": 1,
+          "count": 2,
           "flavor_text": "Blows even indoors. Great for exits."
         }
       ],
@@ -2006,7 +2006,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-24T19:53:26.577549",
+    "last_updated": "2026-01-24T20:14:40.166761",
     "total_users": 74,
     "version": "1.0"
   }
