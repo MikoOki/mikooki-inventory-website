@@ -373,9 +373,9 @@
         }
       ]
     },
-    "boyefran": {
+    "Boyefran": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/afb219cc-8047-400e-be50-bb024c23e6b6-profile_image-300x300.png",
-      "checkins": 23,
+      "checkins": 24,
       "items": [
         {
           "name": "Healing Potion [Common]",
@@ -456,6 +456,11 @@
           "name": "Gnomish Compass [Uncommon]_shiny",
           "count": 1,
           "flavor_text": "Points toward the nearest pub. Always."
+        },
+        {
+          "name": "Iron Shield [Uncommon]",
+          "count": 1,
+          "flavor_text": "Has seen battle. Has also seen you trip over it."
         }
       ],
       "achievements": [
@@ -1956,7 +1961,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-24T14:29:51.783624",
+    "last_updated": "2026-01-24T18:20:28.922742",
     "total_users": 72,
     "version": "1.0"
   }
