@@ -1381,43 +1381,6 @@
         }
       ]
     },
-    "partysquadz": {
-      "avatar": "https://ui-avatars.com/api/?name=partysquadz&background=667eea&color=fff&size=128",
-      "checkins": 7,
-      "items": [
-        {
-          "name": "Healing Potion [Common]",
-          "count": 1,
-          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
-        },
-        {
-          "name": "Wooden Sword [Common]",
-          "count": 1,
-          "flavor_text": "Warning: may summon memories of being eight years old and unstoppable."
-        },
-        {
-          "name": "Rusty Spoon of Minor Stirring [Common]",
-          "count": 2,
-          "flavor_text": "Sometimes it stirs on its own. Don\u2019t acknowledge it. It likes attention."
-        },
-        {
-          "name": "Pocket Sand [Common]",
-          "count": 1,
-          "flavor_text": "Coarse, irritating, and gets everywhere."
-        },
-        {
-          "name": "Pocket Lint [Common]",
-          "count": 1,
-          "flavor_text": "\u201cPocket Sand\u2019s\" disappointing cousin."
-        }
-      ],
-      "achievements": [
-        {
-          "title": "Subathon Birthday '25_event",
-          "description": "Achievement: Subathon Birthday 2025"
-        }
-      ]
-    },
     "rocketteer1": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c389f765-8b7f-4b57-b0c4-66f4b792d75c-profile_image-300x300.jpeg",
       "checkins": 11,
@@ -2014,22 +1977,47 @@
       ],
       "achievements": []
     },
-    "ThomskiLive": {
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5fd973b1-355f-486d-b11c-241f16550110-profile_image-300x300.png",
-      "checkins": 1,
+    "thomskilive": {
+      "avatar": "https://ui-avatars.com/api/?name=thomskilive&background=667eea&color=fff&size=128",
+      "checkins": 8,
       "items": [
         {
           "name": "Pocket Lint [Common]",
-          "count": 1,
+          "count": 2,
           "flavor_text": "\u201cPocket Sand\u2019s\" disappointing cousin."
+        },
+        {
+          "name": "Healing Potion [Common]",
+          "count": 1,
+          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
+        },
+        {
+          "name": "Wooden Sword [Common]",
+          "count": 1,
+          "flavor_text": "Warning: may summon memories of being eight years old and unstoppable."
+        },
+        {
+          "name": "Rusty Spoon of Minor Stirring [Common]",
+          "count": 2,
+          "flavor_text": "Sometimes it stirs on its own. Don\u2019t acknowledge it. It likes attention."
+        },
+        {
+          "name": "Pocket Sand [Common]",
+          "count": 1,
+          "flavor_text": "Coarse, irritating, and gets everywhere."
         }
       ],
-      "achievements": []
+      "achievements": [
+        {
+          "title": "Subathon Birthday '25_event",
+          "description": "Achievement: Subathon Birthday 2025"
+        }
+      ]
     }
   },
   "metadata": {
-    "last_updated": "2026-01-24T21:44:37.451699",
-    "total_users": 75,
+    "last_updated": "2026-01-24T22:02:26.447445",
+    "total_users": 74,
     "version": "1.0"
   }
 }
