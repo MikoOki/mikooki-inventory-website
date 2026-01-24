@@ -840,11 +840,11 @@
     },
     "Elvout01": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/86eca654-6096-4204-b59f-329c37b91f80-profile_image-300x300.png",
-      "checkins": 4,
+      "checkins": 5,
       "items": [
         {
           "name": "Wooden Sword [Common]",
-          "count": 2,
+          "count": 3,
           "flavor_text": "Warning: may summon memories of being eight years old and unstoppable."
         },
         {
@@ -2001,7 +2001,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-24T19:29:17.278866",
+    "last_updated": "2026-01-24T19:29:29.194943",
     "total_users": 74,
     "version": "1.0"
   }
