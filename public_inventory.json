@@ -1958,11 +1958,23 @@
           "description": "Achievement: Seasoned Explorer"
         }
       ]
+    },
+    "Jubberwork": {
+      "avatar": "https://ui-avatars.com/api/?name=jubberwork&background=667eea&color=fff&size=128",
+      "checkins": 1,
+      "items": [
+        {
+          "name": "Mystic Blade [Rare]",
+          "count": 1,
+          "flavor_text": "Gleams heroically even in total darkness. Show-off."
+        }
+      ],
+      "achievements": []
     }
   },
   "metadata": {
-    "last_updated": "2026-01-24T18:20:28.922742",
-    "total_users": 72,
+    "last_updated": "2026-01-24T18:24:44.527189",
+    "total_users": 73,
     "version": "1.0"
   }
 }
