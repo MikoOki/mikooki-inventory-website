@@ -1855,7 +1855,7 @@
     },
     "test": {
       "avatar": "https://ui-avatars.com/api/?name=test&background=667eea&color=fff&size=128",
-      "checkins": 21,
+      "checkins": 22,
       "items": [
         {
           "name": "Gnomish Compass [Uncommon]",
@@ -1906,6 +1906,11 @@
           "name": "Spectacles of Overthinking [Rare]",
           "count": 1,
           "flavor_text": "See all possible outcomes. Panic accordingly."
+        },
+        {
+          "name": "Potion of Almost Invisibility [Uncommon]",
+          "count": 1,
+          "flavor_text": "Makes you mostly transparent... but only your butt."
         }
       ],
       "achievements": [
@@ -1921,7 +1926,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-24T14:09:12.922214",
+    "last_updated": "2026-01-24T14:09:22.860424",
     "total_users": 72,
     "version": "1.0"
   }
