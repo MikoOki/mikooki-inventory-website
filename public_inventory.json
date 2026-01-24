@@ -1855,7 +1855,7 @@
     },
     "test": {
       "avatar": "https://ui-avatars.com/api/?name=test&background=667eea&color=fff&size=128",
-      "checkins": 18,
+      "checkins": 19,
       "items": [
         {
           "name": "Gnomish Compass [Uncommon]",
@@ -1901,6 +1901,11 @@
           "name": "Bag of Holding... Grudges [Uncommon]",
           "count": 1,
           "flavor_text": "Once per day: produces exactly the right tool. Also produces a petty remark in your own handwriting."
+        },
+        {
+          "name": "Spectacles of Overthinking [Rare]",
+          "count": 1,
+          "flavor_text": "See all possible outcomes. Panic accordingly."
         }
       ],
       "achievements": [
@@ -1916,7 +1921,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-24T14:08:44.861460",
+    "last_updated": "2026-01-24T14:08:54.060836",
     "total_users": 72,
     "version": "1.0"
   }
