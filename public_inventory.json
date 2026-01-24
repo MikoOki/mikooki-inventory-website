@@ -1855,7 +1855,7 @@
     },
     "test": {
       "avatar": "https://ui-avatars.com/api/?name=test&background=667eea&color=fff&size=128",
-      "checkins": 7,
+      "checkins": 8,
       "items": [
         {
           "name": "Gnomish Compass [Uncommon]",
@@ -1879,7 +1879,7 @@
         },
         {
           "name": "Sock of Slight Warmth [Common]",
-          "count": 1,
+          "count": 2,
           "flavor_text": "Sometimes whispers: \u201cwe could be slippers,\u201d and then sighs."
         },
         {
@@ -1892,7 +1892,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-24T14:01:00.573587",
+    "last_updated": "2026-01-24T14:03:10.730522",
     "total_users": 72,
     "version": "1.0"
   }
