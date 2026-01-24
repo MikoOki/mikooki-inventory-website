@@ -1855,7 +1855,7 @@
     },
     "test": {
       "avatar": "https://ui-avatars.com/api/?name=test&background=667eea&color=fff&size=128",
-      "checkins": 2,
+      "checkins": 3,
       "items": [
         {
           "name": "Gnomish Compass [Uncommon]",
@@ -1864,7 +1864,7 @@
         },
         {
           "name": "Healing Potion [Common]",
-          "count": 1,
+          "count": 2,
           "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
         }
       ],
@@ -1872,7 +1872,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-24T13:56:22.447164",
+    "last_updated": "2026-01-24T13:56:32.001675",
     "total_users": 72,
     "version": "1.0"
   }
