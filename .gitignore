@@ -1,0 +1,4 @@
+# Secrets and sensitive configs
+**/printer_config.json
+modules/receipt_printer/printer_config.json
+modules/receipt_printer/print_history.json

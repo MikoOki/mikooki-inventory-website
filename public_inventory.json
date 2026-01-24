@@ -1135,7 +1135,7 @@
     },
     "kaerfnomekop": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/05f588c6-5be7-4a2b-9ffd-2e534c341eb5-profile_image-300x300.jpeg",
-      "checkins": 12,
+      "checkins": 13,
       "items": [
         {
           "name": "Iron Shield [Uncommon]_shiny",
@@ -1181,6 +1181,11 @@
           "name": "Cape of Dramatic Wind [Rare]",
           "count": 1,
           "flavor_text": "Blows even indoors. Great for exits."
+        },
+        {
+          "name": "Pocket Lint [Common]",
+          "count": 1,
+          "flavor_text": "\u201cPocket Sand\u2019s\" disappointing cousin."
         }
       ],
       "achievements": [
@@ -1996,7 +2001,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-24T18:31:40.381827",
+    "last_updated": "2026-01-24T19:29:17.278866",
     "total_users": 74,
     "version": "1.0"
   }
