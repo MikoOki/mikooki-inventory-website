@@ -1855,19 +1855,24 @@
     },
     "test": {
       "avatar": "https://ui-avatars.com/api/?name=test&background=667eea&color=fff&size=128",
-      "checkins": 1,
+      "checkins": 2,
       "items": [
         {
           "name": "Gnomish Compass [Uncommon]",
           "count": 1,
           "flavor_text": "Points toward the nearest pub. Always."
+        },
+        {
+          "name": "Healing Potion [Common]",
+          "count": 1,
+          "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
         }
       ],
       "achievements": []
     }
   },
   "metadata": {
-    "last_updated": "2026-01-24T13:55:32.301735",
+    "last_updated": "2026-01-24T13:56:22.447164",
     "total_users": 72,
     "version": "1.0"
   }
