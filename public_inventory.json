@@ -1603,10 +1603,16 @@
       ],
       "achievements": []
     },
-    "thepandanico": {
+    "ThePandaNico": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/da2b9908-f448-412f-94b4-c16506ee717c-profile_image-300x300.png",
-      "checkins": 1,
-      "items": [],
+      "checkins": 2,
+      "items": [
+        {
+          "name": "Pocket Sand [Common]",
+          "count": 1,
+          "flavor_text": "Coarse, irritating, and gets everywhere."
+        }
+      ],
       "achievements": [
         {
           "title": "Subathon Birthday '25_event",
@@ -1990,7 +1996,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-24T18:26:11.208596",
+    "last_updated": "2026-01-24T18:31:40.381827",
     "total_users": 74,
     "version": "1.0"
   }
