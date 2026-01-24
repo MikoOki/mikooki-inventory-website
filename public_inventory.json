@@ -1828,10 +1828,15 @@
     },
     "ziggyzaster": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e0401b85-db58-496f-8f91-9259f8736865-profile_image-300x300.png",
-      "checkins": 1,
+      "checkins": 2,
       "items": [
         {
           "name": "Sock of Slight Warmth [Common]_shiny",
+          "count": 1,
+          "flavor_text": "Sometimes whispers: \u201cwe could be slippers,\u201d and then sighs."
+        },
+        {
+          "name": "Sock of Slight Warmth [Common]",
           "count": 1,
           "flavor_text": "Sometimes whispers: \u201cwe could be slippers,\u201d and then sighs."
         }
@@ -2001,7 +2006,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-24T19:29:29.194943",
+    "last_updated": "2026-01-24T19:53:26.577549",
     "total_users": 74,
     "version": "1.0"
   }
