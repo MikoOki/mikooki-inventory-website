@@ -1855,7 +1855,7 @@
     },
     "test": {
       "avatar": "https://ui-avatars.com/api/?name=test&background=667eea&color=fff&size=128",
-      "checkins": 25,
+      "checkins": 30,
       "items": [
         {
           "name": "Gnomish Compass [Uncommon]",
@@ -1874,12 +1874,12 @@
         },
         {
           "name": "Speed Boots [Uncommon]",
-          "count": 1,
+          "count": 2,
           "flavor_text": "Only activates when your arms are doing the little angry swings."
         },
         {
           "name": "Sock of Slight Warmth [Common]",
-          "count": 4,
+          "count": 6,
           "flavor_text": "Sometimes whispers: \u201cwe could be slippers,\u201d and then sighs."
         },
         {
@@ -1894,7 +1894,7 @@
         },
         {
           "name": "Rusty Spoon of Minor Stirring [Common]",
-          "count": 2,
+          "count": 3,
           "flavor_text": "Sometimes it stirs on its own. Don\u2019t acknowledge it. It likes attention."
         },
         {
@@ -1916,6 +1916,11 @@
           "name": "Iron Shield [Uncommon]",
           "count": 1,
           "flavor_text": "Has seen battle. Has also seen you trip over it."
+        },
+        {
+          "name": "Cursed Mirror Shard [Uncommon]",
+          "count": 1,
+          "flavor_text": "Once per day, shows you what an object was used for last. Side effect: you learn things you cannot unlearn."
         }
       ],
       "achievements": [
@@ -1931,7 +1936,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-24T14:14:17.179795",
+    "last_updated": "2026-01-24T14:16:08.118128",
     "total_users": 72,
     "version": "1.0"
   }
