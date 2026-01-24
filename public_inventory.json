@@ -1855,7 +1855,7 @@
     },
     "test": {
       "avatar": "https://ui-avatars.com/api/?name=test&background=667eea&color=fff&size=128",
-      "checkins": 24,
+      "checkins": 25,
       "items": [
         {
           "name": "Gnomish Compass [Uncommon]",
@@ -1911,6 +1911,11 @@
           "name": "Potion of Almost Invisibility [Uncommon]",
           "count": 1,
           "flavor_text": "Makes you mostly transparent... but only your butt."
+        },
+        {
+          "name": "Iron Shield [Uncommon]",
+          "count": 1,
+          "flavor_text": "Has seen battle. Has also seen you trip over it."
         }
       ],
       "achievements": [
@@ -1926,7 +1931,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-24T14:14:11.958757",
+    "last_updated": "2026-01-24T14:14:17.179795",
     "total_users": 72,
     "version": "1.0"
   }
