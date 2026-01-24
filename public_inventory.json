@@ -1855,7 +1855,7 @@
     },
     "test": {
       "avatar": "https://ui-avatars.com/api/?name=test&background=667eea&color=fff&size=128",
-      "checkins": 6,
+      "checkins": 7,
       "items": [
         {
           "name": "Gnomish Compass [Uncommon]",
@@ -1881,13 +1881,18 @@
           "name": "Sock of Slight Warmth [Common]",
           "count": 1,
           "flavor_text": "Sometimes whispers: \u201cwe could be slippers,\u201d and then sighs."
+        },
+        {
+          "name": "Pocket Lint [Common]",
+          "count": 1,
+          "flavor_text": "\u201cPocket Sand\u2019s\" disappointing cousin."
         }
       ],
       "achievements": []
     }
   },
   "metadata": {
-    "last_updated": "2026-01-24T14:00:51.691167",
+    "last_updated": "2026-01-24T14:01:00.573587",
     "total_users": 72,
     "version": "1.0"
   }
