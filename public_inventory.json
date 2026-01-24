@@ -1359,28 +1359,6 @@
         }
       ]
     },
-    "pandanicottv": {
-      "avatar": "https://ui-avatars.com/api/?name=pandanicottv&background=667eea&color=fff&size=128",
-      "checkins": 3,
-      "items": [
-        {
-          "name": "Rusty Spoon of Minor Stirring [Common]",
-          "count": 1,
-          "flavor_text": "Sometimes it stirs on its own. Don\u2019t acknowledge it. It likes attention."
-        },
-        {
-          "name": "Cursed Mirror Shard [Uncommon]",
-          "count": 1,
-          "flavor_text": "Once per day, shows you what an object was used for last. Side effect: you learn things you cannot unlearn."
-        }
-      ],
-      "achievements": [
-        {
-          "title": "5 Years_event",
-          "description": "Celebrating 5 years as an Affiliate on twitch!"
-        }
-      ]
-    },
     "rocketteer1": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c389f765-8b7f-4b57-b0c4-66f4b792d75c-profile_image-300x300.jpeg",
       "checkins": 11,
@@ -1583,15 +1561,29 @@
     },
     "ThePandaNico": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/da2b9908-f448-412f-94b4-c16506ee717c-profile_image-300x300.png",
-      "checkins": 2,
+      "checkins": 5,
       "items": [
         {
           "name": "Pocket Sand [Common]",
           "count": 1,
           "flavor_text": "Coarse, irritating, and gets everywhere."
+        },
+        {
+          "name": "Rusty Spoon of Minor Stirring [Common]",
+          "count": 1,
+          "flavor_text": "Sometimes it stirs on its own. Don\u2019t acknowledge it. It likes attention."
+        },
+        {
+          "name": "Cursed Mirror Shard [Uncommon]",
+          "count": 1,
+          "flavor_text": "Once per day, shows you what an object was used for last. Side effect: you learn things you cannot unlearn."
         }
       ],
       "achievements": [
+        {
+          "title": "5 Years_event",
+          "description": "Celebrating 5 years as an Affiliate on twitch!"
+        },
         {
           "title": "Subathon Birthday '25_event",
           "description": "Achievement: Subathon Birthday 2025"
@@ -2016,8 +2008,8 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-24T22:02:26.447445",
-    "total_users": 74,
+    "last_updated": "2026-01-24T22:09:41.748260",
+    "total_users": 73,
     "version": "1.0"
   }
 }
