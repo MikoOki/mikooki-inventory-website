@@ -1855,7 +1855,7 @@
     },
     "test": {
       "avatar": "https://ui-avatars.com/api/?name=test&background=667eea&color=fff&size=128",
-      "checkins": 48,
+      "checkins": 49,
       "items": [
         {
           "name": "Gnomish Compass [Uncommon]",
@@ -1936,6 +1936,11 @@
           "name": "Phoenix Feather [Epic]",
           "count": 1,
           "flavor_text": "Cures poison. Side effect: your burps taste like smoke."
+        },
+        {
+          "name": "Amulet of Time [Epic]",
+          "count": 1,
+          "flavor_text": "Warning: may cause sudden flashbacks to things you \u201cdefinitely didn\u2019t say like that.\u201d"
         }
       ],
       "achievements": [
@@ -1951,7 +1956,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-24T14:27:09.707828",
+    "last_updated": "2026-01-24T14:27:20.648516",
     "total_users": 72,
     "version": "1.0"
   }
