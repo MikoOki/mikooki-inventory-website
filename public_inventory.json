@@ -1855,7 +1855,7 @@
     },
     "test": {
       "avatar": "https://ui-avatars.com/api/?name=test&background=667eea&color=fff&size=128",
-      "checkins": 5,
+      "checkins": 6,
       "items": [
         {
           "name": "Gnomish Compass [Uncommon]",
@@ -1876,13 +1876,18 @@
           "name": "Speed Boots [Uncommon]",
           "count": 1,
           "flavor_text": "Only activates when your arms are doing the little angry swings."
+        },
+        {
+          "name": "Sock of Slight Warmth [Common]",
+          "count": 1,
+          "flavor_text": "Sometimes whispers: \u201cwe could be slippers,\u201d and then sighs."
         }
       ],
       "achievements": []
     }
   },
   "metadata": {
-    "last_updated": "2026-01-24T13:59:23.919306",
+    "last_updated": "2026-01-24T14:00:51.691167",
     "total_users": 72,
     "version": "1.0"
   }
