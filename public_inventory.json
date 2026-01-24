@@ -1855,7 +1855,7 @@
     },
     "test": {
       "avatar": "https://ui-avatars.com/api/?name=test&background=667eea&color=fff&size=128",
-      "checkins": 11,
+      "checkins": 12,
       "items": [
         {
           "name": "Gnomish Compass [Uncommon]",
@@ -1886,6 +1886,11 @@
           "name": "Pocket Lint [Common]",
           "count": 3,
           "flavor_text": "\u201cPocket Sand\u2019s\" disappointing cousin."
+        },
+        {
+          "name": "Pocket Sand [Common]",
+          "count": 1,
+          "flavor_text": "Coarse, irritating, and gets everywhere."
         }
       ],
       "achievements": [
@@ -1901,7 +1906,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-24T14:06:12.820266",
+    "last_updated": "2026-01-24T14:07:55.390056",
     "total_users": 72,
     "version": "1.0"
   }
