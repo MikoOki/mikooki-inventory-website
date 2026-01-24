@@ -1855,7 +1855,7 @@
     },
     "test": {
       "avatar": "https://ui-avatars.com/api/?name=test&background=667eea&color=fff&size=128",
-      "checkins": 3,
+      "checkins": 4,
       "items": [
         {
           "name": "Gnomish Compass [Uncommon]",
@@ -1866,13 +1866,18 @@
           "name": "Healing Potion [Common]",
           "count": 2,
           "flavor_text": "Guaranteed to work. Not guaranteed to taste like anything remotely edible."
+        },
+        {
+          "name": "Cracked Goblin Tooth [Common]",
+          "count": 1,
+          "flavor_text": "You could throw it away. You won\u2019t. That\u2019s who you are now."
         }
       ],
       "achievements": []
     }
   },
   "metadata": {
-    "last_updated": "2026-01-24T13:56:32.001675",
+    "last_updated": "2026-01-24T13:56:41.471664",
     "total_users": 72,
     "version": "1.0"
   }
