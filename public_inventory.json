@@ -34,7 +34,7 @@
     },
     "Jubberwok": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e11d19fe-5bca-450d-9859-c32be07090d3-profile_image-300x300.png",
-      "checkins": 10,
+      "checkins": 11,
       "items": [
         {
           "name": "Healing Potion [Common]",
@@ -86,6 +86,10 @@
         {
           "title": "First Steps",
           "description": "Awarded on 10th check-in redeem."
+        },
+        {
+          "title": "Seasoned Explorer",
+          "description": "Achievement: Seasoned Explorer"
         }
       ]
     },
@@ -1949,7 +1953,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-02-20T21:49:07.379049",
+    "last_updated": "2026-02-20T21:51:27.060890",
     "total_users": 74,
     "version": "1.0"
   }
