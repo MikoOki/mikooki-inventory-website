@@ -91,7 +91,7 @@
     },
     "MikoOki": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8f84b2f-7a69-4e1d-853d-6ec5978e617f-profile_image-300x300.png",
-      "checkins": 37,
+      "checkins": 38,
       "items": [
         {
           "name": "Healing Potion [Common]",
@@ -125,7 +125,7 @@
         },
         {
           "name": "Wooden Sword [Common]",
-          "count": 5,
+          "count": 6,
           "flavor_text": "Warning: may summon memories of being eight years old and unstoppable."
         },
         {
@@ -1907,7 +1907,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-01-24T22:16:26.766660",
+    "last_updated": "2026-02-20T21:35:13.642467",
     "total_users": 72,
     "version": "1.0"
   }
