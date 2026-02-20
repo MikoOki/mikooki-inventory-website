@@ -1960,11 +1960,23 @@
         }
       ],
       "achievements": []
+    },
+    "rockysquid": {
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fdd9e50-5b5a-4731-a37c-e0155a5e94f8-profile_image-300x300.png",
+      "checkins": 1,
+      "items": [
+        {
+          "name": "Cape of Dramatic Wind [Rare]_shiny",
+          "count": 1,
+          "flavor_text": "Blows even indoors. Great for exits."
+        }
+      ],
+      "achievements": []
     }
   },
   "metadata": {
-    "last_updated": "2026-02-20T22:06:23.214994",
-    "total_users": 74,
+    "last_updated": "2026-02-20T23:50:00.500542",
+    "total_users": 75,
     "version": "1.0"
   }
 }
