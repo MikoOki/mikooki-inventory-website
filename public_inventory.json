@@ -826,9 +826,9 @@
         }
       ]
     },
-    "ebola_soup": {
+    "Ebola_soup": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cb672a-d6e1-41dd-a685-11d514bef4fd-profile_image-300x300.png",
-      "checkins": 2,
+      "checkins": 3,
       "items": [
         {
           "name": "Healing Potion [Common]",
@@ -839,6 +839,11 @@
           "name": "Pocket Sand [Common]",
           "count": 1,
           "flavor_text": "Coarse, irritating, and gets everywhere."
+        },
+        {
+          "name": "Cracked Goblin Tooth [Common]",
+          "count": 1,
+          "flavor_text": "You could throw it away. You won\u2019t. That\u2019s who you are now."
         }
       ],
       "achievements": [
@@ -1907,7 +1912,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-02-20T21:35:51.030147",
+    "last_updated": "2026-02-20T21:40:27.824976",
     "total_users": 72,
     "version": "1.0"
   }
