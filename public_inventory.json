@@ -872,7 +872,7 @@
     },
     "Elvout01": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/86eca654-6096-4204-b59f-329c37b91f80-profile_image-300x300.png",
-      "checkins": 5,
+      "checkins": 6,
       "items": [
         {
           "name": "Wooden Sword [Common]",
@@ -888,6 +888,11 @@
           "name": "Bag of Holding... Grudges [Uncommon]_shiny",
           "count": 1,
           "flavor_text": "Once per day: produces exactly the right tool. Also produces a petty remark in your own handwriting."
+        },
+        {
+          "name": "Mirror of Unexpected Encouragement [Epic]",
+          "count": 1,
+          "flavor_text": "Tells you you\u2019re doing great... even when you're not."
         }
       ],
       "achievements": [
@@ -1958,7 +1963,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-02-20T21:51:55.899108",
+    "last_updated": "2026-02-20T22:06:23.214994",
     "total_users": 74,
     "version": "1.0"
   }
