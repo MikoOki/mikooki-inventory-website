@@ -1909,11 +1909,23 @@
           "description": "Achievement: Subathon Birthday 2025"
         }
       ]
+    },
+    "Vexoi": {
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/489ae197-69d7-468d-aa50-5c5da46a5bf9-profile_image-300x300.png",
+      "checkins": 1,
+      "items": [
+        {
+          "name": "Pocket Sand [Common]",
+          "count": 1,
+          "flavor_text": "Coarse, irritating, and gets everywhere."
+        }
+      ],
+      "achievements": []
     }
   },
   "metadata": {
-    "last_updated": "2026-02-20T21:40:27.824976",
-    "total_users": 72,
+    "last_updated": "2026-02-20T21:41:18.740170",
+    "total_users": 73,
     "version": "1.0"
   }
 }
