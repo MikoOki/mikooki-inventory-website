@@ -2,7 +2,7 @@
   "users": {
     "DarkChazy": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/696dfb54-391f-4c70-86ee-a58b6f59a092-profile_image-300x300.png",
-      "checkins": 6,
+      "checkins": 7,
       "items": [
         {
           "name": "Iron Shield [Uncommon]_shiny",
@@ -28,6 +28,11 @@
           "name": "Sock of Slight Warmth [Common]_shiny",
           "count": 1,
           "flavor_text": "Sometimes whispers: \u201cwe could be slippers,\u201d and then sighs."
+        },
+        {
+          "name": "Wooden Sword [Common]",
+          "count": 1,
+          "flavor_text": "Warning: may summon memories of being eight years old and unstoppable."
         }
       ],
       "achievements": []
@@ -1953,7 +1958,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-02-20T21:51:27.060890",
+    "last_updated": "2026-02-20T21:51:55.899108",
     "total_users": 74,
     "version": "1.0"
   }
