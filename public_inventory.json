@@ -318,7 +318,7 @@
     },
     "atlas_cassidy": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3b2b513f-4e00-4044-9095-55edc9417df7-profile_image-300x300.png",
-      "checkins": 7,
+      "checkins": 8,
       "items": [
         {
           "name": "Healing Potion [Common]",
@@ -344,6 +344,11 @@
           "name": "Cape of Dramatic Wind [Rare]",
           "count": 2,
           "flavor_text": "Blows even indoors. Great for exits."
+        },
+        {
+          "name": "Cursed Mirror Shard [Uncommon]",
+          "count": 1,
+          "flavor_text": "Once per day, shows you what an object was used for last. Side effect: you learn things you cannot unlearn."
         }
       ],
       "achievements": []
@@ -1975,7 +1980,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-02-20T23:50:00.500542",
+    "last_updated": "2026-02-21T00:03:51.046307",
     "total_users": 75,
     "version": "1.0"
   }
