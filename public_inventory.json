@@ -952,7 +952,7 @@
     },
     "huffletruffle19": {
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/6c4c36f2-0a19-4ff4-b6b0-281662e84374-profile_image-300x300.png",
-      "checkins": 19,
+      "checkins": 20,
       "items": [
         {
           "name": "Iron Shield [Uncommon]_shiny",
@@ -1028,6 +1028,11 @@
           "name": "Cracked Goblin Tooth [Common]_shiny",
           "count": 1,
           "flavor_text": "You could throw it away. You won\u2019t. That\u2019s who you are now."
+        },
+        {
+          "name": "Iron Shield [Uncommon]",
+          "count": 1,
+          "flavor_text": "Has seen battle. Has also seen you trip over it."
         }
       ],
       "achievements": [
@@ -1943,7 +1948,7 @@
       ]
     },
     "Vexoi": {
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/489ae197-69d7-468d-aa50-5c5da46a5bf9-profile_image-300x300.png",
+      "avatar": "https://ui-avatars.com/api/?name=vexoi&background=667eea&color=fff&size=128",
       "checkins": 1,
       "items": [
         {
@@ -1955,7 +1960,7 @@
       "achievements": []
     },
     "marlingsghosts": {
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/2e41e167-ad18-419e-9786-0415aac879b1-profile_image-300x300.png",
+      "avatar": "https://ui-avatars.com/api/?name=marlingsghosts&background=667eea&color=fff&size=128",
       "checkins": 1,
       "items": [
         {
@@ -1967,7 +1972,7 @@
       "achievements": []
     },
     "rockysquid": {
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fdd9e50-5b5a-4731-a37c-e0155a5e94f8-profile_image-300x300.png",
+      "avatar": "https://ui-avatars.com/api/?name=rockysquid&background=667eea&color=fff&size=128",
       "checkins": 1,
       "items": [
         {
@@ -1980,7 +1985,7 @@
     }
   },
   "metadata": {
-    "last_updated": "2026-02-21T00:03:51.046307",
+    "last_updated": "2026-02-21T01:04:10.426922",
     "total_users": 75,
     "version": "1.0"
   }
